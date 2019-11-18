@@ -1,0 +1,44 @@
+body {
+    background-color: oldlace;
+}
+
+.pres-img {
+    width: 100%;
+}
+
+.jumbotron {
+    background-color: darkslategrey;
+    color: oldlace;
+}
+
+a {
+    color: oldlace;
+    font-weight: bold;
+}
+
+a:hover {
+    color: white;
+}
+
+.info-text {
+    color: darkslategrey;
+}
+
+#lbj-link {
+    color: darkslateblue;
+}
+
+iframe {
+    width: 100%;
+    height: 300px;
+}
+
+#lbj-header:hover {
+    transform: rotate(360deg);
+    transition-duration: 1s;
+}
+
+.btn {
+    background-color: oldlace;
+    color: darkslategrey;
+}
