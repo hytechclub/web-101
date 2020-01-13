@@ -1,4 +1,11 @@
 # Web 101: Week 6
-Introduction to HTML
+CSS Introduction
 
-<a href="Week01/HelloHtml.pptx" target="_blank">Hello HTML PowerPoint Presentation</a>
+## Reference
+- <a href="IntroductionToCss.pptx" target="_blank">Introduction to CSS PowerPoint Presentation</a>
+- [Bananas Follow-Along](BananasFollowAlong.md)
+
+## Activities
+- [Warm Up](WarmUp.md)
+- [Bananas Exercise](BananasIndividual.md)
+- [Style from Image Challenge](StyleFromImageChallenge.md)

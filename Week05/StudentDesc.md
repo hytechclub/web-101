@@ -1,4 +1,8 @@
 # Web 101: Week 5
-Introduction to HTML
+Dunder Mifflin Website Challenge
 
-<a href="Week01/HelloHtml.pptx" target="_blank">Hello HTML PowerPoint Presentation</a>
+## Reference
+- [HTML Cheatsheet](HtmlCheatsheet.md)
+
+## Activities
+- [Reverse Engineering Challenge](ReverseEngineeringChallenge.md)

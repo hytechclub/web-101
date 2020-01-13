@@ -1,4 +1,10 @@
 # Web 101: Week 8
-Introduction to HTML
+Responsive Design & Bootstrap
 
-<a href="Week01/HelloHtml.pptx" target="_blank">Hello HTML PowerPoint Presentation</a>
+## Reference
+- <a href="ResponsiveDesign.pptx" target="_blank">Responsive Design PowerPoint Presentation</a>
+- [Magazine Website Follow-Along](MagazineWebsiteFollowAlong.md)
+
+## Activities
+- [Magazine Website Exercise](MagazineWebsiteIndividual.md)
+- [More Bootstrap Challenge](MoreBootstrapChallenge.md)

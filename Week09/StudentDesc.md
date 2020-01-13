@@ -1,4 +1,10 @@
 # Web 101: Week 9
-Introduction to HTML
+Transitions & Transforms
 
-<a href="Week01/HelloHtml.pptx" target="_blank">Hello HTML PowerPoint Presentation</a>
+## Reference
+- [Resources](Resources.md)
+- [Crustaceans Follow-Along](CrustaceansFollowAlong.md)
+
+## Activities
+- [Crustaceans Exercise](CrustaceansIndividual.md)
+- [Additional Challenges](AdditionalChallenges.md)

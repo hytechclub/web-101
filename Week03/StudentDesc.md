@@ -1,4 +1,10 @@
 # Web 101: Week 3
-More HTML Elements
+HTML Lists & Inputs
 
-<a href="Week01/MoreTags.pptx" target="_blank">More Tags PowerPoint Presentation</a>
+## Reference
+- <a href="MoreTags.pptx" target="_blank">More Tags PowerPoint Presentation</a>
+- [Pizza Website Follow-Along](PizzaWebsiteFollowAlong.md)
+
+## Activities
+- [Pizza Website Exercise](PizzaWebsiteIndividual.md)
+- [Movie Search Challenge](MovieSearchChallenge.md)

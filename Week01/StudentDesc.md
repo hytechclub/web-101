@@ -1,4 +1,5 @@
 # Web 101: Week 1
-Introduction to HTML
+HTML Introduction
 
-<a href="Week01/HelloHtml.pptx" target="_blank">Hello HTML PowerPoint Presentation</a>
+## Reference
+- <a href="HelloHtml.pptx" target="_blank">Hello HTML PowerPoint Presentation</a>
