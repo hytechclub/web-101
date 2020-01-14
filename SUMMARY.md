@@ -3,6 +3,8 @@ Welcome to the Web 101 Hy-Tech Club course!
 
 - [Week 1 - HTML Introduction](Week01/StudentDesc.md)
 - [Week 2 - HTML Headers, Paragraphs, Links, & Images](Week02/StudentDesc.md)
+    - [About Me Follow-Along](Week02/AboutMeFollowAlong.md)
+    - [About Me Individual](Week02/AboutMeIndividual.md)
 - [Week 3 - HTML Lists & Inputs](Week03/StudentDesc.md)
 - [Week 4 - HTML Tables & IFrames](Week04/StudentDesc.md)
 - [Week 5 - Reverse Engineering Challenge](Week05/StudentDesc.md)
