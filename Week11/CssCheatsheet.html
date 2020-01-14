@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>About Me Exercise · GitBook</title>
+        <title>CSS Cheatsheet · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -57,10 +57,8 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="MultipleHtmlFilesChallenge.html" />
     
-    
-    <link rel="prev" href="AboutMeFollowAlong.html" />
+    <link rel="prev" href="../Week05/HtmlCheatsheet.html" />
     
 
     </head>
@@ -115,9 +113,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3" data-path="StudentDesc.html">
+        <li class="chapter " data-level="1.3" data-path="../Week02/StudentDesc.html">
             
-                <a href="StudentDesc.html">
+                <a href="../Week02/StudentDesc.html">
             
                     
                     Week 2 - HTML Headers, Paragraphs, Links, & Images
@@ -129,9 +127,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.3.1" data-path="AboutMeFollowAlong.html">
+        <li class="chapter " data-level="1.3.1" data-path="../Week02/AboutMeFollowAlong.html">
             
-                <a href="AboutMeFollowAlong.html">
+                <a href="../Week02/AboutMeFollowAlong.html">
             
                     
                     About Me Follow-Along
@@ -142,9 +140,9 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.3.2" data-path="AboutMeIndividual.html">
+        <li class="chapter " data-level="1.3.2" data-path="../Week02/AboutMeIndividual.html">
             
-                <a href="AboutMeIndividual.html">
+                <a href="../Week02/AboutMeIndividual.html">
             
                     
                     About Me Exercise
@@ -155,9 +153,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.3" data-path="MultipleHtmlFilesChallenge.html">
+        <li class="chapter " data-level="1.3.3" data-path="../Week02/MultipleHtmlFilesChallenge.html">
             
-                <a href="MultipleHtmlFilesChallenge.html">
+                <a href="../Week02/MultipleHtmlFilesChallenge.html">
             
                     
                     Multiple Files Challenge
@@ -605,9 +603,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.12" data-path="../Week11/StudentDesc.html">
+        <li class="chapter " data-level="1.12" data-path="StudentDesc.html">
             
-                <a href="../Week11/StudentDesc.html">
+                <a href="StudentDesc.html">
             
                     
                     Final Project
@@ -619,9 +617,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.12.1" data-path="../Week11/FinalProject.html">
+        <li class="chapter " data-level="1.12.1" data-path="FinalProject.html">
             
-                <a href="../Week11/FinalProject.html">
+                <a href="FinalProject.html">
             
                     
                     Project Description
@@ -632,9 +630,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.12.2" data-path="../Week11/ProjectIdeas.html">
+        <li class="chapter " data-level="1.12.2" data-path="ProjectIdeas.html">
             
-                <a href="../Week11/ProjectIdeas.html">
+                <a href="ProjectIdeas.html">
             
                     
                     Project Ideas
@@ -663,9 +661,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.14" data-path="../Week11/CssCheatsheet.html">
+        <li class="chapter active" data-level="1.14" data-path="CssCheatsheet.html">
             
-                <a href="../Week11/CssCheatsheet.html">
+                <a href="CssCheatsheet.html">
             
                     
                     CSS Cheatsheet
@@ -706,7 +704,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >About Me Exercise</a>
+        <a href=".." >CSS Cheatsheet</a>
     </h1>
 </div>
 
@@ -721,21 +719,108 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="about-me-individual">About Me: Individual</h1>
-<p>Continue the development of your &quot;About Me&quot; webpage.</p>
-<h2 id="favorite-food">Favorite food</h2>
-<p>Create a new section on your webpage that will describe your favorite foods. You will need to provide information about at least two foods you enjoy. Under the &quot;Favorite Animal&quot; section, add another <code>h3</code> header that says &quot;Favorite Foods&quot;. Then, repeat the instructions below for two (or more) of your favorite foods.</p>
-<ol>
-<li>Add a smaller <code>h4</code> header with the name of your favorite food<ul>
-<li>Within the header, indicate the rank of this food (e.g., &quot;1. Rice&quot;)</li>
+                                <h1 id="css-cheatsheet">CSS Cheatsheet</h1>
+<h2 id="ruleset">Ruleset</h2>
+<p>A <strong>ruleset</strong> is how CSS applies styles to specific elements. To define a ruleset, use:</p>
+<ul>
+<li>A <em>selector</em></li>
+<li>Opening curly bracket (<code>{</code>)</li>
+<li>A set of <em>declarations</em></li>
+<li>Closing curly bracket (<code>}</code>)</li>
 </ul>
-</li>
-<li>Add an image of your favorite food in an <code>img</code> image tag</li>
-<li>Add a brief description of your favorite food within a <code>p</code> paragraph</li>
-<li>Add a link (<code>a</code> anchor tag) to the website of a restaurant where you can purchase your favorite food</li>
-</ol>
-<h2 id="additional-challenge">Additional Challenge</h2>
-<p>For an additional challenge, instead of adding a link at the bottom of your food section, make the image itself a link!</p>
+<h4 id="example">Example</h4>
+<pre><code class="lang-css"><span class="hljs-selector-tag">p</span> {
+    <span class="hljs-attribute">color</span>: red;
+    <span class="hljs-attribute">font-size</span>: <span class="hljs-number">20px</span>;
+}
+</code></pre>
+<h2 id="declaration">Declaration</h2>
+<p>A <strong>declaration</strong> is a specific CSS <em>property</em> set to a property <em>value</em>. To define a declaration, use:</p>
+<ul>
+<li>Property name</li>
+<li>Colon (<code>:</code>)</li>
+<li>Propert value</li>
+<li>Semi-colon (<code>;</code>)</li>
+</ul>
+<h4 id="example">Example</h4>
+<pre><code class="lang-css"><span class="hljs-selector-tag">color</span>: <span class="hljs-selector-tag">red</span>;
+</code></pre>
+<h2 id="selector">Selector</h2>
+<p>A <strong>selector</strong> specifies which part of the HTML to style.</p>
+<h3 id="element-selector">Element selector</h3>
+<p>The <strong>element selector</strong> selects all elements of the given type. Use the tag type that appears in the HTML.</p>
+<h4 id="examples">Examples</h4>
+<pre><code class="lang-css"><span class="hljs-selector-tag">p</span> {
+    <span class="hljs-comment">/* styles all paragraphs */</span>
+}
+
+<span class="hljs-selector-tag">a</span> {
+    <span class="hljs-comment">/* styles all hyperlinks */</span>
+}
+</code></pre>
+<h3 id="id-selector">ID selector</h3>
+<p>The <strong>ID selector</strong> selects one specific HTML element based on its <code>id</code> attribute value. Use the hashtag (<code>#</code>) followed by the value of the <code>id</code> attribute for the element.</p>
+<h4 id="html">HTML</h4>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">h1</span> <span class="hljs-attr">id</span>=<span class="hljs-string">&quot;header1&quot;</span>&gt;</span>Header1<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
+</code></pre>
+<h4 id="css">CSS</h4>
+<pre><code class="lang-css"><span class="hljs-selector-id">#header1</span> {
+    <span class="hljs-comment">/* styles the specific h1 */</span>
+}
+</code></pre>
+<h3 id="class-selector">Class selector</h3>
+<p>The <strong>class selector</strong> selects HTML elements based on the value of their <code>class</code> attribute. Use the dot (<code>.</code>) followed by the value of the <code>class</code> attribute.</p>
+<h4 id="html">HTML</h4>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">h2</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;dark-mode&quot;</span>&gt;</span>Title<span class="hljs-tag">&lt;/<span class="hljs-name">h2</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;dark-mode&quot;</span>&gt;</span>Subtitle<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+</code></pre>
+<h4 id="css">CSS</h4>
+<pre><code class="lang-css"><span class="hljs-selector-class">.dark-mode</span> {
+    <span class="hljs-comment">/* styles the h2 and p and any other element with &quot;dark-mode&quot; as a class */</span>
+}
+</code></pre>
+<h3 id="pseudo-class">Pseudo-class</h3>
+<p>A <strong>pseudo-class</strong> selects an HTML element in a particular state. Use a normal selector, followed by a colon (<code>:</code>) and the name of the pseudo-class.</p>
+<h4 id="example">Example</h4>
+<pre><code class="lang-css"><span class="hljs-selector-tag">p</span><span class="hljs-selector-pseudo">:hover</span> {
+    <span class="hljs-comment">/* selects all paragraphs when the user hovers over them */</span>
+}
+</code></pre>
+<h2 id="propertyvalue">Property/Value</h2>
+<p>A <strong>property</strong> is an identifier that defines which feature to style. A <strong>value</strong> describes the specific style for the property. Refer to 
+Refer to <a href="https://htmldog.com/references/css/properties/" target="_blank">https://htmldog.com/references/css/properties/</a> to see a complete list of available properties.</p>
+<h3 id="examples">Examples</h3>
+<pre><code class="lang-css">* {
+    <span class="hljs-attribute">background-color</span>: black; <span class="hljs-comment">/* changes the background color */</span>
+    <span class="hljs-attribute">border</span>: <span class="hljs-number">1px</span> solid red; <span class="hljs-comment">/* adds a solid red border with 1px width */</span>
+    <span class="hljs-attribute">box-shadow</span>: -<span class="hljs-number">2px</span> <span class="hljs-number">2px</span> <span class="hljs-number">5px</span> black; <span class="hljs-comment">/* adds a black shadow with 5px blur, 2px to the left and 2px down */</span>
+    <span class="hljs-attribute">cursor</span>: pointer; <span class="hljs-comment">/* makes the cursor into a hand */</span>
+    <span class="hljs-attribute">font-family</span>: cursive; <span class="hljs-comment">/* sets the font to comic sans */</span>
+    <span class="hljs-attribute">font-size</span>: <span class="hljs-number">20px</span>; <span class="hljs-comment">/* sets the size of the text to 20px */</span>
+    <span class="hljs-attribute">height</span>: <span class="hljs-number">500px</span>; <span class="hljs-comment">/* sets the height to 500px */</span>
+    <span class="hljs-attribute">width</span>: <span class="hljs-number">500px</span>; <span class="hljs-comment">/* sets the width to 500px */</span>
+    <span class="hljs-attribute">transition</span>: color <span class="hljs-number">1s</span>; <span class="hljs-comment">/* specifies that when this element changes its color property, it will take one second */</span>
+    <span class="hljs-attribute">transform</span>: <span class="hljs-built_in">rotate</span>(90deg); <span class="hljs-comment">/* specifies that this element should rotate 90 degrees */</span>
+}
+</code></pre>
+<h2 id="bootstrap">Bootstrap</h2>
+<p><strong>Bootstrap</strong> is a CSS framework designed to make a webpage <em>responsive</em> out-of-the-box. This means it should look good on any device, so the elements automatically morph and shift based upon the viewer window.</p>
+<h3 id="bootstrap-link">Bootstrap link</h3>
+<p>Include the following <code>link</code> within the <code>&lt;head&gt;&lt;/head&gt;</code> element to import Bootstrap&apos;s CSS:</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">link</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css&quot;</span> <span class="hljs-attr">rel</span>=<span class="hljs-string">&quot;stylesheet&quot;</span>&gt;</span>
+</code></pre>
+<h3 id="bootstrap-classes">Bootstrap classes</h3>
+<p>Bootstrap CSS comes with many built-in class rulesets. Add these to elements on an HTML page after importing the Bootstrap stylesheet and the styles will apply automatically.</p>
+<ul>
+<li><code>jumbotron</code>: creates a big banner header from a <code>div</code></li>
+<li><code>text-center</code>: centers text</li>
+<li><code>container</code>: adds space on the sides of a <code>div</code></li>
+<li><code>row</code>: creates a grid row (usually used on a <code>div</code> within a &quot;container&quot;)</li>
+<li><code>col-md-*</code>: creates a grid column (used on <code>div</code>s within &quot;row&quot;s)</li>
+</ul>
+<h3 id="bootstrap-columns">Bootstrap columns</h3>
+<p>When creating columns within a Bootstrap row, there are 12 total units for width. These 12 units are distributed equally throughout the width of the row. A column can take up any number of these 12 units, but all columns in the row should add up to 12 total units. To set the width on a Bootstrap column within a row, add a <code>class</code> of <code>col-md-*</code>, replacing &quot;*&quot; with the number (1-12) of single columns for the width.</p>
+<p><img src="https://i.imgur.com/vtpTOB5.png" alt="Bootstrap columns"></p>
 
                                 
                                 </section>
@@ -763,14 +848,10 @@
 
             
                 
-                <a href="AboutMeFollowAlong.html" class="navigation navigation-prev " aria-label="Previous page: About Me Follow-Along">
+                <a href="../Week05/HtmlCheatsheet.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page: HTML Cheatsheet">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
-                
-                <a href="MultipleHtmlFilesChallenge.html" class="navigation navigation-next " aria-label="Next page: Multiple Files Challenge">
-                    <i class="fa fa-angle-right"></i>
-                </a>
                 
             
         
@@ -779,7 +860,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"About Me Exercise","level":"1.3.2","depth":2,"next":{"title":"Multiple Files Challenge","level":"1.3.3","depth":2,"path":"Week02/MultipleHtmlFilesChallenge.md","ref":"Week02/MultipleHtmlFilesChallenge.md","articles":[]},"previous":{"title":"About Me Follow-Along","level":"1.3.1","depth":2,"path":"Week02/AboutMeFollowAlong.md","ref":"Week02/AboutMeFollowAlong.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week02/AboutMeIndividual.md","mtime":"2020-01-14T13:58:21.740Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-01-14T13:58:59.061Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"CSS Cheatsheet","level":"1.14","depth":1,"previous":{"title":"HTML Cheatsheet","level":"1.13","depth":1,"path":"Week05/HtmlCheatsheet.md","ref":"Week05/HtmlCheatsheet.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week11/CssCheatsheet.md","mtime":"2020-01-14T13:58:21.744Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-01-14T13:58:59.061Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
