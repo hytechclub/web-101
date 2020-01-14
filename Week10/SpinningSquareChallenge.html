@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Week 7 - HTML Divs & Spans, CSS Selectors · GitBook</title>
+        <title>Spinning Square Challenge · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -57,10 +57,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="PixelsFollowAlong.html" />
+    <link rel="next" href="../Week11/StudentDesc.html" />
     
     
-    <link rel="prev" href="../Week06/StyleFromImageChallenge.html" />
+    <link rel="prev" href="AnimationFollowAlong.html" />
     
 
     </head>
@@ -373,9 +373,9 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.8" data-path="StudentDesc.html">
+        <li class="chapter " data-level="1.8" data-path="../Week07/StudentDesc.html">
             
-                <a href="StudentDesc.html">
+                <a href="../Week07/StudentDesc.html">
             
                     
                     Week 7 - HTML Divs & Spans, CSS Selectors
@@ -387,9 +387,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.8.1" data-path="PixelsFollowAlong.html">
+        <li class="chapter " data-level="1.8.1" data-path="../Week07/PixelsFollowAlong.html">
             
-                <a href="PixelsFollowAlong.html">
+                <a href="../Week07/PixelsFollowAlong.html">
             
                     
                     Pixels Follow-Along
@@ -400,9 +400,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.8.2" data-path="PixelsIndividual.html">
+        <li class="chapter " data-level="1.8.2" data-path="../Week07/PixelsIndividual.html">
             
-                <a href="PixelsIndividual.html">
+                <a href="../Week07/PixelsIndividual.html">
             
                     
                     Pixels Exercise
@@ -413,9 +413,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.8.3" data-path="AdditionalChallenges.html">
+        <li class="chapter " data-level="1.8.3" data-path="../Week07/AdditionalChallenges.html">
             
-                <a href="AdditionalChallenges.html">
+                <a href="../Week07/AdditionalChallenges.html">
             
                     
                     Additional Challenges
@@ -560,9 +560,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.11" data-path="../Week10/StudentDesc.html">
+        <li class="chapter " data-level="1.11" data-path="StudentDesc.html">
             
-                <a href="../Week10/StudentDesc.html">
+                <a href="StudentDesc.html">
             
                     
                     Week 10 - Practice
@@ -574,9 +574,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.11.1" data-path="../Week10/AnimationFollowAlong.html">
+        <li class="chapter " data-level="1.11.1" data-path="AnimationFollowAlong.html">
             
-                <a href="../Week10/AnimationFollowAlong.html">
+                <a href="AnimationFollowAlong.html">
             
                     
                     Animation Follow-Along
@@ -587,9 +587,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.11.2" data-path="../Week10/SpinningSquareChallenge.html">
+        <li class="chapter active" data-level="1.11.2" data-path="SpinningSquareChallenge.html">
             
-                <a href="../Week10/SpinningSquareChallenge.html">
+                <a href="SpinningSquareChallenge.html">
             
                     
                     Spinning Square Challenge
@@ -706,7 +706,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >Week 7 - HTML Divs & Spans, CSS Selectors</a>
+        <a href=".." >Spinning Square Challenge</a>
     </h1>
 </div>
 
@@ -721,19 +721,64 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="web-101-week-7">Web 101: Week 7</h1>
-<p>HTML Divs &amp; Spans, CSS Selectors</p>
-<h2 id="reference">Reference</h2>
+                                <h1 id="challenge-spinning-square-loading-indicator">Challenge: Spinning square loading indicator</h1>
+<p>Create an animation of a square rotating, and moving around a square path as it rotates. The animation should repeat infinitely on page load.</p>
+<h2 id="html">HTML</h2>
 <ul>
-<li><a href="MoreHtml.pptx" target="_blank">More HTML PowerPoint Presentation</a></li>
-<li><a href="MoreSelectors.pptx" target="_blank">More Selectors PowerPoint Presentation</a></li>
-<li><a href="PixelsFollowAlong.html">Pixels Follow-Along</a></li>
+<li>Add a <code>div</code> element to the HTML (make sure it has an <code>id</code>!)<ul>
+<li>This <code>div</code> will contain our square</li>
 </ul>
-<h2 id="activities">Activities</h2>
+</li>
+<li>Inside the <code>div</code>, add another <code>div</code> (make sure it has an <code>id</code>!)</li>
+<li>Give the <code>div</code> a height, width, and background-color<ul>
+<li>This <code>div</code> is our square</li>
+</ul>
+</li>
+</ul>
+<h2 id="rotation-animation">Rotation animation</h2>
+<p>First, we want to get the square to rotate inifinitely. To do this, we need to use <code>animation</code>!</p>
 <ul>
-<li><a href="PixelsIndividual.html">Pixels Exercise</a></li>
-<li><a href="AdditionalChallenges.html">Additional Challenges</a></li>
+<li>Create a new <code>@keyframes</code> called &quot;rotation&quot;<ul>
+<li>There should be two frames within this rule: <code>from</code> and <code>to</code></li>
+<li>For <code>from</code>, set the <code>transform</code> property to <code>rotate</code> 0 degrees</li>
+<li>For <code>to</code>, set the <code>transform</code> property to <code>rotate</code> 360 degrees (a full circle)</li>
 </ul>
+</li>
+<li>In the ruleset for the square <code>div</code>, set the <code>animation</code> property<ul>
+<li>It should take four seconds to rotate fully</li>
+<li>It should rotate infinitely</li>
+<li>It should animate in a linear fashion</li>
+<li>The animation should be &quot;rotation&quot;</li>
+</ul>
+</li>
+</ul>
+<p>Once that&apos;s all complete, your square should spin around forever!</p>
+<h2 id="moving-the-square">Moving the square</h2>
+<p>Now that we have the square rotating, we want to move it around the page in a square path.</p>
+<ul>
+<li>Create a new <code>@keyframes</code> called &quot;spin&quot;<ul>
+<li>There should be four frames within this rule: <code>0%</code>, <code>25%</code>, <code>50%</code>, and <code>75%</code></li>
+<li>Each frame should place the square in one corner using the <code>transform</code> property and the <code>translate</code> function</li>
+<li><code>0%</code>: (0, 0)</li>
+<li><code>25%</code>: (100, 0)</li>
+<li><code>50%</code>: (100, 100)</li>
+<li><code>75%</code>: (0, 100)</li>
+</ul>
+</li>
+<li>In the ruleset for the <code>div</code> that contains the square, set the <code>animation</code> property<ul>
+<li>It should take four seconds to complete one full spin</li>
+<li>It should keep orbiting infinitely</li>
+<li>It should animate in a linear fashion</li>
+<li>The animation should be &quot;spin&quot;</li>
+</ul>
+</li>
+</ul>
+<p>Now, your square should rotate AND spin around!</p>
+<h2 id="updates">Updates</h2>
+<p>Mess around with the values used by the animations. Make the square spin around in a different shape (e.g., triangle), change colors, or rotate differently. Try to make the most interesting loading indicator you can make!</p>
+<h2 id="more-animation-options">More animation options</h2>
+<p>Read this w3schools article about animations: <a href="https://www.w3schools.com/css/css3_animations.asp" target="_blank">https://www.w3schools.com/css/css3_animations.asp</a></p>
+<p>This article introduces some additional properties we can specify for animations. After reading the article, complete the exercises at the bottom.</p>
 
                                 
                                 </section>
@@ -761,12 +806,12 @@
 
             
                 
-                <a href="../Week06/StyleFromImageChallenge.html" class="navigation navigation-prev " aria-label="Previous page: Style from Image Challenge">
+                <a href="AnimationFollowAlong.html" class="navigation navigation-prev " aria-label="Previous page: Animation Follow-Along">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="PixelsFollowAlong.html" class="navigation navigation-next " aria-label="Next page: Pixels Follow-Along">
+                <a href="../Week11/StudentDesc.html" class="navigation navigation-next " aria-label="Next page: Final Project">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -777,7 +822,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Week 7 - HTML Divs & Spans, CSS Selectors","level":"1.8","depth":1,"next":{"title":"Pixels Follow-Along","level":"1.8.1","depth":2,"path":"Week07/PixelsFollowAlong.md","ref":"Week07/PixelsFollowAlong.md","articles":[]},"previous":{"title":"Style from Image Challenge","level":"1.7.4","depth":2,"path":"Week06/StyleFromImageChallenge.md","ref":"Week06/StyleFromImageChallenge.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"SUMMARY.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week07/StudentDesc.md","mtime":"2020-01-14T13:31:09.769Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-01-14T13:31:47.839Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Spinning Square Challenge","level":"1.11.2","depth":2,"next":{"title":"Final Project","level":"1.12","depth":1,"path":"Week11/StudentDesc.md","ref":"Week11/StudentDesc.md","articles":[{"title":"Project Description","level":"1.12.1","depth":2,"path":"Week11/FinalProject.md","ref":"Week11/FinalProject.md","articles":[]},{"title":"Project Ideas","level":"1.12.2","depth":2,"path":"Week11/ProjectIdeas.md","ref":"Week11/ProjectIdeas.md","articles":[]}]},"previous":{"title":"Animation Follow-Along","level":"1.11.1","depth":2,"path":"Week10/AnimationFollowAlong.md","ref":"Week10/AnimationFollowAlong.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"SUMMARY.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week10/SpinningSquareChallenge.md","mtime":"2020-01-14T13:31:09.769Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-01-14T13:31:47.839Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

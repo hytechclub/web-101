@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Week 6 - CSS Introduction · GitBook</title>
+        <title>Bananas Follow-Along · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -57,10 +57,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="WarmUp.html" />
+    <link rel="next" href="BananasIndividual.html" />
     
     
-    <link rel="prev" href="../Week05/ReverseEngineeringChallenge.html" />
+    <link rel="prev" href="WarmUp.html" />
     
 
     </head>
@@ -302,7 +302,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.7" data-path="StudentDesc.html">
+        <li class="chapter " data-level="1.7" data-path="StudentDesc.html">
             
                 <a href="StudentDesc.html">
             
@@ -329,7 +329,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.7.2" data-path="BananasFollowAlong.html">
+        <li class="chapter active" data-level="1.7.2" data-path="BananasFollowAlong.html">
             
                 <a href="BananasFollowAlong.html">
             
@@ -706,7 +706,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >Week 6 - CSS Introduction</a>
+        <a href=".." >Bananas Follow-Along</a>
     </h1>
 </div>
 
@@ -721,19 +721,224 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="web-101-week-6">Web 101: Week 6</h1>
-<p>CSS Introduction</p>
-<h2 id="reference">Reference</h2>
-<ul>
-<li><a href="IntroductionToCss.pptx" target="_blank">Introduction to CSS PowerPoint Presentation</a></li>
-<li><a href="BananasFollowAlong.html">Bananas Follow-Along</a></li>
+                                <h1 id="go-bananas-follow-along-activity">Go Bananas: Follow-Along Activity</h1>
+<p>Add some styling to a webpage advertising bananas.</p>
+<h2 id="background-information">Background Information</h2>
+<p>Watch this video for some background on the exercise: <a href="https://www.youtube.com/watch?v=MFmr_TZLpS0&amp;feature=youtu.be&amp;t=21" target="_blank">https://www.youtube.com/watch?v=MFmr_TZLpS0&amp;feature=youtu.be&amp;t=21</a></p>
+<h2 id="current-webpage">Current Webpage</h2>
+<p>So far, there is a simple webpage that has a lot of information about a banana:</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>Banana for sale<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
+
+        <span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://i.imgur.com/dVtm7pE.jpg&quot;</span>/&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://i.imgur.com/JKSyPgU.jpg&quot;</span>/&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://i.imgur.com/K6cj26K.jpg&quot;</span>/&gt;</span>
+
+        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>This lovely banana is just about to hit its prime ripeness. It will not disappoint you with all of its amazing features.<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+
+        <span class="hljs-tag">&lt;<span class="hljs-name">h2</span>&gt;</span>Features:<span class="hljs-tag">&lt;/<span class="hljs-name">h2</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">ul</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Protective peel surrounding inner fruit<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Decadent yellow color<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Distinct banana flavor<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Completely non-organic<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Attracts adorable monkeys<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-name">ul</span>&gt;</span>
+
+        <span class="hljs-tag">&lt;<span class="hljs-name">h2</span>&gt;</span>Specs:<span class="hljs-tag">&lt;/<span class="hljs-name">h2</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">table</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">tbody</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
+                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Dimensions:<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>12&quot; x 2&quot; x 2&quot;<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
+                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Weight:<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>3oz<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
+                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Processing Time:<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>4 days<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
+                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Ships From:<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Cancun, Mexico<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
+                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Returns:<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Accepted for 1 year<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
+            <span class="hljs-tag">&lt;/<span class="hljs-name">tbody</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-name">table</span>&gt;</span>
+
+        <span class="hljs-tag">&lt;<span class="hljs-name">h2</span>&gt;</span>Reviews:<span class="hljs-tag">&lt;/<span class="hljs-name">h2</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">h4</span>&gt;</span>Bob P.<span class="hljs-tag">&lt;/<span class="hljs-name">h4</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>I love this banana. It meant everything to me the day I recieved it.<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+
+        <span class="hljs-tag">&lt;<span class="hljs-name">h4</span>&gt;</span>Barb O.<span class="hljs-tag">&lt;/<span class="hljs-name">h4</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>Great seller, recieved my banana quickly and fully intact with no bruising. Five stars.<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+
+        <span class="hljs-tag">&lt;<span class="hljs-name">h4</span>&gt;</span>Bobby J.<span class="hljs-tag">&lt;/<span class="hljs-name">h4</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>This banana saved my marriage. Would buy again.<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+
+        <span class="hljs-tag">&lt;<span class="hljs-name">h2</span>&gt;</span>BUY NOW!<span class="hljs-tag">&lt;/<span class="hljs-name">h2</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>only <span class="hljs-tag">&lt;<span class="hljs-name">span</span>&gt;</span>$49.99<span class="hljs-tag">&lt;/<span class="hljs-name">span</span>&gt;</span> for a limited time!<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>Quantity: <span class="hljs-tag">&lt;<span class="hljs-name">input</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;text&quot;</span>/&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">button</span>&gt;</span>Add to Cart<span class="hljs-tag">&lt;/<span class="hljs-name">button</span>&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
+</code></pre>
+<p>All of the information is there, but the page doesn&apos;t really pop. It could use a little CSS!</p>
+<h2 id="adding-the-first-style">Adding the first style</h2>
+<p>Bananas are yellow (usually), so it would make sense to make the background of the page a nice yellow-ish color. This is possible with an external CSS stylesheet.</p>
+<h3 id="css-styles">CSS styles</h3>
+<ol>
+<li>Create a new CSS file (call it <code>Banana.css</code> and save it in the same folder as the HTML file)</li>
+<li>In the CSS file, to select the entire page, use the body selector (<code>body</code>)</li>
+<li>Use curly brackets (<code>{}</code>) to open the new block, also called a <strong>ruleset</strong></li>
+<li>Within the curly brackets, create a new <strong>declaration</strong> that sets the background color to yellow-ish<ul>
+<li>Start on a new line with the background property (<code>background</code>)</li>
+<li>Insert a colon (<code>:</code>)</li>
+<li>Provide the name of the yellow-ish color (<code>lightgoldenrodyellow</code>)</li>
+<li>End it with a semi-colon (<code>;</code>)</li>
 </ul>
-<h2 id="activities">Activities</h2>
-<ul>
-<li><a href="WarmUp.html">Warm Up</a></li>
-<li><a href="BananasIndividual.html">Bananas Exercise</a></li>
-<li><a href="StyleFromImageChallenge.html">Style from Image Challenge</a></li>
+</li>
+</ol>
+<h5 id="bananacss">Banana.css</h5>
+<pre><code class="lang-css"><span class="hljs-selector-tag">body</span> {
+    <span class="hljs-attribute">background</span>: lightgoldenrodyellow;
+}
+</code></pre>
+<p>That&apos;s all the CSS, but so far it&apos;s not actually linked to the HTML page! The HTML needs a <code>link</code> element pointing to the CSS file.</p>
+<h3 id="html-link">HTML link</h3>
+<ol>
+<li>In the <code>html</code> tag, above the <code>body</code>, create a new <code>head</code> element<ul>
+<li>The <code>head</code> should have an opening and closing tag, both above the <code>&lt;body&gt;</code></li>
 </ul>
+</li>
+<li>Between the opening and closing <code>head</code> tags, create a new <code>link</code> element</li>
+<li>Set the attributes of the <code>link</code> element as follows:<ul>
+<li><code>href</code>: Bananas.css</li>
+<li><code>type</code>: text/css</li>
+<li><code>rel</code>: stylesheet</li>
+</ul>
+</li>
+</ol>
+<p>Next, open the HTML file in a browser to see the change. The background of the page should appear yellow-ish!</p>
+<h2 id="adding-more-body-styles">Adding more <code>body</code> styles</h2>
+<p>Any <strong>declaration</strong> within the <code>body</code> <strong>ruleset</strong> will apply by default to any element on the webpage.</p>
+<ol>
+<li>Make the text color for the page a deep blue<ul>
+<li>Create a new declaration on its own line in the <code>body</code> ruleset</li>
+<li>Property: <code>color</code></li>
+<li>Value: <code>darkblue</code></li>
+</ul>
+</li>
+<li>Make the font for the page a nice sans-serif font<ul>
+<li>Create a new declaration on its own line in the <code>body</code> ruleset</li>
+<li>Property: <code>font-family</code></li>
+<li>Value: <code>Tahoma</code></li>
+</ul>
+</li>
+</ol>
+<h5 id="code">Code</h5>
+<pre><code class="lang-css"><span class="hljs-selector-tag">body</span> {
+    <span class="hljs-attribute">background</span>: lightgoldenrodyellow;
+    <span class="hljs-attribute">color</span>: darkblue;
+    <span class="hljs-attribute">font-family</span>: Tahoma;
+}
+</code></pre>
+<h2 id="styling-the-images">Styling the images</h2>
+<p>The images on the page are good, but they are a little too big. Use CSS to update their size.</p>
+<ol>
+<li>In the CSS file, create a new ruleset for images<ul>
+<li>Start on a new line under the <code>body</code> ruleset</li>
+<li>Create an image ruleset with <code>img</code> and opening/closing curly brackets (<code>{}</code>)</li>
+</ul>
+</li>
+<li>Within the <code>img</code> ruleset, add a declaration for height<ul>
+<li>Property: <code>height</code></li>
+<li>Value: <code>150px</code></li>
+</ul>
+</li>
+</ol>
+<h5 id="code">Code</h5>
+<pre><code class="lang-css"><span class="hljs-selector-tag">img</span> {
+    <span class="hljs-attribute">height</span>: <span class="hljs-number">150px</span>;
+}
+</code></pre>
+<h2 id="styling-the-main-header">Styling the main header</h2>
+<p>The top <code>h1</code> should have some special styling as the header for the whole page.</p>
+<ol>
+<li>In the CSS file, create a new ruleset for <code>h1</code></li>
+<li>In the <code>h1</code> ruleset, create a declaration setting the color to goldenrod<ul>
+<li>Property: <code>color</code></li>
+<li>Value: <code>goldenrod</code></li>
+</ul>
+</li>
+<li>In the <code>h1</code> ruleset, create a declaration setting the font to comic sans<ul>
+<li>Property: <code>font-family</code></li>
+<li>Value: <code>cursive</code></li>
+</ul>
+</li>
+<li>In the <code>h1</code> ruleset, create a declaration setting the text size to 50 pixels<ul>
+<li>Property: <code>font-size</code></li>
+<li>Value: <code>50px</code></li>
+</ul>
+</li>
+</ol>
+<h5 id="code">Code</h5>
+<pre><code class="lang-css"><span class="hljs-selector-tag">h1</span> {
+    <span class="hljs-attribute">color</span>: goldenrod;
+    <span class="hljs-attribute">font-family</span>: cursive;
+    <span class="hljs-attribute">font-size</span>: <span class="hljs-number">50px</span>;
+}
+</code></pre>
+<h2 id="styling-the-price">Styling the price</h2>
+<p>The price for the banana is within a <code>span</code> element, which is a generic inline container for phrasing content. It is generally used to group elements for styling purposes. Since the price is in a <code>span</code>, it is possible to style it separately from the surrounding elements.</p>
+<ol>
+<li>In the CSS file, create a new ruleset for <code>span</code></li>
+<li>In the <code>span</code> ruleset, create declarations for the following properties and values:<ul>
+<li><code>color</code> / <code>forestgreen</code></li>
+<li><code>font-weight</code> / <code>bold</code></li>
+<li><code>font-size</code> / <code>30px</code></li>
+<li><code>font-family</code> / <code>consolas</code></li>
+</ul>
+</li>
+</ol>
+<h5 id="code">Code</h5>
+<pre><code class="lang-css"><span class="hljs-selector-tag">span</span> {
+    <span class="hljs-attribute">color</span>: forestgreen;
+    <span class="hljs-attribute">font-weight</span>: bold;
+    <span class="hljs-attribute">font-size</span>: <span class="hljs-number">30px</span>;
+    <span class="hljs-attribute">font-family</span>: consolas;
+}
+</code></pre>
+<h2 id="final-css">Final CSS</h2>
+<pre><code class="lang-css"><span class="hljs-selector-tag">body</span> {
+    <span class="hljs-attribute">background</span>: lightgoldenrodyellow;
+    <span class="hljs-attribute">color</span>: darkblue;
+    <span class="hljs-attribute">font-family</span>: Tahoma;
+}
+
+<span class="hljs-selector-tag">img</span> {
+    <span class="hljs-attribute">height</span>: <span class="hljs-number">150px</span>;
+}
+
+<span class="hljs-selector-tag">h1</span> {
+    <span class="hljs-attribute">color</span>: goldenrod;
+    <span class="hljs-attribute">font-family</span>: cursive;
+    <span class="hljs-attribute">font-size</span>: <span class="hljs-number">50px</span>;
+}
+
+<span class="hljs-selector-tag">span</span> {
+    <span class="hljs-attribute">color</span>: forestgreen;
+    <span class="hljs-attribute">font-weight</span>: bold;
+    <span class="hljs-attribute">font-size</span>: <span class="hljs-number">30px</span>;
+    <span class="hljs-attribute">font-family</span>: consolas;
+}
+</code></pre>
 
                                 
                                 </section>
@@ -761,12 +966,12 @@
 
             
                 
-                <a href="../Week05/ReverseEngineeringChallenge.html" class="navigation navigation-prev " aria-label="Previous page: Week 5 - Reverse Engineering Challenge">
+                <a href="WarmUp.html" class="navigation navigation-prev " aria-label="Previous page: Warm Up">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="WarmUp.html" class="navigation navigation-next " aria-label="Next page: Warm Up">
+                <a href="BananasIndividual.html" class="navigation navigation-next " aria-label="Next page: Bananas Exercise">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -777,7 +982,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Week 6 - CSS Introduction","level":"1.7","depth":1,"next":{"title":"Warm Up","level":"1.7.1","depth":2,"path":"Week06/WarmUp.md","ref":"Week06/WarmUp.md","articles":[]},"previous":{"title":"Week 5 - Reverse Engineering Challenge","level":"1.6","depth":1,"path":"Week05/ReverseEngineeringChallenge.md","ref":"Week05/ReverseEngineeringChallenge.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"SUMMARY.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week06/StudentDesc.md","mtime":"2020-01-14T13:31:09.769Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-01-14T13:31:47.839Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Bananas Follow-Along","level":"1.7.2","depth":2,"next":{"title":"Bananas Exercise","level":"1.7.3","depth":2,"path":"Week06/BananasIndividual.md","ref":"Week06/BananasIndividual.md","articles":[]},"previous":{"title":"Warm Up","level":"1.7.1","depth":2,"path":"Week06/WarmUp.md","ref":"Week06/WarmUp.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"SUMMARY.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week06/BananasFollowAlong.md","mtime":"2020-01-14T13:31:09.765Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-01-14T13:31:47.839Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
