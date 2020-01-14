@@ -5,6 +5,7 @@ Create a webpage that showcases the many HTML and CSS concepts covered in this c
 ### HTML
 Create at least two HTML files that are accessible from each other via hyperlinks. Throughout those pages, include the items below.
 >Note: not all of these requirements must appear on every page. However, they should appear on at least one page
+
 - All of the basic HTML tags (`html`, `body`, `head`)
 - A header
 - At least one list

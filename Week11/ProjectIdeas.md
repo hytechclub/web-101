@@ -60,7 +60,9 @@ Create two CSS files that style the page in two different ways. This way, the cl
 - Anything else!
 
 ### Music Artist Website Example
+
 Create a website for a music artist/band of your choosing. The site could contain the following content:
+
 1. About the band
 1. Photos
 1. List of band members
@@ -73,7 +75,9 @@ Create a website for a music artist/band of your choosing. The site could contai
 1. Email subscription form
  
 ### Sports Team Website Example
+
 Create a website for a sports team of your choosing. The site could contain the following content:
+
 1. About the team
 1. Photos
 1. List of upcoming games with link(s) to buy tickets
