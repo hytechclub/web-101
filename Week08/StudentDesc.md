@@ -3,7 +3,7 @@ Responsive Design & Bootstrap
 
 ## Reference
 - <a href="ResponsiveDesign.pptx" target="_blank">Responsive Design PowerPoint Presentation</a>
-- [Magazine Website Follow-Along](MagazineWebsiteFollowAlong.md)
+- [Magazine Website Follow-Along](MagazineWebsiteFollowAlongWithCode.md)
 
 ## Activities
 - [Magazine Website Exercise](MagazineWebsiteIndividual.md)
