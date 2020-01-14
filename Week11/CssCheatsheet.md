@@ -85,8 +85,7 @@ p:hover {
 ```
 
 ## Property/Value
-A **property** is an identifier that defines which feature to style. A **value** describes the specific style for the property. Refer to 
-Refer to https://htmldog.com/references/css/properties/ to see a complete list of available properties.
+A **property** is an identifier that defines which feature to style. A **value** describes the specific style for the property. Refer to https://htmldog.com/references/css/properties/ to see a complete list of available properties.
 
 ### Examples
 ```css
