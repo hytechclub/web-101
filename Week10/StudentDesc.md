@@ -1,4 +1,6 @@
 # Web 101: Week 10
-Introduction to HTML
+Practice
 
-<a href="Week01/HelloHtml.pptx" target="_blank">Hello HTML PowerPoint Presentation</a>
+## Activities
+- [Animation Follow-Along](AnimationFollowAlong.md)
+- [Spinning Square Challenge](SpinningSquareChallenge.md)

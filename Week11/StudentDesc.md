@@ -1,5 +1,6 @@
 # Web 101: Week 11
-Introduction to HTML
+Final Project
 
-## Reference Info
-<a href="Week01/HelloHtml.pptx" target="_blank">Hello HTML PowerPoint Presentation</a>
+## Reference
+- [Project Description](FinalProject.md)
+- [Project Ideas](ProjectIdeas.md)
