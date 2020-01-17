@@ -27,7 +27,7 @@ Students will begin to create a website to compare different smart phones. Specs
 Students will update their phone comparison website. Instructions are in the [PhoneComparisonIndividual](PhoneComparisonIndividual.md) file.
 
 ## Challenge: Oscars Tables
-Students will create a webpage providing information about the 91st Academy Awards in the form of tables. Instructions are in the [MovieSearchChallenge](MovieSearchChallenge.md) file.
+Students will create a webpage providing information about the 91st Academy Awards in the form of tables. Instructions are in the [OscarsChallenge](OscarsChallenge.md) file.
 
 ## Suggested Schedule
 | Activity | Time |
