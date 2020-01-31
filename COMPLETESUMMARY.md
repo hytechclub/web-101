@@ -1,6 +1,3 @@
-# Web 101: HTML/CSS
-Welcome to the Web 101 Hy-Tech Club course!
-
 - [Week 1 - HTML Introduction](Week01/StudentDesc.md)
 - [Week 2 - HTML Headers, Paragraphs, Links, & Images](Week02/StudentDesc.md)
     - [About Me Follow-Along](Week02/AboutMeFollowAlong.md)
