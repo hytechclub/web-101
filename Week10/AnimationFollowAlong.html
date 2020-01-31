@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Phone Comparison Exercise · GitBook</title>
+        <title>Animation Follow-Along · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -61,10 +61,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="OscarsChallenge.html" />
+    <link rel="next" href="SpinningSquareChallenge.html" />
     
     
-    <link rel="prev" href="PhoneComparisonFollowAlong.html" />
+    <link rel="prev" href="StudentDesc.html" />
     
 
     </head>
@@ -235,9 +235,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.5" data-path="StudentDesc.html">
+        <li class="chapter " data-level="1.5" data-path="../Week04/StudentDesc.html">
             
-                <a href="StudentDesc.html">
+                <a href="../Week04/StudentDesc.html">
             
                     
                     Week 4 - HTML Tables & IFrames
@@ -249,9 +249,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.5.1" data-path="PhoneComparisonFollowAlong.html">
+        <li class="chapter " data-level="1.5.1" data-path="../Week04/PhoneComparisonFollowAlong.html">
             
-                <a href="PhoneComparisonFollowAlong.html">
+                <a href="../Week04/PhoneComparisonFollowAlong.html">
             
                     
                     Phone Comparison Follow-Along
@@ -262,9 +262,9 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.5.2" data-path="PhoneComparisonIndividual.html">
+        <li class="chapter " data-level="1.5.2" data-path="../Week04/PhoneComparisonIndividual.html">
             
-                <a href="PhoneComparisonIndividual.html">
+                <a href="../Week04/PhoneComparisonIndividual.html">
             
                     
                     Phone Comparison Exercise
@@ -275,9 +275,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.5.3" data-path="OscarsChallenge.html">
+        <li class="chapter " data-level="1.5.3" data-path="../Week04/OscarsChallenge.html">
             
-                <a href="OscarsChallenge.html">
+                <a href="../Week04/OscarsChallenge.html">
             
                     
                     Oscars Challenge
@@ -564,9 +564,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.11" data-path="../Week10/StudentDesc.html">
+        <li class="chapter " data-level="1.11" data-path="StudentDesc.html">
             
-                <a href="../Week10/StudentDesc.html">
+                <a href="StudentDesc.html">
             
                     
                     Week 10 - Practice
@@ -578,9 +578,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.11.1" data-path="../Week10/AnimationFollowAlong.html">
+        <li class="chapter active" data-level="1.11.1" data-path="AnimationFollowAlong.html">
             
-                <a href="../Week10/AnimationFollowAlong.html">
+                <a href="AnimationFollowAlong.html">
             
                     
                     Animation Follow-Along
@@ -591,9 +591,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.11.2" data-path="../Week10/SpinningSquareChallenge.html">
+        <li class="chapter " data-level="1.11.2" data-path="SpinningSquareChallenge.html">
             
-                <a href="../Week10/SpinningSquareChallenge.html">
+                <a href="SpinningSquareChallenge.html">
             
                     
                     Spinning Square Challenge
@@ -710,7 +710,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >Phone Comparison Exercise</a>
+        <a href=".." >Animation Follow-Along</a>
     </h1>
 </div>
 
@@ -725,40 +725,94 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="phone-comparison-individual-exercises">Phone Comparison: Individual Exercises</h1>
-<p>The phone comparison website is pretty good, but it could use a little more data. Follow the instructions below to fill out the page with some more information!</p>
-<h2 id="part-1---adding-a-new-column">Part 1 - Adding a new column</h2>
-<p>Users of the website would like to see information about the battery life of their smart phones. Add the column to the table, and fill out the data for each of the phones listed.</p>
+                                <h1 id="animation-follow-along">Animation: Follow-Along</h1>
+<blockquote>
+<p>Reference: <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations" target="_blank">https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations</a></p>
+</blockquote>
+<p>Use CSS to animate the <code>background-color</code> property on a webpage!</p>
+<h2 id="setup">Setup</h2>
 <ol>
-<li>In the table header <code>tr</code>, add another <code>th</code> for &quot;Battery&quot; after &quot;Internal Storage&quot;</li>
-<li>In each of the table body <code>tr</code>s, add the <code>td</code> for the phone&apos;s battery<ul>
-<li>Galaxy Note 9: 4,000mAh</li>
-<li>iPhone XR: 2,943mAh</li>
-<li>LG G7: 3,000mAh</li>
+<li>Create a new HTML file, and add the basic tags - <code>html</code>, <code>head</code>, <code>body</code></li>
+<li>Create a new CSS file</li>
+<li>In the HTML file, within the <code>&lt;head&gt;&lt;/head&gt;</code> element, add a <code>link</code> element that links the CSS file</li>
+</ol>
+<h2 id="defining-an-animation-with-keyframes">Defining an animation with keyframes</h2>
+<p>When animating using CSS, the styles are defined at certain <strong>keyframes</strong>. These keyframes represent the styles of an element at a given point in time, during the animation cycle.</p>
+<p>To make the background color black at the very beginning of the animation (or, <code>0%</code> of the way through), the keyframe would look like a normal CSS ruleset, but with <code>0%</code> as the selector. Add the following code in the CSS file:</p>
+<pre><code class="lang-css">0% {
+    <span class="hljs-attribute">background-color</span>: black;
+}
+</code></pre>
+<p>Next, to make the background color darkred at the end of the animation, add the following ruleset:</p>
+<pre><code class="lang-css">100% {
+    <span class="hljs-attribute">background-color</span>: darkred;
+}
+</code></pre>
+<p>Now, all that&apos;s left is to put these two keyframes together is an <code>@keyframes</code> ruleset that includes both frames. A keyframes ruleset consists of:</p>
+<ul>
+<li><code>@keyframes</code></li>
+<li>animation name</li>
+<li>curly brackets (<code>{}</code>)</li>
+<li>frame rulesets</li>
+</ul>
+<p>Add the following code to define a new keyframes ruleset named &quot;pulse&quot; that will change the background color from black to red:</p>
+<pre><code class="lang-css">@<span class="hljs-keyword">keyframes</span> pulse {
+    0% {
+        <span class="hljs-attribute">background-color</span>: black;
+    }
+
+    100% {
+        <span class="hljs-attribute">background-color</span>: darkred;
+    }
+}
+</code></pre>
+<h2 id="using-an-animation-on-an-html-element">Using an animation on an HTML element</h2>
+<p>After defining an animation&apos;s keyframes, it must be applied to an element to take effect. Apply this animation to the whole page by selecting the <code>body</code> in the CSS file, and creating a declaration that points to the &quot;pulse&quot; animation.</p>
+<ol>
+<li>In the CSS file, create a new ruleset that will apply to the entire <code>body</code></li>
+<li>Within the <code>body</code> ruleset, create a new declaration with a property of <code>animation</code></li>
+<li>There are many options for the <code>animation</code> property:<ul>
+<li><code>animation-duration</code> configures the length of time that an animation should take to complete one cycle</li>
+<li><code>animation-iteration-count</code> configures the number of times the animation should repeat</li>
+<li><code>animation-timing-function</code> configures the timing of the animation</li>
+<li><code>animation-direction</code> configures whether or not the animation should alternate direction on each run through the sequence</li>
+<li><code>animation-name</code> specifies the name of the keyframes ruleset describing the animation&apos;s keyframes</li>
+</ul>
+</li>
+<li>To put them all together, list each value separated by a space:<ul>
+<li><code>4s</code> so the animation takes four seconds to complete</li>
+<li><code>infinite</code> so the animation goes on forever</li>
+<li><code>linear</code> so the animation happens smoothly</li>
+<li><code>alternate</code> so the animation goes smoothly beetween black and red</li>
+<li><code>pulse</code> so the animation uses the keyframes specified by the &quot;pulse&quot; ruleset</li>
 </ul>
 </li>
 </ol>
-<h2 id="part-2---adding-a-new-phone">Part 2 - Adding a new phone</h2>
-<p>Users would like to see more than just three phones compared on the website. Add an additional row to the table, containing information for the Moto G6 smartphone.</p>
-<ol>
-<li>Under the last <code>tr</code> in the <code>tbody</code>, add another <code>tr</code></li>
-<li>Fill in each <code>td</code> with the information for the Moto G6<ul>
-<li>Phone Name: Moto G6</li>
-<li>Display Size: 5.7 inches</li>
-<li>Weight: 5.89 oz</li>
-<li>Internal Storage: 32 GB</li>
-<li>Battery: 3,000mAh</li>
-</ul>
-</li>
-</ol>
-<p>Additionally, users would like to see a review of the Moto G6.</p>
-<ol>
-<li>Under the last <code>iframe</code> in the <code>body</code>, add an <code>h3</code> with the phone&apos;s name</li>
-<li>Under the <code>h3</code>, add an <code>iframe</code> with this review: <a href="https://www.tomsguide.com/us/moto-g6,review-5455.html" target="_blank">https://www.tomsguide.com/us/moto-g6,review-5455.html</a></li>
-<li>Set the width and height of the <code>iframe</code> appropriately</li>
-</ol>
-<h2 id="challenge">Challenge</h2>
-<p>Add another column to the table with a link to the part of the page containing the review. When the link is clicked in the table, it should automatically scroll to the place on the page with the review <code>iframe</code>. Note that this is possible using only HTML. You will need to utilize the <code>id</code> attribute to accomplish this challenge.</p>
+<pre><code class="lang-css"><span class="hljs-selector-tag">body</span> {
+    <span class="hljs-attribute">animation</span>: <span class="hljs-number">4s</span> infinite linear alternate pulse;
+}
+</code></pre>
+<h2 id="adding-another-keyframe">Adding another keyframe</h2>
+<p>With the keyframes ruleset set up, it&apos;s easy to add an additional frame at any point in the animation cycle. Add a frame at <code>50%</code> of the way through that sets the background color to pink.</p>
+<h2 id="code">Code</h2>
+<pre><code class="lang-css"><span class="hljs-selector-tag">body</span> {
+    <span class="hljs-attribute">animation</span>: <span class="hljs-number">4s</span> infinite linear alternate pulse;
+}
+
+@<span class="hljs-keyword">keyframes</span> pulse {
+    0% {
+        <span class="hljs-attribute">background-color</span>: black;
+    }
+
+    50% {
+        <span class="hljs-attribute">background-color</span>: pink;
+    }
+
+    100% {
+        <span class="hljs-attribute">background-color</span>: darkred;
+    }
+}
+</code></pre>
 
                                 
                                 </section>
@@ -786,12 +840,12 @@
 
             
                 
-                <a href="PhoneComparisonFollowAlong.html" class="navigation navigation-prev " aria-label="Previous page: Phone Comparison Follow-Along">
+                <a href="StudentDesc.html" class="navigation navigation-prev " aria-label="Previous page: Week 10 - Practice">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="OscarsChallenge.html" class="navigation navigation-next " aria-label="Next page: Oscars Challenge">
+                <a href="SpinningSquareChallenge.html" class="navigation navigation-next " aria-label="Next page: Spinning Square Challenge">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -802,7 +856,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Phone Comparison Exercise","level":"1.5.2","depth":2,"next":{"title":"Oscars Challenge","level":"1.5.3","depth":2,"path":"Week04/OscarsChallenge.md","ref":"Week04/OscarsChallenge.md","articles":[]},"previous":{"title":"Phone Comparison Follow-Along","level":"1.5.1","depth":2,"path":"Week04/PhoneComparisonFollowAlong.md","ref":"Week04/PhoneComparisonFollowAlong.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"COMPLETESUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week04/PhoneComparisonIndividual.md","mtime":"2020-01-31T15:29:47.813Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-01-31T15:30:29.428Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Animation Follow-Along","level":"1.11.1","depth":2,"next":{"title":"Spinning Square Challenge","level":"1.11.2","depth":2,"path":"Week10/SpinningSquareChallenge.md","ref":"Week10/SpinningSquareChallenge.md","articles":[]},"previous":{"title":"Week 10 - Practice","level":"1.11","depth":1,"path":"Week10/StudentDesc.md","ref":"Week10/StudentDesc.md","articles":[{"title":"Animation Follow-Along","level":"1.11.1","depth":2,"path":"Week10/AnimationFollowAlong.md","ref":"Week10/AnimationFollowAlong.md","articles":[]},{"title":"Spinning Square Challenge","level":"1.11.2","depth":2,"path":"Week10/SpinningSquareChallenge.md","ref":"Week10/SpinningSquareChallenge.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"COMPLETESUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week10/AnimationFollowAlong.md","mtime":"2020-01-31T15:29:47.813Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-01-31T15:30:29.428Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
