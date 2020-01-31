@@ -73,7 +73,7 @@ Create a website for a music artist/band of your choosing. The site could contai
     - Song length
 1. Social media link(s)
 1. Email subscription form
- 
+
 ### Sports Team Website Example
 
 Create a website for a sports team of your choosing. The site could contain the following content:
