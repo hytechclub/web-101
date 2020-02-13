@@ -4,6 +4,7 @@
     - [About Me Follow-Along](Week02/AboutMeFollowAlong.md)
     - [About Me Exercise](Week02/AboutMeIndividual.md)
     - [Multiple Files Challenge](Week02/MultipleHtmlFilesChallenge.md)
+    - [Choose Your Own Adventure Challenge](Week02/ChooseYourOwnAdventureChallenge.md)
 - [Week 3 - HTML Lists & Inputs](Week03/StudentDesc.md)
     - [Pizza Website Follow-Along](Week03/PizzaWebsiteFollowAlong.md)
     - [Pizza Website Exercise](Week03/PizzaWebsiteIndividual.md)

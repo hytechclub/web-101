@@ -8,3 +8,4 @@ HTML Headers, Paragraphs, Links & Images
 ## Activities
 - [About Me Exercise](AboutMeIndividual.md)
 - [Multiple Files Challenge](MultipleHtmlFilesChallenge.md)
+- [Choose Your Own Adventure Challenge](ChooseYourOwnAdventureChallenge.md)
