@@ -2,3 +2,4 @@
 - [Week 2 - HTML Headers, Paragraphs, Links, & Images](Week02/StudentDesc.md)
     - [About Me Exercise](Week02/AboutMeIndividual.md)
     - [Multiple Files Challenge](Week02/MultipleHtmlFilesChallenge.md)
+    - [Choose Your Own Adventure Challenge](Week02/ChooseYourOwnAdventureChallenge.md)
