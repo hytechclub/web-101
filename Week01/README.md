@@ -48,6 +48,9 @@ Introduce some of the tools we will use throughout the semester, including:
 - Visual Studio Code
 - Google Chrome (have the students set the default Browser to Chrome)
 
+### Hello HTML Challenge
+With any remaining time, have the students complete the [Hello HTML Challenge](HelloHtmlChallenge.md) to make sure they grasp the basic HTML concepts.
+
 ## Suggested Schedule
 | Activity | Time |
 |-|-|
@@ -55,3 +58,4 @@ Introduce some of the tools we will use throughout the semester, including:
 | Kahoot | 10m |
 | Lecture | 20m |
 | VS Code Demo | 15m |
+| Challenge | 15m |

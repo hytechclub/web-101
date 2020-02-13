@@ -3,3 +3,6 @@ HTML Introduction
 
 ## Reference
 - <a href="HelloHtml.pptx" target="_blank">Hello HTML PowerPoint Presentation</a>
+
+## Activities
+- [Hello HTML Challenge](HelloHtmlChallenge.md)
