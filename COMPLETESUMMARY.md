@@ -9,6 +9,7 @@
     - [Pizza Website Follow-Along](Week03/PizzaWebsiteFollowAlong.md)
     - [Pizza Website Exercise](Week03/PizzaWebsiteIndividual.md)
     - [Movie Search Challenge](Week03/MovieSearchChallenge.md)
+    - [POST Challenge](Week03/PostChallenge.md)
 - [Week 4 - HTML Tables & IFrames](Week04/StudentDesc.md)
     - [Phone Comparison Follow-Along](Week04/PhoneComparisonFollowAlong.md)
     - [Phone Comparison Exercise](Week04/PhoneComparisonIndividual.md)
