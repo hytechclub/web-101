@@ -65,3 +65,6 @@ Add some radio buttons so the user can narrow down their search by rating.
 
 ### Adding other fields
 Once you have added the fields above, revisit the IMDb Advanced Title Search page. Take a look at some of the options on that form, and how they data is represented in the query string of the URL after you submit the form. Try to add some other inputs to your webpage, or you can even try to statically set some filter values using hidden inputs!
+
+#### More input types
+- Reference: [https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
