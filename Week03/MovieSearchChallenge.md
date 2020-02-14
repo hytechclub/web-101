@@ -68,3 +68,6 @@ Once you have added the fields above, revisit the IMDb Advanced Title Search pag
 
 #### More input types
 - Reference: [https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
+
+## Next Steps
+After completing the Movie Search Challenge, move on to the [Post Challenge](PostChallenge.md).

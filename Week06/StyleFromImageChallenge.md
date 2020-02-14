@@ -18,7 +18,7 @@ Once the basic structure is filled out, create a CSS file and link it in the HTM
 ## Uncovered Styles
 There are a few styles on the page that we haven't officially covered. See if you can use the internet to figure out how to use those properties.
 
-### Post-Challenge
+### More Properties
 If you finish the whole challenge, and an instructor checks it, you can start exploring more CSS properties here: https://www.w3schools.com/cssref/
 
 Update your pages with some additional styles!
