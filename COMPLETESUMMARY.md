@@ -14,6 +14,7 @@
     - [Phone Comparison Follow-Along](Week04/PhoneComparisonFollowAlong.md)
     - [Phone Comparison Exercise](Week04/PhoneComparisonIndividual.md)
     - [Oscars Challenge](Week04/OscarsChallenge.md)
+    - [Recursion Challenge](Week04/RecursionChallenge.md)
 - [Week 5 - Reverse Engineering Challenge](Week05/ReverseEngineeringChallenge.md)
 - [Week 6 - CSS Introduction](Week06/StudentDesc.md)
     - [Warm Up](Week06/WarmUp.md)
