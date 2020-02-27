@@ -1,5 +1,5 @@
 # Challenge: Oscars Website
-Create a website for the 91st Annual Academy Awards. Start by creating a new HTML file and adding the basic tags to it (including a header that says "91st Academy Awards"). Then, complete the exercises below on the webpage.
+Create a website for the 92nd Annual Academy Awards. Start by creating a new HTML file and adding the basic tags to it (including a header that says "92nd Academy Awards"). Then, complete the exercises below on the webpage.
 
 ## Multiple Awards table
 Recreate the table below.
