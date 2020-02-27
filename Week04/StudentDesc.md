@@ -10,3 +10,4 @@ HTML Tables & IFrames
 ## Practice
 - [Phone Comparison Exercise](PhoneComparisonIndividual.md)
 - [Oscars Challenge](OscarsChallenge.md)
+- [Recursion Challenge](RecursionChallenge.md)

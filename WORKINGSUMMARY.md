@@ -12,3 +12,4 @@
 - [Week 4 - HTML Tables & IFrames](Week04/StudentDesc.md)
     - [Phone Comparison Exercise](Week04/PhoneComparisonIndividual.md)
     - [Oscars Challenge](Week04/OscarsChallenge.md)
+    - [Recursion Challenge](Week04/RecursionChallenge.md)
