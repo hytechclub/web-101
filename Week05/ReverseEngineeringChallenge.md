@@ -4,8 +4,8 @@ You should have access to the image of a webpage. Your goal is to replicate the 
 ## Helpful Resources
 - The Dunder Mifflin image is here: https://i.imgur.com/1ILZgbP.jpg
 - The Dunder Mifflin link at the top should navigate here: https://sceendy.com/dm/
-- You can create an interactive Google Map here: https://www.google.com/maps/d/u/0/
-  - Use this for the locations map
+- The Dunder Mifflin locations map is here: https://www.google.com/maps/d/embed?mid=1DePJ8wyXW96_ZXB148HDNiZqnSw
+  - Use an `iframe` to show this map on the page
 
 ## Bonus Challenges
 1. Create a separate HTML page for the job application, and link to it from the main page
