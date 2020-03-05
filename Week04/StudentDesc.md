@@ -5,7 +5,7 @@ HTML Tables & IFrames
 - <a href="TablesAndIFrames.pptx" target="_blank">Tables and IFrames PowerPoint Presentation</a>
 
 ## Activities
-- Phone Comparison Follow-Along
+- [Phone Comparison Follow-Along](PhoneComparisonFollowAlong.md)
 
 ## Practice
 - [Phone Comparison Exercise](PhoneComparisonIndividual.md)
