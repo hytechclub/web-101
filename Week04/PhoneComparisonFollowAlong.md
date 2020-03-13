@@ -25,7 +25,7 @@ At the end of this section, your webpage code should look like this:
 
 At the end of this section, your table code should look like this:
 ```html
-<table border>
+<table border="1">
     <thead>
     </thead>
     <tbody>
@@ -114,7 +114,7 @@ At the end of this section, your iframes should look like this:
 <html>
     <body>
         <h1>Phone Comparison</h1>
-        <table border>
+        <table border="1">
             <thead>
                 <tr>
                     <th>Phone Name</th>
