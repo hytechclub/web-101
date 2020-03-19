@@ -2,7 +2,7 @@
 HTML Headers, Paragraphs, Links & Images
 
 ## Reference
-- <a href="BasicTags.pptx" target="_blank">Basic Tags PowerPoint Presentation</a>
+- <a href="BasicHtmlElements.pptx" target="_blank">Basic Tags PowerPoint Presentation</a>
 - [About Me Follow-Along](AboutMeFollowAlong.md)
 
 ## Activities
