@@ -9,8 +9,8 @@ If you are working on this from home, follow these steps:
 1. Complete the Challenge before, during, or after Office Hours
 
 ## Lecture
-- <a href="MoreHtml.pptx" target="_blank">More HTML PowerPoint Presentation</a>
-- <a href="MoreSelectors.pptx" target="_blank">More Selectors PowerPoint Presentation</a>
+- <a href="MoreHtmlOld.pptx" target="_blank">More HTML PowerPoint Presentation</a>
+- <a href="MoreSelectorsOld.pptx" target="_blank">More Selectors PowerPoint Presentation</a>
 
 ## Code-Along
 - [Pixels Follow-Along](PixelsFollowAlong.md)
