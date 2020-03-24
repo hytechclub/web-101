@@ -9,7 +9,7 @@ If you are working on this from home, follow these steps:
 1. Complete the Challenge before, during, or after Office Hours
 
 ## Lecture
-- <a href="ResponsiveDesign.pptx" target="_blank">Responsive Design PowerPoint Presentation</a>
+- <a href="ResponsiveDesignOld.pptx" target="_blank">Responsive Design PowerPoint Presentation</a>
 
 # Code-Along
 - [Magazine Website Follow-Along](MagazineWebsiteFollowAlongWithCode.md)
