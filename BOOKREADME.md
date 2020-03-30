@@ -6,7 +6,7 @@ Welcome to the Web 101 Hy-Tech Club course!
     - Alternatively, write code in [CodePen](https://codepen.io/) instead
 - Recordings for lectures and code-alongs will be posted to [this playlist](https://www.youtube.com/playlist?list=PL1P_sExxi-9PSNwmays_UE8JYllVu7P7u)
 - Office Hours will be held via [Zoom](https://hyland.zoom.us/j/985579225?pwd=c0FqV1lwVmtVNS8yV2srWVJTWGZOZz09) on Tuesdays from 5:30PM-6:30PM
-    - The password for the meeting is **web101**
+    - If asked, the password for the meeting is **web101**
 - Email [web101@hyland.com](mailto:web101@hyland.com) with any questions
 
 ### Weekly Plan
