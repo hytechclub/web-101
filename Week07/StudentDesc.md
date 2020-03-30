@@ -8,12 +8,14 @@ If you are working on this from home, follow these steps:
 1. Complete the Individual Exercise before or during Office Hours
 1. Complete the Challenge before, during, or after Office Hours
 
-## Lecture
-- <a href="MoreHtmlOld.pptx" target="_blank">More HTML PowerPoint Presentation</a>
-- <a href="MoreSelectorsOld.pptx" target="_blank">More Selectors PowerPoint Presentation</a>
+## Lectures
+- <a href="MoreHtml.pptx" target="_blank">More HTML PowerPoint Presentation</a>
+- <a href="MoreSelectors.pptx" target="_blank">More Selectors PowerPoint Presentation</a>
+- [Video](https://www.youtube.com/watch?v=4_xLkHpyf7U&list=PL1P_sExxi-9PSNwmays_UE8JYllVu7P7u&index=34&t=0s)
 
 ## Code-Along
 - [Pixels Follow-Along](PixelsFollowAlong.md)
+- [Video](https://www.youtube.com/watch?v=GUw45A8d4n0&list=PL1P_sExxi-9PSNwmays_UE8JYllVu7P7u&index=35)
 
 ## Individual Exercise & Challenges
 - [Pixels Exercise](PixelsIndividual.md)

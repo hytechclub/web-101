@@ -21,4 +21,8 @@
     - [Bananas Follow-Along](Week06/BananasFollowAlong.md)
     - [Bananas Exercise](Week06/BananasIndividual.md)
     - [Style from Image Challenge](Week06/StyleFromImageChallenge.md)
+- [Week 7 - HTML Divs & Spans, CSS Selectors](Week07/StudentDesc.md)
+    - [Pixels Follow-Along](Week07/PixelsFollowAlong.md)
+    - [Pixels Exercise](Week07/PixelsIndividual.md)
+    - [Additional Challenges](Week07/AdditionalChallenges.md)
 - [HTML Cheatsheet](Week05/HtmlCheatsheet.md)
