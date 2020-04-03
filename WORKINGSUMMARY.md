@@ -25,4 +25,8 @@
     - [Pixels Follow-Along](Week07/PixelsFollowAlong.md)
     - [Pixels Exercise](Week07/PixelsIndividual.md)
     - [Additional Challenges](Week07/AdditionalChallenges.md)
+- [Week 8 - Responsive Design & Bootstrap](Week08/StudentDesc.md)
+    - [Magazine Website Follow-Along](Week08/MagazineWebsiteFollowAlongWithCode.md)
+    - [Magazine Website Exercise](Week08/MagazineWebsiteIndividual.md)
+    - [More Bootstrap Challenge](Week08/MoreBootstrapChallenge.md)
 - [HTML Cheatsheet](Week05/HtmlCheatsheet.md)
