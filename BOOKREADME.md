@@ -5,6 +5,7 @@ Welcome to the Web 101 Hy-Tech Club course!
 - Watch [this video](https://www.youtube.com/watch?v=fOgaGFRN39o&list=PL1P_sExxi-9PSNwmays_UE8JYllVu7P7u&index=2&t=0s) to learn how to install [Visual Studio Code](https://code.visualstudio.com/)
     - Alternatively, write code in [CodePen](https://codepen.io/) instead
 - Recordings for lectures and code-alongs will be posted to [this playlist](https://www.youtube.com/playlist?list=PL1P_sExxi-9PSNwmays_UE8JYllVu7P7u)
+- Join the [Campfire Chat Room](https://hylandsoftware.campfirenow.com/3394f) chat with instructors and other students
 - Office Hours will be held via [Zoom](https://hyland.zoom.us/j/985579225?pwd=c0FqV1lwVmtVNS8yV2srWVJTWGZOZz09) on Tuesdays from 5:30PM-7PM
     - If asked, the password for the meeting is **web101**
 - Email [web101@hyland.com](mailto:web101@hyland.com) with any questions
