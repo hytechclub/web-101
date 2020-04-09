@@ -5,9 +5,11 @@ If you are participating in Hy-Tech Club remotely, please join the [Zoom office 
 
 ## Lecture
 - <a href="ResponsiveDesign.pptx" target="_blank">Responsive Design PowerPoint Presentation</a>
+- [Video](https://www.youtube.com/watch?v=E6o7H1yHNw8&list=PL1P_sExxi-9PSNwmays_UE8JYllVu7P7u&index=43&t=0s)
 
 ## Code-Along
 - [Magazine Website Follow-Along](MagazineWebsiteFollowAlongWithCode.md)
+- [Video](https://www.youtube.com/watch?v=ImDikPx1VjY&list=PL1P_sExxi-9PSNwmays_UE8JYllVu7P7u&index=46&t=0s)
 
 ## Individual Exercise & Challenge
 - [Magazine Website Exercise](MagazineWebsiteIndividual.md)
