@@ -13,6 +13,7 @@ If you are working on this from home, follow these steps:
 
 ## Code-Along
 - [Crustaceans Follow-Along](CrustaceansFollowAlong.md)
+- [Video](https://www.youtube.com/watch?v=5PG8Kb9tYL8&list=PL1P_sExxi-9PSNwmays_UE8JYllVu7P7u&index=48&t=0s)
 
 ## Individual Exercise & Challenges
 - [Crustaceans Exercise](CrustaceansIndividual.md)
