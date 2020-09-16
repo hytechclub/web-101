@@ -18,17 +18,19 @@ Make updates so that each pixel in the grid is 50x50 instead of 100x100.
     - This is in the `.cell` ruleset
 
 ## Part 3 - Make Your Own Sprite
-Instead of PAC-MAN, create a totally different 4x4 pixel art character! Feel free to copy one of the designs from here: http://4x4pixels.blogspot.com/search/label/Pixelheroes
+Instead of PAC-MAN, create a totally different 4x4 pixel art character! Feel free to copy one of the designs from [here](https://www.google.com/search?tbm=isch&q=4x4pixels+blogspot+pixelheroes).
 
-For a good starting point, try The Long Tetris Block: http://4x4pixels.blogspot.com/2010/11/pixelheroes-021-long-tetris-block.html
+For a good starting point, try recreating one of the Tetris blocks:
+
+![](https://i.imgur.com/t6totR1.jpg)
 
 1. In the CSS file, create a new class **ruleset** for each color used in the sprite
-    - For example, in the long tetris block, there would be a `.green` selector
-1. In each color ruleset, set the background color to the appropriate color
+    - For example, in the long Tetris block, there could be a `.green` selector
+2. In each color ruleset, set the background color to the appropriate color
     - Property: `background-color`
     - Value: color for the cell
-1. In the HTML file, add an appropriate color class to each `div`
-    - For example, in the long tetris block, the third cell in each row would have the `green` class
+3. In the HTML file, add an appropriate color class to each `div`
+    - For example, in the long Tetris block, the third cell in each row could have the `green` class
 
 ## (BONUS) Make a 5x5 Sprite
 It's hard to represent a character in only 32 cells. Instead of using a 4x4 grid, update the code so that it's 5x5. Then, create a new 5x5 sprite using the extra space!
