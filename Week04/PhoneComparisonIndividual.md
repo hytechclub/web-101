@@ -1,7 +1,7 @@
 # Phone Comparison: Individual Exercises
 The phone comparison website is pretty good, but it could use a little more data. Follow the instructions below to fill out the page with some more information!
 
-## Part 1 - Adding a new column
+## Part 1 - Adding a New Column
 Users of the website would like to see information about the battery life of their smart phones. Add the column to the table, and fill out the data for each of the phones listed.
 
 1. In the table header `tr`, add another `th` for "Battery" after "Internal Storage"
@@ -10,7 +10,7 @@ Users of the website would like to see information about the battery life of the
     - iPhone XR: 2,943mAh
     - LG G7: 3,000mAh
 
-## Part 2 - Adding a new phone
+## Part 2 - Adding a New Phone
 Users would like to see more than just three phones compared on the website. Add an additional row to the table, containing information for the Moto G6 smartphone.
 
 1. Under the last `tr` in the `tbody`, add another `tr`
