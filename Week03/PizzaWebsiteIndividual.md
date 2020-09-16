@@ -1,7 +1,7 @@
 # Pizza Website: Individual Exercise
 The website for Alfredo's Pizza Cafe is pretty solid, but there are some changes we need to make to take it to the next level. Follow the instructions below to add some new features to Alfredo's website!
 
-## Part 1 - Expanding the existing options
+## Part 1 - Expanding the Existing Options
 Since we last visited Alfredo's, they have added a new location, a new pizza size, and a new topping! We need the website to reflect those changes.
 
 1. In the `ul` list of locations, add another `li` element with the new location
