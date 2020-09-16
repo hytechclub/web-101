@@ -840,7 +840,7 @@
 }
 </code></pre>
 <p>Open the file in a browser to see how it looks so far!</p>
-<h3 id="hover-state">Hover state</h3>
+<h3 id="hover-state">Hover State</h3>
 <p>To select an HTML element in a given state, use a <strong>pseudo-selector</strong>. These start with <code>:</code> and are placed at the end of a CSS selector. For example, to select the <code>div</code> with <code>id=&quot;subscribe&quot;</code> in its hover state, add <code>:hover</code> to the selector.</p>
 <pre><code class="lang-css"><span class="hljs-selector-id">#subscribe</span><span class="hljs-selector-pseudo">:hover</span>
 </code></pre>
@@ -858,7 +858,7 @@
 <h4 id="going-back">Going back</h4>
 <p>When the element <em>leaves</em> the hover state, it reverts back to the original styles immediately. To fix this, add the same <code>transition</code> property to the <code>#subscribe</code> ruleset.</p>
 <p>Now, the <code>div</code> should slowly add/remove a box shadow when the user hovers over it and leaves.</p>
-<h3 id="active-state">Active state</h3>
+<h3 id="active-state">Active State</h3>
 <p>In addition to the <code>:hover</code> selector, some HTML elements have an <code>:active</code> selector. Use <code>:active</code> to tell when a user has clicked a <code>div</code> element on the page.</p>
 <p>Make it so that the button changes color when the user clicks it. It should take <code>.5</code> seconds to transition into this state. To accomplish this, use a selector of <code>#subscribe:active</code>, and the <code>transition</code> and <code>background-color</code> properties:</p>
 <pre><code class="lang-css"><span class="hljs-selector-id">#subscribe</span><span class="hljs-selector-pseudo">:active</span> {
@@ -907,27 +907,27 @@
     <span class="hljs-attribute">background-color</span>: pink;
 }
 </code></pre>
-<h3 id="rotating-the-article-with-a-transform">Rotating the article with a transform</h3>
+<h3 id="rotating-the-article-with-a-rransform">Rotating the Article with a Rransform</h3>
 <blockquote>
 <p>Rotate: <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate" target="_blank">https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate</a>
 To rotate the article on the page, use the <code>transform</code> CSS property. <code>transform</code> can do a whole lot of different things, but in this case, use <code>rotate</code> to spin the article around. Rotate the article 200 degrees, so that it appears upside-down and tilted. Add the following declaration to the &quot;info&quot; ruleset:</p>
 </blockquote>
 <pre><code class="lang-css"><span class="hljs-selector-tag">transform</span>: <span class="hljs-selector-tag">rotate</span>(200<span class="hljs-selector-tag">deg</span>);
 </code></pre>
-<h3 id="moving-the-box-with-a-transform">Moving the box with a transform</h3>
+<h3 id="moving-the-box-with-a-rransform">Moving the Box with a Rransform</h3>
 <blockquote>
 <p>Translate: <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate" target="_blank">https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate</a>
 It is also possible to move an element from one position to another using <code>transform</code>. To do this, use the <code>translate</code> value of the <code>transform</code> property.</p>
 </blockquote>
-<h4 id="move-the-article-to-the-right">Move the article to the right</h4>
+<h4 id="move-the-article-to-the-right">Move the Article to the Right</h4>
 <p>If only one value is passed to the <code>translate</code> function, it will move along the X axis (horizontally). The CSS below will move the article 20 pixels to the right.</p>
 <pre><code class="lang-css"><span class="hljs-selector-tag">transform</span>: <span class="hljs-selector-tag">translate</span>(20<span class="hljs-selector-tag">px</span>);
 </code></pre>
-<h4 id="move-the-article-up">Move the article up</h4>
+<h4 id="move-the-article-up">Move the Article Up</h4>
 <p>Using <code>translateY</code> instead of simply <code>translate</code> will move the element along the Y axis (vertically). The CSS below will move the article 20 pixels up.</p>
 <pre><code class="lang-css"><span class="hljs-selector-tag">transform</span>: <span class="hljs-selector-tag">translateY</span>(<span class="hljs-selector-tag">-20px</span>);
 </code></pre>
-<h3 id="combining-a-transform-and-a-transition">Combining a transform and a transition</h3>
+<h3 id="combining-a-transform-and-a-transition">Combining a Transform and a Transition</h3>
 <p>To make the article move up when the user hovers over it, use a <code>transform</code> AND a <code>transition</code> at the same time!</p>
 <p>First, select the &quot;info&quot; article in its hover state. Move the <code>transform</code> with the <code>translateY</code> to that ruleset.</p>
 <pre><code class="lang-css"><span class="hljs-selector-id">#info</span><span class="hljs-selector-pseudo">:hover</span> {
@@ -1052,7 +1052,7 @@ It is also possible to move an element from one position to another using <code>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Crustaceans Follow-Along","level":"1.10.2","depth":2,"next":{"title":"Crustaceans Exercise","level":"1.10.3","depth":2,"path":"Week09/CrustaceansIndividual.md","ref":"Week09/CrustaceansIndividual.md","articles":[]},"previous":{"title":"Resources","level":"1.10.1","depth":2,"path":"Week09/Resources.md","ref":"Week09/Resources.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"WORKINGSUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week09/CrustaceansFollowAlong.md","mtime":"2020-09-14T18:26:14.657Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-09-14T18:26:55.618Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Crustaceans Follow-Along","level":"1.10.2","depth":2,"next":{"title":"Crustaceans Exercise","level":"1.10.3","depth":2,"path":"Week09/CrustaceansIndividual.md","ref":"Week09/CrustaceansIndividual.md","articles":[]},"previous":{"title":"Resources","level":"1.10.1","depth":2,"path":"Week09/Resources.md","ref":"Week09/Resources.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"WORKINGSUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week09/CrustaceansFollowAlong.md","mtime":"2020-09-16T15:02:45.605Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-09-16T15:03:24.729Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

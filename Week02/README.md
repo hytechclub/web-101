@@ -18,7 +18,9 @@ Start building an "About Me" website: [AboutMeFollowAlong](AboutMeFollowAlong.md
 Students should continue building their "About Me" website: [AboutMeIndividual](AboutMeIndividual.md)
 
 ## Challenge: Multiple HTML files
-The students will be challenged to create multiple HTML files and link between them: [ChallengeInstructions](ChallengeInstructions.md)
+The students will be challenged to create multiple HTML files and link between them: [MultipleHtmlFilesChallenge](MultipleHtmlFilesChallenge.md)
+
+There is also a challenge for the students to build a "Choose Your Own Adventure" game: [ChooseYourOwnAdventureChallenge](ChooseYourOwnAdventureChallenge.md)
 
 ## Suggested Schedule
 | Activity | Time |

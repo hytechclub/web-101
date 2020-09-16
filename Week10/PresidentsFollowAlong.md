@@ -1,10 +1,10 @@
 # Presidents: Follow-Along Activity
 Follow the steps below to update the Presidents website with information about John F. Kennedy. Start from [Presidents.html](Presidents.html), [Presidents.css](Presidents.css), and [LBJ.html](LBJ.html).
 
-## Main page update
+## Main Page Update
 Add an entry row for JFK, including an image, a blurb, and a link to a JFK page. It should appear beneath the LBJ entry.
 
-### Row setup
+### Row Setup
 1. Within the "container" `<div></div>`, underneath the "row" `<div></div>` for Lyndon B. Johnson, add another `div`
     - Set its `class` attribute to "row"
 1. Within the "row" `<div></div>`, add another two `div` elements that will represent columns in the row
@@ -21,7 +21,7 @@ Add an entry row for JFK, including an image, a blurb, and a link to a JFK page.
 </div>
 ```
 
-### Row content
+### Row Content
 1. Within the first column `<div></div>`, add an `img`
     - Set its `src` attribute to "https://i.imgur.com/hsdEYW2.jpg"
 1. Within the second column `<div></div>`, add an `h4` that says "John F. Kennedy"
@@ -51,7 +51,7 @@ Add an entry row for JFK, including an image, a blurb, and a link to a JFK page.
 </div>
 ```
 
-### Row styles
+### Row Styles
 1. Set the `class` attribute of the `img` to "pres-img"
     - This will apply the existing styles for all the president images
 1. Set the `class` attribute of the information `p` to "info-text"
@@ -96,7 +96,7 @@ Create a new HTML file named `JFK.html` (the file linked by the `a` on the main 
 </html>
 ```
 
-### Jumbotron content and style
+### Jumbotron Content and Style
 1. Within the "jumbotron" `<div></div>`, add an `h2` that says "John F. Kennedy"
     - Set its `class` attribute to "display-4" so the Bootstrap styles apply
     - Set its `id` attribute to "jfk-header"
@@ -123,7 +123,7 @@ Create a new HTML file named `JFK.html` (the file linked by the `a` on the main 
 }
 ```
 
-### Container content
+### Container Content
 1. Within the "container" `<div></div>`, add another `div`
     - Set its `class` attribtue to "row"
 1. Within the "row" `<div></div>`, add two additional `div`s
@@ -141,7 +141,7 @@ Create a new HTML file named `JFK.html` (the file linked by the `a` on the main 
     - Robert F. Kennedy: Attorney General
     - J. Edward Day: Postmaster General
 
-### Header hover
+### Header Hover
 1. In the CSS file, create a new ruleset to selet the "jfk-header" element in its hover state
 1. Within the ruleset, create a new declaration that adds a shadow to the text
     - property: `text-shadow`
@@ -185,7 +185,7 @@ Create a new HTML file named `JFK.html` (the file linked by the `a` on the main 
 ```
 
 ## Code
-### Presidents page
+### Presidents Page
 ```html
 <div class="row">
     <div class="col-md-3">
@@ -203,7 +203,7 @@ Create a new HTML file named `JFK.html` (the file linked by the `a` on the main 
 </div>
 ```
 
-### JFK page
+### JFK Page
 ```html
 <html>
     <head>

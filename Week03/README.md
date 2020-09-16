@@ -21,6 +21,8 @@ Students will update their pizza website: [PizzaWebsiteIndividual](PizzaWebsiteI
 ## Challenge: Movie Search
 Students should follow the instructions in the [MovieSearchChallenge](MovieSearchChallenge.md) file to complete the challenge. It introduces forms and allows the user to submit actual data to an IMDb title search.
 
+There is an additional [Post Challenge](PostChallenge.md) as well.
+
 ## Suggested Schedule
 | Activity | Time |
 |-|-|
