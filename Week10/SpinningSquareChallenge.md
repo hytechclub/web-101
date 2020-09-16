@@ -8,7 +8,7 @@ Create an animation of a square rotating, and moving around a square path as it 
 - Give the `div` a height, width, and background-color
     - This `div` is our square
 
-## Rotation animation
+## Rotation Animation
 First, we want to get the square to rotate inifinitely. To do this, we need to use `animation`!
 
 - Create a new `@keyframes` called "rotation"
@@ -23,7 +23,7 @@ First, we want to get the square to rotate inifinitely. To do this, we need to u
 
 Once that's all complete, your square should spin around forever!
 
-## Moving the square
+## Moving the Square
 Now that we have the square rotating, we want to move it around the page in a square path.
 
 - Create a new `@keyframes` called "spin"
@@ -44,7 +44,7 @@ Now, your square should rotate AND spin around!
 ## Updates
 Mess around with the values used by the animations. Make the square spin around in a different shape (e.g., triangle), change colors, or rotate differently. Try to make the most interesting loading indicator you can make!
 
-## More animation options
+## More Animation Options
 Read this w3schools article about animations: https://www.w3schools.com/css/css3_animations.asp
 
 This article introduces some additional properties we can specify for animations. After reading the article, complete the exercises at the bottom.

@@ -54,7 +54,7 @@ At the end of this section, your table header code should look like this:
 </thead>
 ```
 
-## Comparison Table Row data
+## Comparison Table Row Data
 1. Between the opening and closing `tbody` tags, add three `tr`s (table row)
     - Each row will represent one smartphone
 1. In each row, add four `td`s (table data), each corresponding with the column headers
@@ -87,7 +87,7 @@ At the end of this section, your table body code should look like this:
 </tbody>
 ```
 
-## Phone reviews
+## Phone Reviews
 In addition to showing the user the stats of these smartphones, add a review for each of them! Instead of copying and pasting from review sites, use `iframe`s to directly show the reviews on the page.
 
 1. Under the comparison table, add an `h3` that says "Samsung Galaxy Note 9"

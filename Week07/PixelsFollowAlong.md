@@ -30,7 +30,7 @@ Pixel art can be used for almost anything!
     - `rel`: `stylesheet`
     - `type`: `text/css`
 
-## Main container
+## Main Container
 1. In the HTML file, in the `body` tag, create a `div`
 1. Give the `div` an `id` attribute: `main`
     - This `div` element will contain the pixels
@@ -64,7 +64,7 @@ Pixel art can be used for almost anything!
 }
 ```
 
-## Rows and columns for the grid
+## Rows and Columns for the Grid
 1. In the HTML file, within the main `div`, create 4 child `div` elements
     - Each of these `div` elements represents one row
 1. Add a `class` attribute with a value of "horizontal" for each "row" `div`
@@ -103,7 +103,7 @@ Pixel art can be used for almost anything!
 </div>
 ```
 
-## Styling the cells
+## Styling the Cells
 1. In the CSS file, create a new **ruleset** for each cell
     - Selector: `.cell`
     - Curly brackets
@@ -118,7 +118,7 @@ Pixel art can be used for almost anything!
 }
 ```
 
-## Aligning the cells
+## Aligning the Cells
 Currently, each cell `div` will stack vertically. This is the default behavior for HTML `div` elements. Instead, the "cell" elements should display horizontally within each row. CSS Grid layout allows this style.
 > Resource: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
 
@@ -146,7 +146,7 @@ Currently, each cell `div` will stack vertically. This is the default behavior f
 
 Now, the entire main container should be blue, because each cell is 100x100 and they stack properly!
 
-## Filling out the grid with colors
+## Filling Out the Grid with Colors
 1. In the HTML file, add a `class` of "black" to each black cell
 1. Add a `class` of "yellow" to each yellow cell
     - Note that the `div` will now have two classes: `cell` and `yellow`

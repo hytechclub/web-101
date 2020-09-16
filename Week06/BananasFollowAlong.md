@@ -5,7 +5,7 @@ Add some styling to a webpage advertising bananas.
 Watch this video for some background on the exercise: https://www.youtube.com/watch?v=MFmr_TZLpS0&feature=youtu.be&t=21
 
 ## Current Webpage
-So far, there is a simple webpage that has a lot of information about a banana:
+So far, there is a [simple webpage](https://repl.it/@JosephMaxwell/Bananas#index.html) that has a lot of information about a banana:
 
 ```html
 <html>
@@ -73,7 +73,7 @@ So far, there is a simple webpage that has a lot of information about a banana:
 
 All of the information is there, but the page doesn't really pop. It could use a little CSS!
 
-## Adding the first style
+## Adding the First Style
 Bananas are yellow (usually), so it would make sense to make the background of the page a nice yellow-ish color. This is possible with an external CSS stylesheet.
 
 ### CSS styles
@@ -95,7 +95,7 @@ body {
 
 That's all the CSS, but so far it's not actually linked to the HTML page! The HTML needs a `link` element pointing to the CSS file.
 
-### HTML link
+### HTML Link
 1. In the `html` tag, above the `body`, create a new `head` element
     - The `head` should have an opening and closing tag, both above the `<body>`
 1. Between the opening and closing `head` tags, create a new `link` element
@@ -106,7 +106,7 @@ That's all the CSS, but so far it's not actually linked to the HTML page! The HT
     
 Next, open the HTML file in a browser to see the change. The background of the page should appear yellow-ish!
 
-## Adding more `body` styles
+## Adding More `body` Styles
 Any **declaration** within the `body` **ruleset** will apply by default to any element on the webpage.
 
 1. Make the text color for the page a deep blue
@@ -127,7 +127,7 @@ body {
 }
 ```
 
-## Styling the images
+## Styling the Images
 The images on the page are good, but they are a little too big. Use CSS to update their size.
 
 1. In the CSS file, create a new ruleset for images
@@ -144,7 +144,7 @@ img {
 }
 ```
 
-## Styling the main header
+## Styling the Main Header
 The top `h1` should have some special styling as the header for the whole page.
 
 1. In the CSS file, create a new ruleset for `h1`
@@ -167,7 +167,7 @@ h1 {
 }
 ```
 
-## Styling the price
+## Styling the Price
 The price for the banana is within a `span` element, which is a generic inline container for phrasing content. It is generally used to group elements for styling purposes. Since the price is in a `span`, it is possible to style it separately from the surrounding elements.
 
 1. In the CSS file, create a new ruleset for `span`

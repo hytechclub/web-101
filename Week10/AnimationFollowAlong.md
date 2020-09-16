@@ -8,7 +8,7 @@ Use CSS to animate the `background-color` property on a webpage!
 1. Create a new CSS file
 1. In the HTML file, within the `<head></head>` element, add a `link` element that links the CSS file
 
-## Defining an animation with keyframes
+## Defining an Animation with Keyframes
 When animating using CSS, the styles are defined at certain **keyframes**. These keyframes represent the styles of an element at a given point in time, during the animation cycle.
 
 To make the background color black at the very beginning of the animation (or, `0%` of the way through), the keyframe would look like a normal CSS ruleset, but with `0%` as the selector. Add the following code in the CSS file:
@@ -44,7 +44,7 @@ Add the following code to define a new keyframes ruleset named "pulse" that will
 }
 ```
 
-## Using an animation on an HTML element
+## Using an Animation on an HTML Element
 After defining an animation's keyframes, it must be applied to an element to take effect. Apply this animation to the whole page by selecting the `body` in the CSS file, and creating a declaration that points to the "pulse" animation.
 
 1. In the CSS file, create a new ruleset that will apply to the entire `body`
@@ -68,7 +68,7 @@ body {
 }
 ```
 
-## Adding another keyframe
+## Adding Another Keyframe
 With the keyframes ruleset set up, it's easy to add an additional frame at any point in the animation cycle. Add a frame at `50%` of the way through that sets the background color to pink.
 
 ## Code

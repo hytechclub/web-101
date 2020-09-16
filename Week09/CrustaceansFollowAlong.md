@@ -55,7 +55,7 @@ When an HTML element changes its state, CSS can dynamically update the styles fo
 
 Open the file in a browser to see how it looks so far!
 
-### Hover state
+### Hover State
 To select an HTML element in a given state, use a **pseudo-selector**. These start with `:` and are placed at the end of a CSS selector. For example, to select the `div` with `id="subscribe"` in its hover state, add `:hover` to the selector.
 
 ```css
@@ -86,7 +86,7 @@ When the element _leaves_ the hover state, it reverts back to the original style
 
 Now, the `div` should slowly add/remove a box shadow when the user hovers over it and leaves.
 
-### Active state
+### Active State
 In addition to the `:hover` selector, some HTML elements have an `:active` selector. Use `:active` to tell when a user has clicked a `div` element on the page.
 
 Make it so that the button changes color when the user clicks it. It should take `.5` seconds to transition into this state. To accomplish this, use a selector of `#subscribe:active`, and the `transition` and `background-color` properties:
@@ -140,7 +140,7 @@ Use transforms to change the shape and position of HTML elements without affecti
 }
 ```
 
-### Rotating the article with a transform
+### Rotating the Article with a Rransform
 >Rotate: https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate
 To rotate the article on the page, use the `transform` CSS property. `transform` can do a whole lot of different things, but in this case, use `rotate` to spin the article around. Rotate the article 200 degrees, so that it appears upside-down and tilted. Add the following declaration to the "info" ruleset:
 
@@ -148,25 +148,25 @@ To rotate the article on the page, use the `transform` CSS property. `transform`
 transform: rotate(200deg);
 ```
 
-### Moving the box with a transform
+### Moving the Box with a Rransform
 >Translate: https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate
 It is also possible to move an element from one position to another using `transform`. To do this, use the `translate` value of the `transform` property.
 
-#### Move the article to the right
+#### Move the Article to the Right
 If only one value is passed to the `translate` function, it will move along the X axis (horizontally). The CSS below will move the article 20 pixels to the right.
 
 ```css
 transform: translate(20px);
 ```
 
-#### Move the article up
+#### Move the Article Up
 Using `translateY` instead of simply `translate` will move the element along the Y axis (vertically). The CSS below will move the article 20 pixels up.
 
 ```css
 transform: translateY(-20px);
 ```
 
-### Combining a transform and a transition
+### Combining a Transform and a Transition
 To make the article move up when the user hovers over it, use a `transform` AND a `transition` at the same time!
 
 First, select the "info" article in its hover state. Move the `transform` with the `translateY` to that ruleset.

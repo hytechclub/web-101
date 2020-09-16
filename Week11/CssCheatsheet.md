@@ -18,7 +18,7 @@ p {
 A **declaration** is a specific CSS _property_ set to a property _value_. To define a declaration, use:
 - Property name
 - Colon (`:`)
-- Propert value
+- Property value
 - Semi-colon (`;`)
 
 #### Example

@@ -4,7 +4,7 @@ Complete one of the following projects. Alternatively, with instructor permissio
 ## Resumé/Portfolio
 One of the most important things you'll need if you want to apply for almost any job is a resumé. It can help you stand out as a great candidate by showing off your skills, education, and previous work experience. For some jobs, you will also need to compile a selection of samples of work into a portfolio. This allows an employer to view everything you've done in one place, and helps them decide to hire you.
 
-Ccreate a webpage that shows off some of the cool things you have done. You should use some of the work you've completed in HTML and CSS, along with anything else you think might be helpful when applying for a job in a field of your choice.
+Create a webpage that shows off some of the cool things you have done. You should use some of the work you've completed in HTML and CSS, along with anything else you think might be helpful when applying for a job in a field of your choice.
 
 ### Functional Requirements
 Your final webpage should contain the three sections listed below. A user should be able to navigate between sections easily.
@@ -17,7 +17,7 @@ Create a resumé containing:
 - Your name
 - Any previous jobs you have had, and how long you had them
 - Relevant classes you have taken in school
-- Extra-curricular activites in which you participate
+- Extra-curricular activities in which you participate
 - Any additional skills or accolades
 
 #### Portfolio

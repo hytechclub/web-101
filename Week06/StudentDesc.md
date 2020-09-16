@@ -1,20 +1,15 @@
 # Web 101: Week 6 - CSS Introduction
+Learn how to use CSS to add style to webpages.
 
-## Online Learning
-If you are working on this from home, follow these steps:
+## Introduction to CSS
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week06/IntroductionToCss.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
-1. Watch the Lecture video before Office Hours
-1. Watch the Code-Along video and complete the activity before or during Office Hours
-1. Complete the Individual Exercise before or during Office Hours
-1. Complete the Challenge before, during, or after Office Hours
-
-## Lecture
-- [Video](https://www.youtube.com/watch?v=FeDIKh0WMO8&list=PL1P_sExxi-9PSNwmays_UE8JYllVu7P7u&index=3&t=0s)
-- <a href="IntroductionToCssOld.pptx" target="_blank">Introduction to CSS PowerPoint Presentation</a>
+## CSS Selectors & Properties
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week06/CssSelectorsAndProperties.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Code-Along
-- [Video](https://www.youtube.com/watch?v=hk06Ul9Iagg&list=PL1P_sExxi-9PSNwmays_UE8JYllVu7P7u&index=3)
 - [Bananas Follow-Along](BananasFollowAlong.md)
+<iframe width="100%" height="450px" src="https://www.youtube.com/embed/hk06Ul9Iagg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Individual Exercise & Challenge
 - [Bananas Exercise](BananasIndividual.md)

@@ -2,6 +2,10 @@
 For the first week of the club, focus mainly on developing classroom culture/icebreakers/preliminary stuff.
 
 ## Ice Breakers
+
+### Virtual Icebreaker
+Complete a virtual activity to allow the students to get to know each other, and encourage them to share their screen/mic/video. One possibility is to have each student go to [Sketchpad](https://sketch.io/sketchpad/) and have them draw something. Then, go around the room and have each student introduce their drawing by sharing their screen.
+
 ### Candy Introductions
 Each student takes two pieces of candy (there should be a variety), but they are NOT allowed to eat it yet. Once every student has their candy, reveal that each type of candy corresponds to a question they will have to answer! These questions can be:
 
@@ -34,6 +38,8 @@ There is a practice Kahoot that's just trivia (some relevant, some irrelevant): 
 Present the HelloHTML PowerPoint
 
 ### Basic Visual Studio Code/Windows demo
+>Note: Skip this for a virtual club
+
 - Getting files to work on
 - Opening VSCode
 - Opening their folder in VSCode

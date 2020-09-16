@@ -20,8 +20,6 @@ Create a CSS file containing:
 - At least one id selector
 - At least one class selector
 - At least one element selector
-- At least one pseudo-selector
-- At least one transition/transform
 - At least one responsive element (_hint: use Bootstrap!_)
 
 ## Presentations

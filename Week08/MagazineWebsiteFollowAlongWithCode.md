@@ -126,7 +126,7 @@ Add an additional article to the webpage. The second article should take up the 
     After years of planning and construction, Goodyear's fleet of high-technology Zeppelin airships is complete. The old blimp had two propeller engines that only pointed to the rear. But the new NTs have three engines that swivel in multiple directions, increasing maneuverability and control...
     ```
 
-### Adding CSS for all articles
+### Adding CSS for All Articles
 To make the article text appear dark grey, follow the steps below:
 1. In the HTML file, add a `class` attribute to the `p` elements containing article text, and set the values to "article-text"
 1. In the CSS file, create a new ruleset for the `p`s with a `class` of "article-text"

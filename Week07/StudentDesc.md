@@ -1,21 +1,18 @@
 # Web 101: Week 7 - HTML Divs & Spans, CSS Selectors
+Learn how to use HTML `div` and `span` elements, along with some new CSS selectors, to do even more with CSS.
 
-## Online Learning
-If you are working on this from home, follow these steps:
+## More CSS Selectors
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week07/MoreSelectors.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
-1. Watch the Lecture videos before Office Hours
-1. Watch the Code-Along video and complete the activity before or during Office Hours
-1. Complete the Individual Exercise before or during Office Hours
-1. Complete the Challenge before, during, or after Office Hours
+## Individual Activity - CSS Diner
+Complete levels 1-6 of [this online game](https://flukeout.github.io/) to practice CSS selectors.
 
-## Lectures
-- <a href="MoreHtml.pptx" target="_blank">More HTML PowerPoint Presentation</a>
-- <a href="MoreSelectors.pptx" target="_blank">More Selectors PowerPoint Presentation</a>
-- [Video](https://www.youtube.com/watch?v=4_xLkHpyf7U&list=PL1P_sExxi-9PSNwmays_UE8JYllVu7P7u&index=34&t=0s)
+## More HTML - `div` and `span`
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week07/MoreHtml.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
-## Code-Along
+## Pixels Code-Along
 - [Pixels Follow-Along](PixelsFollowAlong.md)
-- [Video](https://www.youtube.com/watch?v=GUw45A8d4n0&list=PL1P_sExxi-9PSNwmays_UE8JYllVu7P7u&index=35)
+<iframe width="100%" height="450px" src="https://www.youtube.com/embed/GUw45A8d4n0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Individual Exercise & Challenges
 - [Pixels Exercise](PixelsIndividual.md)

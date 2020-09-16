@@ -1,12 +1,12 @@
 # Pizza Website: Follow-Along Activity
-Alfredo's Pizza Cafe has some great pizza, but unfortunately their technological prowess is not so great. They need your help to create their website! They want to provide some information about their restuarants, along with an order form so customers can order pies online.
+Alfredo's Pizza Cafe has some great pizza, but unfortunately their technological prowess is not so great. They need your help to create their website! They want to provide some information about their restaurants, along with an order form so customers can order pies online.
 
 ## Setup
 1. Create a new `.html` file
 1. Add the `html` tags (opening and closing)
 1. Add the `body` tags within the `html` tags
 
-## Adding the basics
+## Adding the Basics
 1. Add an `h1` header that says "Alfredo's Pizza Cafe" within the `body`
 1. Under the `h1`, add an `img` of the pizza (set the `src` attribute to "https://i.imgur.com/v4GLRqb.jpg")
 1. Under the `img`, add a `p` that says "WE'RE NOT FINE DINING; WE'RE JUST FINE FOOD!"
@@ -24,7 +24,7 @@ At the end of this section, your code should look like this:
 </html>
 ```
 
-## Add a list of locations
+## Adding a List of Locations
 1. Add an `h2` header under the `p` that says "Locations"
 1. Under the `h2`, add a new `ul` (unordered list)
 1. Within the `ul`, add some locations within `li` elements

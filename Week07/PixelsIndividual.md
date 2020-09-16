@@ -17,7 +17,7 @@ Make updates so that each pixel in the grid is 50x50 instead of 100x100.
 1. Set the `height` of each cell to 50px instead of 100px
     - This is in the `.cell` ruleset
 
-## Part 3 - Make your own sprite
+## Part 3 - Make Your Own Sprite
 Instead of PAC-MAN, create a totally different 4x4 pixel art character! Feel free to copy one of the designs from here: http://4x4pixels.blogspot.com/search/label/Pixelheroes
 
 For a good starting point, try The Long Tetris Block: http://4x4pixels.blogspot.com/2010/11/pixelheroes-021-long-tetris-block.html
@@ -30,7 +30,7 @@ For a good starting point, try The Long Tetris Block: http://4x4pixels.blogspot.
 1. In the HTML file, add an appropriate color class to each `div`
     - For example, in the long tetris block, the third cell in each row would have the `green` class
 
-## (BONUS) Make a 5x5 sprite
+## (BONUS) Make a 5x5 Sprite
 It's hard to represent a character in only 32 cells. Instead of using a 4x4 grid, update the code so that it's 5x5. Then, create a new 5x5 sprite using the extra space!
 
 ![](https://i.imgur.com/H1Z5X8E.png)
