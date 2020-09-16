@@ -37,7 +37,7 @@ Use the sample portfolios below for inspiration! Your webpage does not have to b
 
 #### Web Design
 - http://mattfarley.ca/
-- https://www.taniarascia.com/resume/
+- https://www.taniarascia.com/
 - http://fevenamenu.com/home.html
 
 #### Other
