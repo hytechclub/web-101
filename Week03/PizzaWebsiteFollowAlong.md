@@ -1,10 +1,10 @@
 # Pizza Website: Follow-Along Activity
-Alfredo's Pizza Cafe has some great pizza, but unfortunately their technological prowess is not so great. They need your help to create their website! They want to provide some information about their restaurants, along with an order form so customers can order pies online.
+Alfredo's Pizza Cafe has some great pizza, but unfortunately their technological prowess is not so great. They need your help to create their website! They want to provide some information about their restaurants, along with an order form so customers can order pies online. Start from [this empty Repl](https://repl.it/@JosephMaxwell/EmptyWeb#index.html), and then follow the instructions below.
 
 ## Setup
-1. Create a new `.html` file
-1. Add the `html` tags (opening and closing)
-1. Add the `body` tags within the `html` tags
+1. Open up the **index.html** file
+2. Add the `html` tags (opening and closing)
+3. Add the `body` tags within the `html` tags
 
 ## Adding the Basics
 1. Add an `h1` header that says "Alfredo's Pizza Cafe" within the `body`

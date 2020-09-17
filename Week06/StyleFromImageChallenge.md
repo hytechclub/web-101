@@ -6,7 +6,7 @@ Recreate the webpage from this image:
 ![](https://i.imgur.com/He1y4cV.png)
 
 ### HTML
-Start by creating the HTML file, and filling in the HTML content. You will need to use headers, paragraphs, lists, and hyperlinks!
+Start by filling in the HTML content. You will need to use headers, paragraphs, lists, and hyperlinks!
 
 ### CSS
 Once the basic structure is filled out, create a CSS file and link it in the HTML. Then, start adding the styles to the page.

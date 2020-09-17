@@ -3,7 +3,7 @@ Here is an image of a webpage:
 
 ![](https://i.imgur.com/Ikct8WW.png)
 
-Your goal is to replicate the webpage using HTML! Start by creating and saving a new HTML file. Then, start adding the necessary code to create your webpage!
+Your goal is to replicate the webpage using HTML! Start from [this empty Repl](https://repl.it/@JosephMaxwell/EmptyWeb#index.html). Then, start adding the necessary code to create your webpage!
 
 ## Helpful Resources
 - The Dunder Mifflin image is here: https://i.imgur.com/1ILZgbP.jpg

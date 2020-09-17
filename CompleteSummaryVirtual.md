@@ -1,3 +1,4 @@
+- [Repl Setup](ReplSetup.md)
 - [Week 1 - HTML Introduction](Week01/StudentDesc.md)
     - [Hello HTML Challenge](Week01/HtmlIntroChallenge.md)
 - [Week 2 - HTML Headers, Paragraphs, Links, & Images](Week02/StudentDesc.md)

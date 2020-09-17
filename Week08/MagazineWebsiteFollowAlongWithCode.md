@@ -2,19 +2,21 @@
 Create a simple website for a magazine called _Dirigible Digest_. The website will contain articles related to dirigibles, and will be formatted using Bootstrap. A dirigible balloon, or airship, is a type of aerostat or lighter-than-air aircraft that can navigate through the air under its own power. For more information about dirigibles, refer to this article: https://en.wikipedia.org/wiki/Airship.
 
 ## Setup
+Start from [this empty Repl](https://repl.it/@JosephMaxwell/EmptyWeb#index.html), and then follow the instructions below.
+
 ### HTML File
-1. Create a new `.html` file, and add the basic tags: `html`, `head`, `body`
-1. Within the `<head></head>` element, add the `meta` tag for `viewport`:  
+1. Open the **index.html** file, and add the basic tags: `html`, `head`, `body`
+2. Within the `<head></head>` element, add the `meta` tag for `viewport`:  
     ```html
     <meta name="viewport" content="width=device-width, initial-scale=1">
     ```
-1. Within the `<head></head>` element, add the `link` tag for the bootstrap stylesheet:  
+3. Within the `<head></head>` element, add the `link` tag for the bootstrap stylesheet:  
     ```html
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     ```
 
 ### CSS File
-1. Create a new `.css` file named "MagazineWebsite.css"
+1. Create a new `.css` file named **MagazineWebsite.css**
 1. Link the CSS file within the HTML file using a `link` tag
 
 #### Code

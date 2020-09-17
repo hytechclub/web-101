@@ -1,12 +1,12 @@
 # Phone Comparison: Follow-Along Activity
-Follow the instructions below to build a webpage that helps users compare the various features of different smart phones. Use a `table` and some `iframes` to provide information to the user.
+Follow the instructions below to build a webpage that helps users compare the various features of different smart phones. Use a `table` and some `iframes` to provide information to the user. Start from [this empty Repl](https://repl.it/@JosephMaxwell/EmptyWeb#index.html), and then follow the instructions below.
 
 ## Setup
-1. Create a new `.html` file
+1. Open the **index.html** file
 1. Add the `html` tags (opening and closing)
 1. Add the `body` tags within the `html` tags
 1. Add an `h1` header that says "Phone Comparison" within the `body`
-1. Open your webpage in a browser and make sure it appears as expected!
+1. Click the **Run** button and make sure it appears as expected!
 
 At the end of this section, your webpage code should look like this:
 ```html
@@ -21,7 +21,7 @@ At the end of this section, your webpage code should look like this:
 1. Under the header, add a `table` tag (opening and closing)
 1. Add the "border" attribute to the `table` element so a border appears
 1. Between the opening and closing `table` tags, add a `thead` (table header)
-1. Under the `thead` (as its sibiling), add a `tbody` (table body)
+1. Under the `thead` (as its sibling), add a `tbody` (table body)
 
 At the end of this section, your table code should look like this:
 ```html

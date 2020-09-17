@@ -22,7 +22,9 @@ Now, some developers copy this style for their own art
 Pixel art can be used for almost anything!
 
 ## Setup
-1. Create a new HTML file named `Pixels.html`
+Start from [this empty Repl](https://repl.it/@JosephMaxwell/EmptyWeb#index.html), and then follow the instructions below.
+
+1. Open the **index.html** file
 1. Add the basic tags to the HTML file - `html`, `head`, `body`
 1. Create a new CSS file named `Pixels.css`
 1. Link the CSS file in the HTML file using a `link` tag
@@ -42,7 +44,7 @@ Pixel art can be used for almost anything!
     - `width`: `400px`
     - `border`: `2px solid black`
 
-##### Pixels.html
+##### index.html
 ```html
 <html>
     <head>
@@ -161,7 +163,7 @@ Now, the entire main container should be blue, because each cell is 100x100 and 
 
 That's it! Refresh the page and PAC-MAN should appear in the grid.
 
-##### Pixels.html
+##### index.html
 ```html
 <html>
     <head>

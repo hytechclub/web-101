@@ -1,12 +1,11 @@
 # About Me: Follow-Along
-With this exercise, you will create a webpage that shows some information about yourself.
+With this exercise, you will create a webpage that shows some information about yourself. Start from [this empty Repl](https://repl.it/@JosephMaxwell/EmptyWeb#index.html), and then follow the instructions below.
 
 ## Setup
-1. Create a new HTML file called `AboutMe.html`
-1. In the new HTML file, add the `<html></html>` opening and closing tag
+1. In the **index.html** file, add the `<html></html>` opening and closing tag
 1. Inside of the `<html>` and `</html>`, add the `<body></body>` opening and closing tag
 1. Inside of the `<body>` and `</body>`, add a `<h1></h1>` header tag that says "About Me"
-1. Open up the `AboutMe.html` file in a web browser to make sure your page is working!
+1. Click the **Run** button to make sure your page is working!
 
 At the end of the **Setup**, your code should look like this (try to match the spacing):
 ```html
@@ -50,7 +49,7 @@ At the end of this section, your code should look something like this:
     1. Set the `href` of the image to the URL, in quotes
     1. Inside of the anchor tag, insert the text "Wikipedia"
 
-**Note: For `a` elements to work in Repl, the project must be opened in its own window:**
+**Note: For `a` elements to work in Repl, the project must be opened in a separate window:**
 
 ![](https://i.imgur.com/F03DwMY.png)
 
