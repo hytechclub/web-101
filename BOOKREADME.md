@@ -5,7 +5,15 @@ Welcome to the Web 101 Hy-Tech Club course!
 The Web 101 course will use [Repl](https://repl.it). Please complete the [Repl setup steps](ReplSetup.md) before the course begins.
 
 ## Zoom Meetings
-The course will meet weekly on Wednesdays via [Zoom]() from 4:30 p.m. to 6:30 p.m. ET.
+The course will meet weekly on Wednesdays via **Zoom** from 4:00 p.m. to 6:00 p.m. ET.
+
+[Click Here to join from PC, Mac, Linux, iOS or Android](https://hyland.zoom.us/j/94646936429?pwd=MFdHMVI0SlM4b2JJSytoV0FRbVY3UT09). If prompted, the password for the meeting is **392044**.
+
+## Discord
+Use **Discord** to ask questions, view announcements, and chat with fellow students. Note that students are **NOT** required to use Discord.
+
+- [Course Server](https://discord.com/channels/755024895754240020/)
+- [Usage Guidelines & Setup Instructions](https://hylandtechclub.com/DiscordUse)
 
 ## Schedule
 Follow the links below to view each week of material.
@@ -25,6 +33,9 @@ Follow the links below to view each week of material.
 
 ## Points
 Earn points throughout the semester by asking good questions, answering questions, helping others, working hard, and behaving well!
+
+### Viewing Point Totals
+Check out [this guide](https://hylandtechclub.com/ClassDojoPoints) for viewing point totals in ClassDojo.
 
 ### Rewards
 Points can be redeemed for a variety of rewards.
