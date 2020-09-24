@@ -7,7 +7,10 @@ The Web 101 course will use [Repl](https://repl.it). Please complete the [Repl s
 ## Zoom Meetings
 The course will meet weekly on Wednesdays via **Zoom** from 4:00 p.m. to 6:00 p.m. ET.
 
-[Click Here to join from PC, Mac, Linux, iOS or Android](https://hyland.zoom.us/j/94646936429?pwd=MFdHMVI0SlM4b2JJSytoV0FRbVY3UT09). If prompted, the password for the meeting is **392044**.
+The meeting ID is **946 4693 6429**, and the password is **392044**.
+
+- [Click Here to join from PC, Mac, Linux, iOS or Android](https://hyland.zoom.us/j/94646936429?pwd=MFdHMVI0SlM4b2JJSytoV0FRbVY3UT09).
+- To join by phone: Dial [+1 312 626 6799](tel:+13126266799) and enter the meeting ID and password.
 
 ## Discord
 Use **Discord** to ask questions, view announcements, and chat with fellow students. Note that students are **NOT** required to use Discord.
