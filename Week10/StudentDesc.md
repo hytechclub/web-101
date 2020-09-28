@@ -1,4 +1,5 @@
-# Web 101: Week 10 - Practice
+# Practice
+Complete the extra practice activities below.
 
 ## Code-Along
 - [Presidents Follow-Along](PresidentsFollowAlong.md)

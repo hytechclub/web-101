@@ -1,5 +1,5 @@
-# Web 101: Week 9 - Transitions & Transforms
-Learn how to use CSS transitions and transforms to make a more dynamic website.
+# Transitions & Transforms
+Learn how to use CSS transitions and transforms to make a more dynamic website. Complete the [Crustaceans Follow-Along](CrustaceansFollowAlong.md) activity, using the resources as needed. If desired, complete the individual exercise and challenges as well.
 
 ## Resources
 - [Examples](https://codepen.io/tkjn/pen/MzwaEo)
