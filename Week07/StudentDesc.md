@@ -15,7 +15,6 @@ Complete levels 1-6 of [this online game](https://flukeout.github.io/) to practi
 
 ## Pixels Follow-Along
 - [Pixels Follow-Along](PixelsFollowAlong.md)
-<iframe width="100%" height="450px" src="https://www.youtube.com/embed/GUw45A8d4n0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Individual Exercise & Challenges
 - [Pixels Exercise](PixelsIndividual.md)
