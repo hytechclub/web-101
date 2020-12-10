@@ -16,7 +16,8 @@ Create at least two HTML files that are accessible from each other via hyperlink
 
 ### CSS
 Create a CSS file containing:
-- At least ten styles
+- At least ten style declarations
+  - ex: `background: blue` is _one_ declaration
 - At least one id selector
 - At least one class selector
 - At least one element selector
