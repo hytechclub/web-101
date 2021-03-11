@@ -3,7 +3,12 @@ Here is an image of a webpage:
 
 ![](https://i.imgur.com/Ikct8WW.png)
 
+(view the full-size image here: https://i.imgur.com/Ikct8WW.png)
+
 Your goal is to replicate the webpage using HTML! Start from [this empty Repl](https://repl.it/@JosephMaxwell/EmptyWeb#index.html). Then, start adding the necessary code to create your webpage!
+
+## Notes
+It is not necessary to have each part of the text/content match the image exactly. The important thing is recognizing each element and creating it with HTML! The [HTML Cheatsheet](../Week05/HtmlCheatsheet.md) can be a big help.
 
 ## Helpful Resources
 - The Dunder Mifflin image is here: https://i.imgur.com/1ILZgbP.jpg
