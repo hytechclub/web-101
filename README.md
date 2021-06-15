@@ -14,7 +14,7 @@
 - Week 12: Final project presentations
 
 ## 11-Week Virtual Semester
-For an 11-week semester, skip the content for Week 10 and instead have the students begin working on their final projects. They can present their projects Week 11. Additionally, use [repl.it](https://repl.it) instead of VS Code for a virtual semester.
+For an 11-week semester, skip the content for Week 10 and instead have the students begin working on their final projects. They can present their projects Week 11. Additionally, use [Replit](https://replit.com) instead of VS Code for a virtual semester.
 
 ## General Class Flow
 ### Warmup
