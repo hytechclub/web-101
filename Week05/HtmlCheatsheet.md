@@ -128,7 +128,7 @@ Represents a multi-line plain-text editing control
 <textarea></textarea>
 ```
 
-## Table - `table`, `thead`, `tbody`, `tr`, `th`, and `td`
+## Table - `table`, `tr`, `th`, and `td`
 Represents tabular data: information that is presented in a two-dimensional table comprised of rows and columns of cells containing data
 
 ### Attributes
@@ -136,22 +136,18 @@ Represents tabular data: information that is presented in a two-dimensional tabl
 
 ```html
 <table>
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Age</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Sally</td>
-            <td>65</td>
-        </tr>
-        <tr>
-            <td>Bernard</td>
-            <td>59</td>
-        </tr>
-    </tbody>
+    <tr>
+        <th>Name</th>
+        <th>Age</th>
+    </tr>
+    <tr>
+        <td>Sally</td>
+        <td>65</td>
+    </tr>
+    <tr>
+        <td>Bernard</td>
+        <td>59</td>
+    </tr>
 </table>
 ```
 

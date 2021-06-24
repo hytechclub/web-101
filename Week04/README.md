@@ -8,8 +8,6 @@ For this lesson's content, cover two additional HTML elements: `table`s and `ifr
 - Cover new HTML Elements:
     - Tables
         - `table`
-        - `thead`
-        - `tbody`
         - `tr`
         - `th`
         - `td`
