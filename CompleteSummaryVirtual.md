@@ -1,6 +1,7 @@
 - [Replit Setup](ReplitSetup.md)
 - [Week 1 - HTML Introduction](Week01/StudentDesc.md)
-    - [Hello HTML Challenge](Week01/HtmlIntroChallenge.md)
+    - [Replit Introduction](Week01/ReplitIntroduction.md)
+    - [HTML Intro Challenge](Week01/HtmlIntroChallenge.md)
 - [Week 2 - HTML Headers, Paragraphs, Links, & Images](Week02/StudentDesc.md)
     - [About Me Follow-Along](Week02/AboutMeFollowAlong.md)
     - [About Me Exercise](Week02/AboutMeIndividual.md)
