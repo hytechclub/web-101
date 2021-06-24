@@ -29,28 +29,26 @@ So far, there is a [simple webpage](https://repl.it/@JosephMaxwell/Bananas#index
 		
 		<h2>Specs:</h2>
 		<table>
-			<tbody>
-				<tr>
-					<td>Dimensions:</td>
-					<td>12" x 2" x 2"</td>
-				</tr>
-				<tr>
-					<td>Weight:</td>
-					<td>3oz</td>
-				</tr>
-				<tr>
-					<td>Processing Time:</td>
-					<td>4 days</td>
-				</tr>
-				<tr>
-					<td>Ships From:</td>
-					<td>Cancun, Mexico</td>
-				</tr>
-				<tr>
-					<td>Returns:</td>
-					<td>Accepted for 1 year</td>
-				</tr>
-			</tbody>
+			<tr>
+				<td>Dimensions:</td>
+				<td>12" x 2" x 2"</td>
+			</tr>
+			<tr>
+				<td>Weight:</td>
+				<td>3oz</td>
+			</tr>
+			<tr>
+				<td>Processing Time:</td>
+				<td>4 days</td>
+			</tr>
+			<tr>
+				<td>Ships From:</td>
+				<td>Cancun, Mexico</td>
+			</tr>
+			<tr>
+				<td>Returns:</td>
+				<td>Accepted for 1 year</td>
+			</tr>
 		</table>
 		
 		<h2>Reviews:</h2>
