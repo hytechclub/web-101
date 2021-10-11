@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Phone Comparison Follow-Along · GitBook</title>
+        <title>Game Comparison Code-Along · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -61,7 +61,7 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="PhoneComparisonIndividual.html" />
+    <link rel="next" href="GameComparisonIndividual.html" />
     
     
     <link rel="prev" href="StudentDesc.html" />
@@ -320,12 +320,12 @@
             <ul class="articles">
                 
     
-        <li class="chapter active" data-level="1.6.1" data-path="PhoneComparisonFollowAlong.html">
+        <li class="chapter active" data-level="1.6.1" data-path="GameComparisonCodeAlong.html">
             
-                <a href="PhoneComparisonFollowAlong.html">
+                <a href="GameComparisonCodeAlong.html">
             
                     
-                    Phone Comparison Follow-Along
+                    Game Comparison Code-Along
             
                 </a>
             
@@ -333,12 +333,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.6.2" data-path="PhoneComparisonIndividual.html">
+        <li class="chapter " data-level="1.6.2" data-path="GameComparisonIndividual.html">
             
-                <a href="PhoneComparisonIndividual.html">
+                <a href="GameComparisonIndividual.html">
             
                     
-                    Phone Comparison Exercise
+                    Game Comparison Exercise
             
                 </a>
             
@@ -781,7 +781,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >Phone Comparison Follow-Along</a>
+        <a href=".." >Game Comparison Code-Along</a>
     </h1>
 </div>
 
@@ -796,20 +796,21 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="phone-comparison-follow-along-activity">Phone Comparison: Follow-Along Activity</h1>
-<p>Follow the instructions below to build a webpage that helps users compare the various features of different smart phones. Use a <code>table</code> and some <code>iframes</code> to provide information to the user. Start from <a href="https://repl.it/@JosephMaxwell/EmptyWeb#index.html" target="_blank">this empty Repl</a>, and then follow the instructions below.</p>
+                                <h1 id="game-comparison-code-along-activity">Game Comparison: Code-Along Activity</h1>
+<p>Follow the instructions below to build a webpage that helps users compare the various features of different games. Use a <code>table</code> and some <code>iframes</code> to provide information to the user. Start from <a href="https://replit.com/@HylandOutreach/EmptyWeb#index.html" target="_blank">this empty Repl</a>, and then follow the instructions below.</p>
 <h2 id="setup">Setup</h2>
+<p>Start with the basic HTML setup for the page.</p>
 <ol>
-<li>Open the <strong>index.html</strong> file</li>
+<li>Open the <strong>index.html</strong> file for editing</li>
 <li>Add the <code>html</code> tags (opening and closing)</li>
 <li>Add the <code>body</code> tags within the <code>html</code> tags</li>
-<li>Add an <code>h1</code> header that says &quot;Phone Comparison&quot; within the <code>body</code></li>
+<li>Add an <code>h1</code> header that says &quot;Game Comparison&quot; within the <code>body</code></li>
 <li>Click the <strong>Run</strong> button and make sure it appears as expected!</li>
 </ol>
 <p>At the end of this section, your webpage code should look like this:</p>
 <pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
     <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>Phone Comparison<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>Game Comparison<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
     <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
 <span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
 </code></pre>
@@ -817,138 +818,125 @@
 <ol>
 <li>Under the header, add a <code>table</code> tag (opening and closing)</li>
 <li>Add the &quot;border&quot; attribute to the <code>table</code> element so a border appears</li>
-<li>Between the opening and closing <code>table</code> tags, add a <code>thead</code> (table header)</li>
-<li>Under the <code>thead</code> (as its sibling), add a <code>tbody</code> (table body)</li>
 </ol>
 <p>At the end of this section, your table code should look like this:</p>
 <pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">table</span> <span class="hljs-attr">border</span>=<span class="hljs-string">&quot;1&quot;</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">thead</span>&gt;</span>
-    <span class="hljs-tag">&lt;/<span class="hljs-name">thead</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">tbody</span>&gt;</span>
-    <span class="hljs-tag">&lt;/<span class="hljs-name">tbody</span>&gt;</span>
+
 <span class="hljs-tag">&lt;/<span class="hljs-name">table</span>&gt;</span>
 </code></pre>
 <h2 id="comparison-table-headers">Comparison Table Headers</h2>
 <ol>
-<li>Between the opening and closing <code>thead</code> tags, add a <code>tr</code> (table row)</li>
+<li>Between the opening and closing <code>table</code> tags, add a <code>tr</code> (table row)</li>
 <li>Between the opening and closing <code>tr</code> tags, add four <code>th</code>s (table header data)</li>
 <li>Make the content for the <code>th</code> tags the following text values:<ul>
-<li>Phone Name</li>
-<li>Display Size</li>
-<li>Weight</li>
-<li>Internal Storage</li>
+<li>Game Title</li>
+<li>Release Year</li>
+<li>Platform</li>
+<li>Price</li>
 </ul>
 </li>
 </ol>
 <p>At the end of this section, your table header code should look like this:</p>
-<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">thead</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">th</span>&gt;</span>Phone Name<span class="hljs-tag">&lt;/<span class="hljs-name">th</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">th</span>&gt;</span>Display Size<span class="hljs-tag">&lt;/<span class="hljs-name">th</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">th</span>&gt;</span>Weight<span class="hljs-tag">&lt;/<span class="hljs-name">th</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">th</span>&gt;</span>Internal Storage<span class="hljs-tag">&lt;/<span class="hljs-name">th</span>&gt;</span>
-    <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
-<span class="hljs-tag">&lt;/<span class="hljs-name">thead</span>&gt;</span>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">th</span>&gt;</span>Game Title<span class="hljs-tag">&lt;/<span class="hljs-name">th</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">th</span>&gt;</span>Release Year<span class="hljs-tag">&lt;/<span class="hljs-name">th</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">th</span>&gt;</span>Platform<span class="hljs-tag">&lt;/<span class="hljs-name">th</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">th</span>&gt;</span>Price<span class="hljs-tag">&lt;/<span class="hljs-name">th</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
 </code></pre>
 <h2 id="comparison-table-row-data">Comparison Table Row Data</h2>
 <ol>
-<li>Between the opening and closing <code>tbody</code> tags, add three <code>tr</code>s (table row)<ul>
-<li>Each row will represent one smartphone</li>
+<li>Between the opening and closing <code>table</code> tags, add three <code>tr</code>s (table row)<ul>
+<li>Each row will represent one game</li>
 </ul>
 </li>
 <li>In each row, add four <code>td</code>s (table data), each corresponding with the column headers</li>
 <li>The data should be as follows:<ul>
-<li>Samsung Galaxy Note 9, 6.4 inches, 7.09 oz, 126 GB</li>
-<li>Apple iPhone XR, 6.1 inches, 6.84 oz, 256 GB</li>
-<li>LG G7, 6.1 inches, 5.71 oz, 64 GB</li>
+<li>Fortnite, 2017, Multiple, Free</li>
+<li>Candy Crush Saga, 2012, Mobile, Free</li>
+<li>Pokemon Sword &amp; Shield, 2019, Nintendo Switch, $59.99</li>
 </ul>
 </li>
 </ol>
 <p>At the end of this section, your table body code should look like this:</p>
-<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">tbody</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Samsung Galaxy Note 9<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>6.4 inches<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>7.09 oz<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>126 GB<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-    <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Apple iPhone XR<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>6.1 inches<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>6.84 oz<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>256 GB<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-    <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>LG G7<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>6.1 inches<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>5.71 oz<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>64 GB<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-    <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
-<span class="hljs-tag">&lt;/<span class="hljs-name">tbody</span>&gt;</span>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Fortnite<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>2017<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Multiple<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Free<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Candy Crush Saga<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>2012<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Mobile<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Free<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Pokemon Sword &amp; Shield<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>2019<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Nintendo Switch<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>$59.99<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
 </code></pre>
-<h2 id="phone-reviews">Phone Reviews</h2>
-<p>In addition to showing the user the stats of these smartphones, add a review for each of them! Instead of copying and pasting from review sites, use <code>iframe</code>s to directly show the reviews on the page.</p>
+<h2 id="game-reviews">Game Reviews</h2>
+<p>In addition to showing the user the stats of these games, add a review for each of them! Instead of copying and pasting from review sites, use <code>iframe</code>s to directly show the reviews on the page.</p>
 <ol>
-<li>Under the comparison table, add an <code>h3</code> that says &quot;Samsung Galaxy Note 9&quot;</li>
-<li>Under that <code>h3</code>, add an <code>iframe</code> that will point to a review of the Galaxy Note 9</li>
-<li>Set the <code>src</code> attribute of the <code>iframe</code> to &quot;<a href="https://www.consumerreports.org/smartphones/samsung-galaxy-note9-review-tops-consumer-reports-ratings/" target="_blank">https://www.consumerreports.org/smartphones/samsung-galaxy-note9-review-tops-consumer-reports-ratings/</a>&quot;</li>
+<li>Under the comparison table, add an <code>h3</code> that says &quot;Fortnite&quot;</li>
+<li>Under that <code>h3</code>, add an <code>iframe</code> that will point to a review of Fortnite</li>
+<li>Set the <code>src</code> attribute of the <code>iframe</code> to &quot;<a href="https://www.pcmag.com/reviews/fortnite-for-pc" target="_blank">https://www.pcmag.com/reviews/fortnite-for-pc</a>&quot;</li>
 <li>Set the <code>height</code> attribute to <code>300</code></li>
 <li>Set the <code>width</code> attribute to <code>500</code></li>
-<li>Add additional <code>h3</code> headers and <code>iframe</code> elements for the other smartphones:<ul>
-<li>Apple iPhone XR: <a href="https://www.consumerreports.org/smartphones/apple-iphone-xr-review-premium-features-lower-price/" target="_blank">https://www.consumerreports.org/smartphones/apple-iphone-xr-review-premium-features-lower-price/</a></li>
-<li>LG G7: <a href="https://www.consumerreports.org/smartphones/lg-g7-smartphone-preview/" target="_blank">https://www.consumerreports.org/smartphones/lg-g7-smartphone-preview/</a></li>
+<li>Add additional <code>h3</code> headers and <code>iframe</code> elements for the other games:<ul>
+<li>Candy Crush Saga: <a href="https://www.cnet.com/reviews/candy-crush-saga-android-review/" target="_blank">https://www.cnet.com/reviews/candy-crush-saga-android-review/</a></li>
+<li>Pokemon Sword &amp; Shield: <a href="https://www.pcmag.com/reviews/pokemon-swordshield-for-nintendo-switch" target="_blank">https://www.pcmag.com/reviews/pokemon-swordshield-for-nintendo-switch</a></li>
 </ul>
 </li>
 </ol>
 <p>At the end of this section, your iframes should look like this:</p>
-<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Samsung Galaxy Note 9<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
-<span class="hljs-tag">&lt;<span class="hljs-name">iframe</span> <span class="hljs-attr">width</span>=<span class="hljs-string">&quot;500&quot;</span> <span class="hljs-attr">height</span>=<span class="hljs-string">&quot;300&quot;</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://www.consumerreports.org/smartphones/samsung-galaxy-note9-review-tops-consumer-reports-ratings/&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">iframe</span>&gt;</span>
-<span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Apple iPhone XR<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
-<span class="hljs-tag">&lt;<span class="hljs-name">iframe</span> <span class="hljs-attr">width</span>=<span class="hljs-string">&quot;500&quot;</span> <span class="hljs-attr">height</span>=<span class="hljs-string">&quot;300&quot;</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://www.consumerreports.org/smartphones/apple-iphone-xr-review-premium-features-lower-price/&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">iframe</span>&gt;</span>
-<span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>LG G7<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
-<span class="hljs-tag">&lt;<span class="hljs-name">iframe</span> <span class="hljs-attr">width</span>=<span class="hljs-string">&quot;500&quot;</span> <span class="hljs-attr">height</span>=<span class="hljs-string">&quot;300&quot;</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://www.consumerreports.org/smartphones/lg-g7-smartphone-preview/&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">iframe</span>&gt;</span>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Fortnite<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">iframe</span> <span class="hljs-attr">width</span>=<span class="hljs-string">&quot;500&quot;</span> <span class="hljs-attr">height</span>=<span class="hljs-string">&quot;300&quot;</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://www.pcmag.com/reviews/fortnite-for-pc&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">iframe</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Candy Crush Saga<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">iframe</span> <span class="hljs-attr">width</span>=<span class="hljs-string">&quot;500&quot;</span> <span class="hljs-attr">height</span>=<span class="hljs-string">&quot;300&quot;</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://www.cnet.com/reviews/candy-crush-saga-android-review/&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">iframe</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Pokemon Sword &amp; Shield<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">iframe</span> <span class="hljs-attr">width</span>=<span class="hljs-string">&quot;500&quot;</span> <span class="hljs-attr">height</span>=<span class="hljs-string">&quot;300&quot;</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://www.pcmag.com/reviews/pokemon-swordshield-for-nintendo-switch&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">iframe</span>&gt;</span>
 </code></pre>
 <h2 id="final-html">Final HTML</h2>
 <pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
     <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
         <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>Phone Comparison<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
         <span class="hljs-tag">&lt;<span class="hljs-name">table</span> <span class="hljs-attr">border</span>=<span class="hljs-string">&quot;1&quot;</span>&gt;</span>
-            <span class="hljs-tag">&lt;<span class="hljs-name">thead</span>&gt;</span>
-                <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">th</span>&gt;</span>Phone Name<span class="hljs-tag">&lt;/<span class="hljs-name">th</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">th</span>&gt;</span>Display Size<span class="hljs-tag">&lt;/<span class="hljs-name">th</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">th</span>&gt;</span>Weight<span class="hljs-tag">&lt;/<span class="hljs-name">th</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">th</span>&gt;</span>Internal Storage<span class="hljs-tag">&lt;/<span class="hljs-name">th</span>&gt;</span>
-                <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
-            <span class="hljs-tag">&lt;/<span class="hljs-name">thead</span>&gt;</span>
-            <span class="hljs-tag">&lt;<span class="hljs-name">tbody</span>&gt;</span>
-                <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Samsung Galaxy Note 9<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>6.4 inches<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>7.09 oz<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>126 GB<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-                <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
-                <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Apple iPhone XR<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>6.1 inches<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>6.84 oz<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>256 GB<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-                <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
-                <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>LG G7<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>6.1 inches<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>5.71 oz<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>64 GB<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
-                <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
-            <span class="hljs-tag">&lt;/<span class="hljs-name">tbody</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">th</span>&gt;</span>Game Title<span class="hljs-tag">&lt;/<span class="hljs-name">th</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">th</span>&gt;</span>Release Year<span class="hljs-tag">&lt;/<span class="hljs-name">th</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">th</span>&gt;</span>Platform<span class="hljs-tag">&lt;/<span class="hljs-name">th</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">th</span>&gt;</span>Price<span class="hljs-tag">&lt;/<span class="hljs-name">th</span>&gt;</span>
+            <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Fortnite<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>2017<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Multiple<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Free<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+            <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Candy Crush Saga<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>2012<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Mobile<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Free<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+            <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Pokemon Sword &amp; Shield<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>2019<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Nintendo Switch<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>$59.99<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span>
+            <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span>
         <span class="hljs-tag">&lt;/<span class="hljs-name">table</span>&gt;</span>
 
-        <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Samsung Galaxy Note 9<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">iframe</span> <span class="hljs-attr">width</span>=<span class="hljs-string">&quot;500&quot;</span> <span class="hljs-attr">height</span>=<span class="hljs-string">&quot;300&quot;</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://www.consumerreports.org/smartphones/samsung-galaxy-note9-review-tops-consumer-reports-ratings/&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">iframe</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Apple iPhone XR<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">iframe</span> <span class="hljs-attr">width</span>=<span class="hljs-string">&quot;500&quot;</span> <span class="hljs-attr">height</span>=<span class="hljs-string">&quot;300&quot;</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://www.consumerreports.org/smartphones/apple-iphone-xr-review-premium-features-lower-price/&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">iframe</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>LG G7<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">iframe</span> <span class="hljs-attr">width</span>=<span class="hljs-string">&quot;500&quot;</span> <span class="hljs-attr">height</span>=<span class="hljs-string">&quot;300&quot;</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://www.consumerreports.org/smartphones/lg-g7-smartphone-preview/&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">iframe</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Fortnite<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">iframe</span> <span class="hljs-attr">width</span>=<span class="hljs-string">&quot;500&quot;</span> <span class="hljs-attr">height</span>=<span class="hljs-string">&quot;300&quot;</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://www.pcmag.com/reviews/fortnite-for-pc&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">iframe</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Candy Crush Saga<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">iframe</span> <span class="hljs-attr">width</span>=<span class="hljs-string">&quot;500&quot;</span> <span class="hljs-attr">height</span>=<span class="hljs-string">&quot;300&quot;</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://www.cnet.com/reviews/candy-crush-saga-android-review/&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">iframe</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Pokemon Sword &amp; Shield<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">iframe</span> <span class="hljs-attr">width</span>=<span class="hljs-string">&quot;500&quot;</span> <span class="hljs-attr">height</span>=<span class="hljs-string">&quot;300&quot;</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://www.pcmag.com/reviews/pokemon-swordshield-for-nintendo-switch&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">iframe</span>&gt;</span>
     <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
 <span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
 </code></pre>
@@ -984,7 +972,7 @@
                 </a>
                 
                 
-                <a href="PhoneComparisonIndividual.html" class="navigation navigation-next " aria-label="Next page: Phone Comparison Exercise">
+                <a href="GameComparisonIndividual.html" class="navigation navigation-next " aria-label="Next page: Game Comparison Exercise">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -995,7 +983,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Phone Comparison Follow-Along","level":"1.6.1","depth":2,"next":{"title":"Phone Comparison Exercise","level":"1.6.2","depth":2,"path":"Week04/PhoneComparisonIndividual.md","ref":"Week04/PhoneComparisonIndividual.md","articles":[]},"previous":{"title":"Week 4 - HTML Tables & IFrames","level":"1.6","depth":1,"path":"Week04/StudentDesc.md","ref":"Week04/StudentDesc.md","articles":[{"title":"Phone Comparison Follow-Along","level":"1.6.1","depth":2,"path":"Week04/PhoneComparisonFollowAlong.md","ref":"Week04/PhoneComparisonFollowAlong.md","articles":[]},{"title":"Phone Comparison Exercise","level":"1.6.2","depth":2,"path":"Week04/PhoneComparisonIndividual.md","ref":"Week04/PhoneComparisonIndividual.md","articles":[]},{"title":"Oscars Challenge","level":"1.6.3","depth":2,"path":"Week04/OscarsChallenge.md","ref":"Week04/OscarsChallenge.md","articles":[]},{"title":"Recursion Challenge","level":"1.6.4","depth":2,"path":"Week04/RecursionChallenge.md","ref":"Week04/RecursionChallenge.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"CompleteSummaryVirtual.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week04/PhoneComparisonFollowAlong.md","mtime":"2021-06-24T17:35:51.466Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-06-24T17:36:39.360Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Game Comparison Code-Along","level":"1.6.1","depth":2,"next":{"title":"Game Comparison Exercise","level":"1.6.2","depth":2,"path":"Week04/GameComparisonIndividual.md","ref":"Week04/GameComparisonIndividual.md","articles":[]},"previous":{"title":"Week 4 - HTML Tables & IFrames","level":"1.6","depth":1,"path":"Week04/StudentDesc.md","ref":"Week04/StudentDesc.md","articles":[{"title":"Game Comparison Code-Along","level":"1.6.1","depth":2,"path":"Week04/GameComparisonCodeAlong.md","ref":"Week04/GameComparisonCodeAlong.md","articles":[]},{"title":"Game Comparison Exercise","level":"1.6.2","depth":2,"path":"Week04/GameComparisonIndividual.md","ref":"Week04/GameComparisonIndividual.md","articles":[]},{"title":"Oscars Challenge","level":"1.6.3","depth":2,"path":"Week04/OscarsChallenge.md","ref":"Week04/OscarsChallenge.md","articles":[]},{"title":"Recursion Challenge","level":"1.6.4","depth":2,"path":"Week04/RecursionChallenge.md","ref":"Week04/RecursionChallenge.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"CompleteSummaryVirtual.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week04/GameComparisonCodeAlong.md","mtime":"2021-10-11T20:41:20.759Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-10-11T20:42:03.889Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
