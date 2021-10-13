@@ -81,7 +81,7 @@ At the end of this section, your table body code should look like this:
 ```
 
 ## Game Reviews
-In addition to showing the user the stats of these games, add a review for each of them! Instead of copying and pasting from review sites, use `iframe`s to directly show the reviews on the page.
+In addition to showing the user the information for these games, add a review for each of them! Instead of copying and pasting from review sites, use `iframe`s to directly show the reviews on the page.
 
 1. Under the comparison table, add an `h3` that says "Fortnite"
 1. Under that `h3`, add an `iframe` that will point to a review of Fortnite

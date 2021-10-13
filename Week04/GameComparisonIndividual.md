@@ -13,7 +13,7 @@ Users of the website would like to see information about the type of the game. A
 ## Part 2 - Adding a New Game
 Users would like to see more than just three games compared on the website. Add an additional row to the table, containing information for the new game: Monopoly.
 
-1. Under the last `tr` in the `tbody`, add another `tr`
+1. Under the last `tr` in the `table`, add another `tr`
 1. Fill in each `td` with the information for Monopoly
     - Game Title: Monopoly
     - Release Year: 1935
