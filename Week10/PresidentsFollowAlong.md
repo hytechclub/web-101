@@ -1,5 +1,5 @@
 # Presidents: Follow-Along Activity
-Follow the steps below to update the Presidents website with information about John F. Kennedy. Start from [Presidents.html](Presidents.html), [Presidents.css](Presidents.css), and [LBJ.html](LBJ.html).
+Follow the steps below to update the Presidents website with information about John F. Kennedy. Start from [this Repl project](https://replit.com/@HylandOutreach/PresidentsStart#index.html).
 
 ## Main Page Update
 Add an entry row for JFK, including an image, a blurb, and a link to a JFK page. It should appear beneath the LBJ entry.
@@ -104,7 +104,7 @@ Create a new HTML file named `JFK.html` (the file linked by the `a` on the main 
     - Within the ruleset, create a new declaration setting the "color" to "palegoldenrod"
 1. Back in the HTML file, underneath the `<h2></h2>`, add a `p` that says "Everyone's second-favorite president"
 1. Underneath the `<p></p>`, add an `a` that says "Back"
-    - Set its `href` attribute to "Presidents.html" so it navigates to the main page when clicked
+    - Set its `href` attribute to "index.html" so it navigates to the main page when clicked
     - Set its `class` attribute to "btn" so the Bootstrap styles apply
 
 #### Code
@@ -112,7 +112,7 @@ Create a new HTML file named `JFK.html` (the file linked by the `a` on the main 
 ```html
 <h2 class="display-4" id="jfk-header">John F. Kennedy</h2>
 <p>Everyone's second-favorite president</p>
-<a class="btn" href="Presidents.html">Back</a>
+<a class="btn" href="index.html">Back</a>
 ```
 
 ##### CSS
@@ -125,7 +125,7 @@ Create a new HTML file named `JFK.html` (the file linked by the `a` on the main 
 
 ### Container Content
 1. Within the "container" `<div></div>`, add another `div`
-    - Set its `class` attribtue to "row"
+    - Set its `class` attribute to "row"
 1. Within the "row" `<div></div>`, add two additional `div`s
     - Set the `class` attribute for each `div` to "col-md-6" so they each take up half of the available space
 1. Within the first column `<div></div>`, add an `iframe`
@@ -136,13 +136,13 @@ Create a new HTML file named `JFK.html` (the file linked by the `a` on the main 
 1. Within the `<ul></ul>`, add `li` elements for the following people:
     - Lyndon B. Johnson: Vice President
     - Dean Rusk: Secretary of State
-    - C. Douglas Dillon: Scretary of Treasury
+    - C. Douglas Dillon: Secretary of Treasury
     - Robert McNamara: Secretary of Defense
     - Robert F. Kennedy: Attorney General
     - J. Edward Day: Postmaster General
 
 ### Header Hover
-1. In the CSS file, create a new ruleset to selet the "jfk-header" element in its hover state
+1. In the CSS file, create a new ruleset to select the "jfk-header" element in its hover state
 1. Within the ruleset, create a new declaration that adds a shadow to the text
     - property: `text-shadow`
     - value: `-2px 2px 10px lightgoldenrodyellow`
@@ -160,7 +160,7 @@ Create a new HTML file named `JFK.html` (the file linked by the `a` on the main 
         <div class="jumbotron text-center">
             <h2 class="display-4" id="jfk-header">John F. Kennedy</h2>
             <p>Everyone's second-favorite president</p>
-            <a class="btn" href="Presidents.html">Back</a>
+            <a class="btn" href="index.html">Back</a>
         </div>
         <div class="container">
             <div class="row">
@@ -172,7 +172,7 @@ Create a new HTML file named `JFK.html` (the file linked by the `a` on the main 
                     <ul>
                         <li>Lyndon B. Johnson: Vice President</li>
                         <li>Dean Rusk: Secretary of State</li>
-                        <li>C. Douglas Dillon: Scretary of Treasury</li>
+                        <li>C. Douglas Dillon: Secretary of Treasury</li>
                         <li>Robert McNamara: Secretary of Defense</li>
                         <li>Robert F. Kennedy: Attorney General</li>
                         <li>J. Edward Day: Postmaster General</li>
@@ -214,7 +214,7 @@ Create a new HTML file named `JFK.html` (the file linked by the `a` on the main 
         <div class="jumbotron text-center">
             <h2 class="display-4" id="jfk-header">John F. Kennedy</h2>
             <p>Everyone's second-favorite president</p>
-            <a class="btn" href="Presidents.html">Back</a>
+            <a class="btn" href="index.html">Back</a>
         </div>
         <div class="container">
             <div class="row">
@@ -226,7 +226,7 @@ Create a new HTML file named `JFK.html` (the file linked by the `a` on the main 
                     <ul>
                         <li>Lyndon B. Johnson: Vice President</li>
                         <li>Dean Rusk: Secretary of State</li>
-                        <li>C. Douglas Dillon: Scretary of Treasury</li>
+                        <li>C. Douglas Dillon: Secretary of Treasury</li>
                         <li>Robert McNamara: Secretary of Defense</li>
                         <li>Robert F. Kennedy: Attorney General</li>
                         <li>J. Edward Day: Postmaster General</li>
