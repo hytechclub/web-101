@@ -17,7 +17,12 @@ There are two separate PowerPoint presentations.
 
 ## Group Activities
 ### Review - HTML & CSS
-For this activity, the students will be split up into 3-4 teams. Each team will be given a whiteboard to fill out their answers.
+For this activity, the students will be split up into 3-4 teams. Each team will be given a whiteboard/Multiplayer Replit to fill out their answers.
+
+#### Notes from Spring 2022
+- rotate who types the answer
+- get rid of question text in repl files, just have empty files
+- get them to chat with each other
 
 The instructors will pull up the [HTML & CSS Review PowerPoint](HtmlCssReviewActivity.pptx) to display the review questions to the students (Note: the answers are displayed after each question). The students will have time to fill out an answer. After a certain amount of time, the instructors will count down and ask each of the teams to hold up their answers. Each team will get a point for every answer they get correctly. If anyone is talking outside of the time they have to discuss an answer, that team will be deducted a point.
 

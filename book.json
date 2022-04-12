@@ -3,5 +3,12 @@
         "readme": "BOOKREADME.md",
         "summary": "COMPLETESUMMARY.md"
     },
-    "plugins": ["toggle-chapters"]
+    "plugins": ["toggle-chapters", "scripts"],
+    "pluginsConfig": {
+        "scripts": {
+            "files": [
+                "./passwordProtectedPages.js"
+            ]
+        }
+    }
 }
