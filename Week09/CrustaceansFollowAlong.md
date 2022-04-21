@@ -140,7 +140,7 @@ Use transforms to change the shape and position of HTML elements without affecti
 }
 ```
 
-### Rotating the Article with a Rransform
+### Rotating the Article with a Transform
 >Rotate: https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate
 To rotate the article on the page, use the `transform` CSS property. `transform` can do a whole lot of different things, but in this case, use `rotate` to spin the article around. Rotate the article 200 degrees, so that it appears upside-down and tilted. Add the following declaration to the "info" ruleset:
 
@@ -148,7 +148,7 @@ To rotate the article on the page, use the `transform` CSS property. `transform`
 transform: rotate(200deg);
 ```
 
-### Moving the Box with a Rransform
+### Moving the Box with a Transform
 >Translate: https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate
 It is also possible to move an element from one position to another using `transform`. To do this, use the `translate` value of the `transform` property.
 
