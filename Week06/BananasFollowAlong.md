@@ -5,7 +5,7 @@ Add some styling to a webpage advertising bananas.
 Watch this video for some background on the exercise: https://www.youtube.com/watch?v=MFmr_TZLpS0&feature=youtu.be&t=21
 
 ## Current Webpage
-So far, there is a [simple webpage](https://repl.it/@JosephMaxwell/Bananas#index.html) that has a lot of information about a banana:
+So far, there is a [simple webpage](https://replit.com/@HylandOutreach/BananaStarter#index.html) that has a lot of information about a banana:
 
 ```html
 <html>

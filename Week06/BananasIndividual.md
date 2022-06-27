@@ -37,7 +37,7 @@ The section headers should match the background more effectively. Update the CSS
 ### Updating the Font of the Reviewer Names
 The reviewer names should have a different font to differentiate them from the rest of the text on the page.
 
-1. In the CSS file, create a new **ruleset** for `h3` (reviewer names are in these headers)
+1. In the CSS file, create a new **ruleset** for `h4` (reviewer names are in these headers)
 1. Within the ruleset, create a new **declaration** that sets the font
     - Property: `font-family`
     - Value: `cursive`
