@@ -4,7 +4,7 @@ let passwordProtectedPages = {
     "Week07/PixelsFollowAlong.md": "superluigibros",
     "Week07/PixelsIndividual.md": "alexeypajitnov",
     "Week07/AdditionalChallenges.md": "cssfuntimes",
-    "Week08/MagazineWebsiteFollowAlongWithCode.md": "stairwaytoheaven",
+    "Week08/MagazineWebsiteFollowAlongWithCode.md": "ledzeppelin",
     "Week08/MagazineWebsiteIndividual.md": "ohthehumanity"
 }
 
