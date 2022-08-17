@@ -2,7 +2,7 @@
 Get started with Replit.
 
 ## Making a Repl Account
-Before beginning, make sure you have a Repl account. You can follow [these instructions](../ReplitSetup.md) to set one up if you do not have one.
+Before beginning, make sure you have a Repl account. You can follow [these instructions](https://hylandtechclub.com/ReplitSetup) to set one up if you do not have one.
 
 ## Getting Started
 Start by creating a **fork** of an empty project to get started, and sharing a **Multiplayer Link** to the project.
