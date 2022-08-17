@@ -1,4 +1,3 @@
-- [Replit Setup](ReplitSetup.md)
 - [Week 1 - HTML Introduction](Week01/StudentDesc.md)
     - [Replit Introduction](Week01/ReplitIntroduction.md)
     - [Hello HTML Challenge](Week01/HtmlIntroChallenge.md)
