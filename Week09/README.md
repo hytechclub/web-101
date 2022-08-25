@@ -7,7 +7,7 @@ For a virtual 11-week semester, week 9 should be the final project introduction 
 ## Review: Quiz
 Whether the session is virtual or not, begin class with some review: https://quizizz.com/admin/quiz/5bd6ec63784210001af3a392/html-css-review
 
-There is also an additional review quiz: https://quizizz.com/admin/quiz/5cb481fb6bc5bb001ad9b7b9/web-assessment
+Note that presenting the quiz will require a Quizizz account. If there are issues, there is a [Blooket quiz](https://dashboard.blooket.com/set/6307a6f9c782a4df94228024) as well (account also required).
 
 ## Follow-Along Activity: Crustaceans
 Start by showing an example of what is possible using CSS transitions and transforms: https://codepen.io/tkjn/pen/MzwaEo
