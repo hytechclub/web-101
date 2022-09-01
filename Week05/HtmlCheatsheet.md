@@ -54,7 +54,7 @@ Embeds an image into a webpage
 - Does not require a closing tag
 
 ```html
-<img src="https://i.imgur.com/v4GLRqb.jpg">
+<img src="https://media1.giphy.com/media/j3t0gmPW8Ezy6uFogA/200w.gif">
 ```
 
 ## Lists - `ul`, `ol`, `li`

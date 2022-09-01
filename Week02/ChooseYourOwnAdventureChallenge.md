@@ -12,4 +12,4 @@ The two links on the first page should link to additional HTML pages with differ
 ## More Pages
 Try to fill out the story as much as possible. Add a number of different choices for each page, and allow the story to continue down a number of branches. It may be helpful to write out the story and each branch before putting it into code. For an added challenge, try to include the links as part of the text, like:
 
-![](https://i.imgur.com/zAV5whR.png)
+![](Assets/LinksInSentence.png)

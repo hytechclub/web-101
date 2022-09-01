@@ -1,5 +1,5 @@
 # Pizza Website: Follow-Along Activity
-Alfredo's Pizza Cafe has some great pizza, but unfortunately their technological prowess is not so great. They need your help to create their website! They want to provide some information about their restaurants, along with an order form so customers can order pies online. Start from [this empty Repl](https://repl.it/@JosephMaxwell/EmptyWeb#index.html), and then follow the instructions below.
+Alfredo's Pizza Cafe has some great pizza, but unfortunately their technological prowess is not so great. They need your help to create their website! They want to provide some information about their restaurants, along with an order form so customers can order pies online. Start from [this empty Repl](https://replit.com/@HylandOutreach/EmptyWeb), and then follow the instructions below.
 
 ## Setup
 1. Open up the **index.html** file
@@ -8,7 +8,7 @@ Alfredo's Pizza Cafe has some great pizza, but unfortunately their technological
 
 ## Adding the Basics
 1. Add an `h1` header that says "Alfredo's Pizza Cafe" within the `body`
-1. Under the `h1`, add an `img` of the pizza (set the `src` attribute to "https://i.imgur.com/v4GLRqb.jpg")
+1. Under the `h1`, add an `img` of the pizza (set the `src` attribute to "https://styles.redditmedia.com/t5_21ulkr/styles/profileIcon_owuf7qzyhuk61.jpg")
 1. Under the `img`, add a `p` that says "WE'RE NOT FINE DINING; WE'RE JUST FINE FOOD!"
     - Note that this is the actual slogan of the actual Alfredo's Pizza Cafe
 1. Open your webpage in a browser and make sure it appears as expected!
@@ -18,7 +18,7 @@ At the end of this section, your code should look like this:
 <html>
     <body>
         <h1>Alfredo's Pizza Cafe</h1>
-        <img src="https://i.imgur.com/v4GLRqb.jpg">
+        <img src="https://styles.redditmedia.com/t5_21ulkr/styles/profileIcon_owuf7qzyhuk61.jpg">
         <p>WE'RE NOT FINE DINING; WE'RE JUST FINE FOOD!</p>
     </body>
 </html>
@@ -36,7 +36,7 @@ At the end of this section, your code should look like this:
 <html>
     <body>
         <h1>Alfredo's Pizza Cafe</h1>
-        <img src="https://i.imgur.com/v4GLRqb.jpg">
+        <img src="https://styles.redditmedia.com/t5_21ulkr/styles/profileIcon_owuf7qzyhuk61.jpg">
         <p>WE'RE NOT FINE DINING; WE'RE JUST FINE FOOD!</p>
         <h2>Locations</h2>
         <ul>
@@ -119,7 +119,7 @@ That's it! Your website has some information about the website, and a form the u
 <html>
     <body>
         <h1>Alfredo's Pizza Cafe</h1>
-        <img src="https://i.imgur.com/v4GLRqb.jpg">
+        <img src="https://styles.redditmedia.com/t5_21ulkr/styles/profileIcon_owuf7qzyhuk61.jpg">
         <p>WE'RE NOT FINE DINING; WE'RE JUST FINE FOOD!</p>
         <h2>Locations</h2>
         <ul>
