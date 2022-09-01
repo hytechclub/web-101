@@ -51,7 +51,7 @@ At the end of this section, your code should look something like this:
 
 **Note: For `a` elements to work in Repl, the project must be opened in a separate window:**
 
-![](https://i.imgur.com/F03DwMY.png)
+![](Assets/OpenInNewTab.png)
 
 ## Final HTML
 ```html
@@ -65,7 +65,7 @@ At the end of this section, your code should look something like this:
         <p>I am from Elwood City</p>
 
         <h3>Favorite Animal</h3>
-        <img src="https://i.imgur.com/GfT5Z9R.png" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRHWrjkHIyyV_Rit7glavKHKa5htLmnC0Z5w&usqp=CAU" />
         <p>Dogs are the best!</p>
         <a href="https://en.wikipedia.org/wiki/Dog">Wikipedia</a>
     </body>
