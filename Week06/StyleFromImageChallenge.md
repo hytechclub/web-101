@@ -3,7 +3,7 @@ For this challenge, you'll take an image of a website, and write CSS for it to m
 
 ## Instructions
 Recreate the webpage from this image:  
-![](https://i.imgur.com/He1y4cV.png)
+![](Assets/RecreateWebpage.png)
 
 ### HTML
 Start by filling in the HTML content. You will need to use headers, paragraphs, lists, and hyperlinks!

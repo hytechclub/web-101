@@ -23,7 +23,7 @@ Add an entry row for JFK, including an image, a blurb, and a link to a JFK page.
 
 ### Row Content
 1. Within the first column `<div></div>`, add an `img`
-    - Set its `src` attribute to "https://i.imgur.com/hsdEYW2.jpg"
+    - Set its `src` attribute to "JFK.jpg"
 1. Within the second column `<div></div>`, add an `h4` that says "John F. Kennedy"
 1. Underneath the `<h4></h4>`, add a `p`
 1. Within the `p`, enter the following text:
@@ -38,7 +38,7 @@ Add an entry row for JFK, including an image, a blurb, and a link to a JFK page.
 #### Code
 ```html
 <div class="col-md-3">
-    <img src="https://i.imgur.com/hsdEYW2.jpg">
+    <img src="JFK.jpg">
 </div>
 <div class="col-md-9">
     <h4>John F. Kennedy</h4>
@@ -189,7 +189,7 @@ Create a new HTML file named `JFK.html` (the file linked by the `a` on the main 
 ```html
 <div class="row">
     <div class="col-md-3">
-        <img class="pres-img" src="https://i.imgur.com/hsdEYW2.jpg">
+        <img class="pres-img" src="JFK.jpg">
     </div>
     <div class="col-md-9">
         <h4>John F. Kennedy</h4>
