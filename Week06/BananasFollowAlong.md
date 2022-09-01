@@ -12,9 +12,9 @@ So far, there is a [simple webpage](https://replit.com/@HylandOutreach/BananaSta
 	<body>
 		<h1>Banana for sale</h1>
 		
-		<img src="https://i.imgur.com/dVtm7pE.jpg"/>
-		<img src="https://i.imgur.com/JKSyPgU.jpg"/>
-		<img src="https://i.imgur.com/K6cj26K.jpg"/>
+		<img src="banana1.jpg"/>
+		<img src="banana2.jpg"/>
+		<img src="banana3.jpg"/>
 		
 		<p>This lovely banana is just about to hit its prime ripeness. It will not disappoint you with all of its amazing features.</p>
 		

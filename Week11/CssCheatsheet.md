@@ -124,4 +124,4 @@ Bootstrap CSS comes with many built-in class rulesets. Add these to elements on 
 ### Bootstrap columns
 When creating columns within a Bootstrap row, there are 12 total units for width. These 12 units are distributed equally throughout the width of the row. A column can take up any number of these 12 units, but all columns in the row should add up to 12 total units. To set the width on a Bootstrap column within a row, add a `class` of `col-md-*`, replacing "*" with the number (1-12) of single columns for the width.
 
-![Bootstrap columns](https://i.imgur.com/vtpTOB5.png)
+![Bootstrap columns](Assets/BootstrapColumns.png)

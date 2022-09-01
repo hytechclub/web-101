@@ -22,7 +22,7 @@ Instead of PAC-MAN, create a totally different 4x4 pixel art character! Feel fre
 
 For a good starting point, try recreating one of the Tetris blocks:
 
-![](https://i.imgur.com/t6totR1.jpg)
+![](Assets/TetrisBlocks.png)
 
 1. In the CSS file, create a new class **ruleset** for each color used in the sprite
     - For example, in the long Tetris block, there could be a `.green` selector
@@ -35,7 +35,7 @@ For a good starting point, try recreating one of the Tetris blocks:
 ## (BONUS) Make a 5x5 Sprite
 It's hard to represent a character in only 32 cells. Instead of using a 4x4 grid, update the code so that it's 5x5. Then, create a new 5x5 sprite using the extra space!
 
-![](https://i.imgur.com/H1Z5X8E.png)
+![](Assets/FiveByFive.png)
 
 1. In the CSS file, update the main `div` to have a `height` and `width` of 250px
 1. In the `.horizontal` rule, update the grid template columns to specify 5 columns instead of 4

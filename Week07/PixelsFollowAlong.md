@@ -1,28 +1,28 @@
 # Pixels: Follow-Along Activity
 Follow the instructions to create a very simple pixel PAC-MAN!
 
-![](https://i.imgur.com/k7Ahc1C.png)
+![](Assets/PacMan4.png)
 
 ## Pixel Art Examples
 #### Original Mario
-![](https://i.imgur.com/L1VJN5C.png)
+![](Assets/RetroMario.png)
 
 All art for video games was once hand-coded, pixel-by-pixel!
 
 #### Panda
-(animated: https://i.imgur.com/ghillV4.gif)
+(animated: https://i.pinimg.com/originals/ab/dd/7d/abdd7da2f2fd574cb5b92f61b01d625d.gif)
 
-![](https://i.imgur.com/ghillV4.gif)
+![](Assets/Panda.gif)
 
 Now, some developers copy this style for their own art
 
-#### Landscape  
-![](https://i.imgur.com/6YJEPEp.png)
+#### Cityscape  
+![](Assets/Cityscape.jpg)
 
 Pixel art can be used for almost anything!
 
 ## Setup
-Start from [this empty Repl](https://repl.it/@JosephMaxwell/EmptyWeb#index.html), and then follow the instructions below.
+Start from [this empty Repl](https://replit.com/@HylandOutreach/EmptyWeb), and then follow the instructions below.
 
 1. Open the **index.html** file
 1. Add the basic tags to the HTML file - `html`, `head`, `body`
