@@ -3,7 +3,7 @@ HTML inputs are cool, but it would be cooler if the data actually went somewhere
 
 **Note: For the "Submit" button to work in Repl, the project must be opened in a separate window:**
 
-![](https://i.imgur.com/F03DwMY.png)
+![](../Assets/OpenInNewTab.png)
 
 ## Background
 Web developers use HTML forms to send data from their webpages to servers. For more information about the flow of data from forms, read this article: https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data

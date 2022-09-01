@@ -12,7 +12,7 @@ In the [Movie Search Challenge](MovieSearchChallenge.md), HTML forms are used to
 1. Press the `F12` key to open Developer Tools
 1. Go to the "Network" tab
 1. Make sure the "Preserve log" checkbox is checked  
-    ![](https://i.imgur.com/m8MRqXo.png)
+    ![](Assets/PreserveLog.png)
 1. Click the "PUBLISH" button on **txt.fyi**, and view the requests in the "Network" tab
 1. Click on the "do.php" request to see more information about the request - specifically the "Form Data" section
 

@@ -49,9 +49,9 @@ At the end of this section, your code should look something like this:
     1. Set the `href` of the image to the URL, in quotes
     1. Inside of the anchor tag, insert the text "Wikipedia"
 
-**Note: For `a` elements to work in Repl, the project must be opened in a separate window:**
+**Note: For external `a` elements to work in Repl, the project must be opened in a separate window:**
 
-![](Assets/OpenInNewTab.png)
+![](../Assets/OpenInNewTab.png)
 
 ## Final HTML
 ```html
