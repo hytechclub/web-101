@@ -162,3 +162,6 @@ Represents a nested browsing context, embedding another HTML page into the curre
 ```html
 <iframe src="https://weather.gov" height="500" width="400"></iframe>
 ```
+
+### Note
+Iframes can also be used to embed YouTube videos
