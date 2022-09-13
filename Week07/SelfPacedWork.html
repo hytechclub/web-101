@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Additional Challenges · GitBook</title>
+        <title>Self-Paced Work · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -61,10 +61,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="../Week08/StudentDesc.html" />
+    <link rel="next" href="Challenges.html" />
     
     
-    <link rel="prev" href="PixelsIndividual.html" />
+    <link rel="prev" href="PixelsCodeAlong.html" />
     
 
     </head>
@@ -472,7 +472,7 @@
                 <a href="StudentDesc.html">
             
                     
-                    Week 7 - HTML Divs & Spans, CSS Selectors
+                    Week 7 - HTML <divs & <span>s / CSS Selectors
             
                 </a>
             
@@ -481,12 +481,12 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.8.1" data-path="PixelsFollowAlong.html">
+        <li class="chapter " data-level="1.8.1" data-path="PixelsCodeAlong.html">
             
-                <a href="PixelsFollowAlong.html">
+                <a href="PixelsCodeAlong.html">
             
                     
-                    Pixels Follow-Along
+                    Code-Along
             
                 </a>
             
@@ -494,12 +494,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.8.2" data-path="PixelsIndividual.html">
+        <li class="chapter active" data-level="1.8.2" data-path="SelfPacedWork.html">
             
-                <a href="PixelsIndividual.html">
+                <a href="SelfPacedWork.html">
             
                     
-                    Pixels Exercise
+                    Self-Paced Work
             
                 </a>
             
@@ -507,12 +507,12 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.8.3" data-path="AdditionalChallenges.html">
+        <li class="chapter " data-level="1.8.3" data-path="Challenges.html">
             
-                <a href="AdditionalChallenges.html">
+                <a href="Challenges.html">
             
                     
-                    Additional Challenges
+                    Challenges
             
                 </a>
             
@@ -813,7 +813,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >Additional Challenges</a>
+        <a href=".." >Self-Paced Work</a>
     </h1>
 </div>
 
@@ -828,16 +828,71 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="additional-challenges">Additional Challenges</h1>
-<h2 id="challenge-1">Challenge 1</h2>
-<p>Try to complete this challenge: <a href="http://cssgridgarden.com/" target="_blank">http://cssgridgarden.com/</a></p>
-<p>It will teach you more about CSS grids!</p>
-<h2 id="challenge-2">Challenge 2</h2>
-<p>Try to complete this challenge: <a href="http://flexboxfroggy.com/" target="_blank">http://flexboxfroggy.com/</a></p>
-<p>It will teach you about CSS flexbox!</p>
-<h2 id="challenge-3">Challenge 3</h2>
-<p>Try to beat this &quot;Escape Room&quot; game: <a href="https://codepen.io/takaneichinose/full/YzqreVp" target="_blank">https://codepen.io/takaneichinose/full/YzqreVp</a></p>
-<p>It was built entirely from HTML and CSS! The game can be fairly difficult, so try using the browser developer tools to look through the HTML and see where they keys are hiding!</p>
+                                <h1 id="self-paced-work-pixel-updates">Self-Paced Work: Pixel Updates</h1>
+<p>Update the grid with some different artwork.</p>
+<h2 id="part-1---red-pac-man">Part 1 - Red PAC-MAN</h2>
+<p>Instead of yellow, make PAC-MAN red!</p>
+<ol>
+<li>Change the name of the <code>yellow</code> class to <code>red</code><ul>
+<li>Change the class attribute value for each yellow <code>&lt;div&gt;</code> in the HTML</li>
+<li>Change the <code>.yellow</code> ruleset so that it points to elements with a class of <code>red</code></li>
+</ul>
+</li>
+<li>Change the background color from <code>gold</code> to <code>red</code> for those cells</li>
+</ol>
+<h2 id="part-2---smaller-pac-man">Part 2 - Smaller PAC-MAN</h2>
+<p>Make updates so that each pixel in the grid is 50x50 instead of 100x100.</p>
+<ol>
+<li>Set the <code>width</code> and the <code>height</code> of the main <code>&lt;div&gt;</code> to <code>200px</code> instead of <code>400px</code><ul>
+<li>This is in the <code>#main</code> ruleset</li>
+</ul>
+</li>
+<li>Set the <code>height</code> of each cell to <code>50px</code> instead of <code>100px</code><ul>
+<li>This is in the <code>.cell</code> ruleset</li>
+</ul>
+</li>
+</ol>
+<h2 id="part-3---make-your-own-sprite">Part 3 - Make Your Own Sprite</h2>
+<p>Instead of PAC-MAN, create a totally different 4x4 pixel art character! Feel free to copy one of the designs from <a href="https://www.google.com/search?tbm=isch&amp;q=4x4pixels+blogspot+pixelheroes" target="_blank">here</a>.</p>
+<p>For a good starting point, try recreating one of the Tetris blocks:</p>
+<p><img src="Assets/TetrisBlocks.png" alt=""></p>
+<ol>
+<li>Open the <strong>style.css</strong> file for editing</li>
+<li>Under the existing contents, create a new class <strong>ruleset</strong> for each color used in the sprite<ul>
+<li>For example, in the long Tetris block, there could be a <code>.green</code> selector</li>
+</ul>
+</li>
+<li>In each color ruleset, set the background color to the appropriate color<ul>
+<li>Property: <code>background</code></li>
+<li>Value: color for the cell</li>
+</ul>
+</li>
+<li>In the HTML file, add an appropriate color class to each <code>&lt;div&gt;</code><ul>
+<li>For example, in the long Tetris block, the third cell in each row could have the <code>green</code> class</li>
+</ul>
+</li>
+</ol>
+<h2 id="challenge---make-a-5x5-sprite">Challenge - Make a 5x5 Sprite</h2>
+<p>It&apos;s hard to represent a character in only 32 cells. Instead of using a 4x4 grid, update the code so that it&apos;s 5x5. Then, create a new 5x5 sprite using the extra space!</p>
+<p><img src="Assets/FiveByFive.png" alt=""></p>
+<ol>
+<li>Open the <strong>style.css</strong> file for editing</li>
+<li>Update the <code>#main</code> ruleset to have a <code>height</code> and <code>width</code> of <code>250px</code></li>
+<li>In the <code>.horizontal</code> rule, update the grid template columns to specify 5 columns instead of 4</li>
+<li>Open the <strong>index.html</strong> file for editing</li>
+<li>Add an additional &quot;cell&quot; <code>&lt;div&gt;</code> to each existing &quot;row&quot; <code>&lt;div&gt;</code><ul>
+<li>Each new &quot;cell&quot; <code>&lt;div&gt;</code> should have a <code>class</code> attribute with value <code>cell</code></li>
+</ul>
+</li>
+<li>Add an additional &quot;row&quot; <code>&lt;div&gt;</code> as a child of the <code>&lt;div id=&quot;main&quot;&gt;</code><ul>
+<li>The &quot;row&quot; <code>&lt;div&gt;</code> should have a <code>class</code> attribute with the value <code>horizontal</code></li>
+</ul>
+</li>
+<li>Within the new &quot;row&quot; <code>&lt;div&gt;</code>, add 5 &quot;cell&quot; <code>&lt;div&gt;</code> elements as its children</li>
+<li>Update all the classes for the cells to reflect the new sprite</li>
+<li>Try to create a new 5x5 character!</li>
+</ol>
+<p>Theoretically, this grid could be as big as is desired... try to make it fit whatever size makes the most sense!</p>
 
                                 
                                 </section>
@@ -865,12 +920,12 @@
 
             
                 
-                <a href="PixelsIndividual.html" class="navigation navigation-prev " aria-label="Previous page: Pixels Exercise">
+                <a href="PixelsCodeAlong.html" class="navigation navigation-prev " aria-label="Previous page: Code-Along">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="../Week08/StudentDesc.html" class="navigation navigation-next " aria-label="Next page: Week 8 - Responsive Design & Bootstrap">
+                <a href="Challenges.html" class="navigation navigation-next " aria-label="Next page: Challenges">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -881,7 +936,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Additional Challenges","level":"1.8.3","depth":2,"next":{"title":"Week 8 - Responsive Design & Bootstrap","level":"1.9","depth":1,"path":"Week08/StudentDesc.md","ref":"Week08/StudentDesc.md","articles":[{"title":"Magazine Website Follow-Along","level":"1.9.1","depth":2,"path":"Week08/MagazineWebsiteFollowAlongWithCode.md","ref":"Week08/MagazineWebsiteFollowAlongWithCode.md","articles":[]},{"title":"Magazine Website Exercise","level":"1.9.2","depth":2,"path":"Week08/MagazineWebsiteIndividual.md","ref":"Week08/MagazineWebsiteIndividual.md","articles":[]},{"title":"More Bootstrap Challenge","level":"1.9.3","depth":2,"path":"Week08/MoreBootstrapChallenge.md","ref":"Week08/MoreBootstrapChallenge.md","articles":[]}]},"previous":{"title":"Pixels Exercise","level":"1.8.2","depth":2,"path":"Week07/PixelsIndividual.md","ref":"Week07/PixelsIndividual.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","scripts"],"pluginsConfig":{"scripts":{"files":["./passwordProtectedPages.js"]},"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"COMPLETESUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week07/AdditionalChallenges.md","mtime":"2022-09-12T19:01:38.824Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2022-09-12T19:02:12.163Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Self-Paced Work","level":"1.8.2","depth":2,"next":{"title":"Challenges","level":"1.8.3","depth":2,"path":"Week07/Challenges.md","ref":"Week07/Challenges.md","articles":[]},"previous":{"title":"Code-Along","level":"1.8.1","depth":2,"path":"Week07/PixelsCodeAlong.md","ref":"Week07/PixelsCodeAlong.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","scripts"],"pluginsConfig":{"scripts":{"files":["./passwordProtectedPages.js"]},"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"COMPLETESUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week07/SelfPacedWork.md","mtime":"2022-09-13T13:57:44.767Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2022-09-13T13:58:19.082Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
