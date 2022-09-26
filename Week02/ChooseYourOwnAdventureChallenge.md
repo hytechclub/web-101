@@ -1,4 +1,4 @@
-# Choose Your Own Adventure: Challenge
+# Challenge: Choose Your Own Adventure
 Create a new website for a [Choose Your Own Adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure)-style game.
 
 ## First Page
