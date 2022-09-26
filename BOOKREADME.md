@@ -18,5 +18,7 @@ Follow the links below to view each week of material.
 - [Week 11 (12/6) - Final Project](Week11/StudentDesc.md)
 - Week 12 (12/13) - Final Project Presentations
 
-## Submissions
-Submit things via this form: https://forms.gle/s5AGEqqfyXgNu4Hs9
+## Virtual Students: Repl Submissions
+[Click here to submit your Multiplayer Repl links!](https://forms.gle/LqZcubueVFKqeCwZ8)
+
+> _Note: [click here for help generating a Multiplayer Repl link](Week01/ReplitIntroduction.md)_
