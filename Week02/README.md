@@ -17,11 +17,12 @@ Follow the [instructions](AboutMeCodeAlong.md) to start building an "About Me" w
 Students should follow [the instructions](SelfPacedWork.md) to continue building their "About Me" website.
 
 ## Challenge: Multiple HTML files
-The students will be challenged to create multiple HTML files and link between them: [MultipleHtmlFilesChallenge](MultipleHtmlFilesChallenge.md)
+The students will be challenged to [create multiple HTML files and link between them](MultipleHtmlFilesChallenge.md).
 
-There is also a challenge for the students to build a "Choose Your Own Adventure" game: [ChooseYourOwnAdventureChallenge](ChooseYourOwnAdventureChallenge.md)
+There is also a challenge for the students to build a [Choose Your Own Adventure](ChooseYourOwnAdventureChallenge.md) game.
 
-## Suggested Schedule
+## Agenda
+
 | Activity | Time |
 |-|-|
 | Lecture | 25m |

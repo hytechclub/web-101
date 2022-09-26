@@ -1,13 +1,16 @@
-# About Me: Follow-Along
-With this exercise, you will create a webpage that shows some information about yourself. Start from [this empty Repl](https://repl.it/@JosephMaxwell/EmptyWeb#index.html), and then follow the instructions below.
+# Code-Along: About Me Website
+With this exercise, you will create a webpage that shows some information about yourself. Start by forking [this empty Repl](https://replit.com/@HylandOutreach/EmptyWeb), and then follow the instructions below.
 
 ## Setup
+Start by setting up the basics of the website.
+
 1. In the **index.html** file, add the `<html></html>` opening and closing tag
 1. Inside of the `<html>` and `</html>`, add the `<body></body>` opening and closing tag
 1. Inside of the `<body>` and `</body>`, add a `<h1></h1>` header tag that says "About Me"
 1. Click the **Run** button to make sure your page is working!
 
 At the end of the **Setup**, your code should look like this (try to match the spacing):
+
 ```html
 <html>
     <body>
@@ -16,13 +19,16 @@ At the end of the **Setup**, your code should look like this (try to match the s
 </html>
 ```
 
-## Greeting and basic information
+## Greeting and Basic Information
+Next, add some basic information about yourself.
+
 1. Under the `h1` header tag, add in a `<p></p>` paragraph tag welcoming the user to your page
 1. Add another paragraph containing your name
 1. Add another paragraph containing your grade level
 1. Add another paragraph containing your hometown
 
 At the end of this section, your code should look something like this:
+
 ```html
 <html>
     <body>
@@ -36,7 +42,9 @@ At the end of this section, your code should look something like this:
 </html>
 ```
 
-## Favorite animal
+## Favorite Animal
+Now it's time to add a picture of your favorite animal!
+
 1. Under the last `p` paragraph tag, add a smaller `h3` header that says "Favorite Animal"
 1. Add an image of your favorite animal
     1. Find an image somewhere online, and copy the **image URL**
@@ -54,6 +62,8 @@ At the end of this section, your code should look something like this:
 ![](../Assets/OpenInNewTab.png)
 
 ## Final HTML
+By the end of the activity, the HTML code should look something like this:
+
 ```html
 <html>
     <body>
