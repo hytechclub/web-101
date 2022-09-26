@@ -1,4 +1,4 @@
-# About Me: Individual
+# Self-Paced Work: About Me Updates
 Continue the development of your "About Me" webpage.
 
 ## Favorite food
