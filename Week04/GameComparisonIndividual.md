@@ -24,5 +24,5 @@ Users would like to see more than just three games compared on the website. Add 
 Additionally, users would like to see a review of Monopoly.
 
 1. Under the last `iframe` in the `body`, add an `h3` with the game's name
-1. Under the `h3`, add an `iframe` with this review: https://www.play-board-games.com/monopoly-board-game/
+1. Under the `h3`, add an `iframe` with this review: https://www.reviewgeek.com/110716/a-modern-board-game-history-from-monopoly-to-today/
 1. Set the width and height of the `iframe` appropriately
