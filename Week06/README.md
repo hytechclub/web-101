@@ -13,7 +13,7 @@ At the end of the warmup, briefly show the students Chrome Dev Tools. Update som
 - Explain how it applies to HTML
 - Introduce some basic CSS selectors (element selectors) and properties
 
-There are two separate PowerPoint presentations.
+There are two separate PowerPoint presentations: [Introduction to CSS](IntroductionToCss.pptx), and [CSS Selectors & Properties](CssSelectorsAndProperties.pptx).
 
 ## Group Activities
 ### Review - HTML & CSS
