@@ -5,6 +5,8 @@ For this lesson's content, cover two additional HTML elements: `table`s and `ifr
 > What types of data are stored in tables (rows/columns)?
 
 ## Lecture
+Present the [Tables & IFrames](TablesAndIFrames.pptx) lecture.
+
 - Cover new HTML Elements:
     - Tables
         - `table`
@@ -30,7 +32,8 @@ Students will update their game comparison website by following [these instructi
 ## Challenge: Oscars Tables
 Students will create a webpage providing information about the 92nd Academy Awards in the form of tables. Instructions are in the [OscarsChallenge](OscarsChallenge.md) file.
 
-## Suggested Schedule
+## Agenda
+
 | Activity | Time |
 |-|-|
 | Warmup | 5m |

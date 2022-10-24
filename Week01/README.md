@@ -50,7 +50,8 @@ After the Replit introduction, have the students complete the [HTML Intro Challe
 ## Games
 If all students complete the Hello HTML Challenge satisfactorily, the remaining time can be used for games, like [Sporcle](https://www.sporcle.com/), [Drawphone](https://drawphone.tannerkrewson.com/), [Drawasaurus](https://www.drawasaurus.org/), or anything else.
 
-## Suggested Schedule
+## Agenda
+
 | Activity | Time |
 |-|-|
 | Icebreakers | 15m |
