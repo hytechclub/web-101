@@ -41,7 +41,8 @@ Given an image of a completed website and some sample HTML, students will write 
 
 If the students finish the challenge, instructors can send them to https://www.w3schools.com/cssref/ to explore some more CSS properties.
 
-## Suggested Schedule
+## Agenda
+
 | Activity | Time |
 |-|-|
 | Warmup | 10m |

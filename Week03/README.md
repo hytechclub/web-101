@@ -1,10 +1,12 @@
-## Overview: More HTML Tags
-For this lesson's content, cover more of HTML's most-used tags. The primary focus of this lesson is to make the students more comfortable with HTML, and show them more they can do with it. Teach attribute syntax, and many new elements including inputs.
+## Overview: More HTML Elements
+For this lesson's content, cover more of HTML's most-used elements. The primary focus of this lesson is to make the students more comfortable with HTML, and show them more they can do with it. Teach attribute syntax, and many new elements including inputs.
 
 ## Warm Up
-Start class with a review Kahoot, covering the content from the previous lesson: https://play.kahoot.it/#/k/3f96de3e-c1ac-4bef-ba5a-4917ba89ec67
+Start class with a [review Kahoot](https://play.kahoot.it/#/k/3f96de3e-c1ac-4bef-ba5a-4917ba89ec67), covering the content from the previous lesson.
 
 ## Lecture
+Present the [More HTML Elements](MoreHtmlElements.pptx) lecture.
+
 - Cover HTML Attributes, their purpose, and their syntax
 - Cover new HTML Elements:
     - Lists (unordered/ordered)
@@ -23,7 +25,8 @@ Students should follow the instructions in the [MovieSearchChallenge](MovieSearc
 
 There is an additional [Post Challenge](PostChallenge.md) as well.
 
-## Suggested Schedule
+## Agenda
+
 | Activity | Time |
 |-|-|
 | Warmup | 10m |
