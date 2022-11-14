@@ -1,19 +1,8 @@
 # Crustaceans: Follow-Along Activity
 Follow the steps below to use CSS to make HTML elements dynamic and interactive with transitions and transforms.
 
-## Basic Setup
-First, create a new HTML page (and CSS file) and add the basic tags. Within the `<head></head>` of the HTML, include a link to the Bootstrap CSS file and the new CSS file.
-
-```html
-<html>
-    <head>
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-        <link rel="stylesheet" href="TransitionsAndTransforms.css" type="text/css">
-    </head>
-    <body>
-    </body>
-</html>
-```
+## Getting Started
+Start by forking [this Repl](https://replit.com/@HylandOutreach/CrustaceansStarter#index.html), and then follow the instructions below.
 
 ## Transitions
 When an HTML element changes its state, CSS can dynamically update the styles for that element. CSS can even specify rules around the transition from one state to another. This makes the webpage feel much more interactive! Follow the instructions below to complete an example detailing some transitions in CSS.
