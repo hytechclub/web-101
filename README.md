@@ -9,6 +9,7 @@ Here is the basic rundown of sessions:
 - [Week 3](Week03/): More HTML elements
 - [Week 4](Week04/): Tables and iframes
 - [Week 5](Week05/): HTML review challenge
+  - _This week should also be used for individual check-ins with students_
 - [Week 6](Week06/): Introduction to CSS
 - [Week 7](Week07/): CSS selectors and some additional HTML
 - [Week 8](Week08/): Responsive design & Bootstrap

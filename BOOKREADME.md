@@ -8,7 +8,7 @@ Follow the links below to view each week of material.
 - [Week 2 (9/27) - HTML Headers, Paragraphs, Links, & Images](Week02/StudentDesc.md)
 - [Week 3 (10/4) - HTML Lists & Inputs](Week03/StudentDesc.md)
 - [Week 4 (10/11) - HTML Tables & IFrames](Week04/StudentDesc.md)
-- [Week 5 (10/18) - Reverse Engineering Challenge](Week05/StudentDesc.md)
+- [Week 5 (10/18) - Reverse Engineering Challenge](Week05/StudentDesc.md) + Check-Ins
 - [Week 6 (10/25) - CSS Introduction](Week06/StudentDesc.md)
 - [Week 7 (11/1) - HTML Divs & Spans, CSS Selectors](Week07/StudentDesc.md)
 - [Week 8 (11/8) - Responsive Design & Bootstrap](Week08/StudentDesc.md)
