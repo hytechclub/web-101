@@ -13,7 +13,7 @@ Present the [Responsive Design](ResponsiveDesign.pptx) lecture.
 - Bootstrap framework introduction
 
 ## Formative Assessment: Kahoot Quiz
-Facilitate the [Kahoot](https://create.kahoot.it/share/b983ee54-23df-4a24-a3aa-95c8a1ad722e).
+Facilitate the [Kahoot](https://create.kahoot.it/details/b983ee54-23df-4a24-a3aa-95c8a1ad722e).
 
 ## Code-Along Activity: Magazine Website
 As a group, walk through the instructions in [MagazineWebsiteFollowAlongWithCode](MagazineWebsiteFollowAlongWithCode.md) to cover the Bootstrap basics. Provide the students with a copy of the follow-along instructions that do not contain code so that they can copy and paste as needed.
