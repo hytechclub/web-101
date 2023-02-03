@@ -2,7 +2,7 @@
 For this lesson's content, cover more of HTML's most-used elements. The primary focus of this lesson is to make the students more comfortable with HTML, and show them more they can do with it. Teach attribute syntax, and many new elements including inputs.
 
 ## Warm Up
-Start class with a [review Kahoot](https://play.kahoot.it/#/k/3f96de3e-c1ac-4bef-ba5a-4917ba89ec67), covering the content from the previous lesson.
+Start class with a [review Kahoot](https://create.kahoot.it/details/740e9179-5b3b-426c-a5ef-e770b2bd60c4), covering the content from the previous lesson.
 
 ## Lecture
 Present the [More HTML Elements](MoreHtmlElements.pptx) lecture.
