@@ -23,7 +23,7 @@
     - [Bananas Follow-Along](Week06/BananasFollowAlong.md)
     - [Bananas Exercise](Week06/BananasIndividual.md)
     - [Style from Image Challenge](Week06/StyleFromImageChallenge.md)
-- [Week 7 - HTML `<div`s & `<span>`s / CSS Selectors](Week07/StudentDesc.md)
+- [Week 7 - More HTML/CSS](Week07/StudentDesc.md)
     - [Code-Along](Week07/PixelsCodeAlong.md)
     - [Self-Paced Work](Week07/SelfPacedWork.md)
     - [Challenges](Week07/Challenges.md)
