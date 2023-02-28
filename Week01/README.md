@@ -33,10 +33,10 @@ In a virtual environment, the same idea could be accomplished by having students
 ### Other Icebreakers
 https://docs.google.com/document/d/1NuY9Fcipkr4JSiwShOp7SZCj3JR-VGaXVLEG9mPKPGg
 
-## Kahoot
-Most of the students will probably have seen Kahoot already. However, it's still worth introducing them to it within this classroom context.
+## Blooket
+Most of the students will probably have seen Blooket already. However, it's still worth introducing them to it within this classroom context.
 
-There is a practice Kahoot that's just trivia (some relevant, some irrelevant): https://play.kahoot.it/#/?quizId=77c21df4-9918-45a7-9542-c7b7f168c1de
+There is a practice [Blooket](https://dashboard.blooket.com/set/63fd0f654fd0c0f112af3591) that's just trivia (some relevant, some irrelevant). Log into Blooket, let the students decide the game mode to play, set the time to around 5 minutes, and start the game!
 
 ## HelloHtml: Introduction to the Web
 Present the [HelloHTML PowerPoint](HelloHtml.pptx).
@@ -55,7 +55,7 @@ If all students complete the Hello HTML Challenge satisfactorily, the remaining 
 | Activity | Time |
 |-|-|
 | Icebreakers | 15m |
-| Kahoot | 10m |
+| Blooket | 10m |
 | Lecture | 20m |
 | Replit Introduction | 15m |
 | Challenge | 10m |
