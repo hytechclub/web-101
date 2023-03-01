@@ -17,7 +17,10 @@ Follow the links below to view each week of material.
 - [Week 11 (5/9) - Final Project](Week11/StudentDesc.md)
 - Week 12 (5/16) - Final Project Presentations
 
-## Students: Repl Submissions
+## Starter Repl Project
+[Click here for the **EmptyWeb** starter code.](https://replit.com/@HylandOutreach/EmptyWeb)
+
+## Multiplayer Repl Submissions
 [Click here to submit your Multiplayer Repl links!](https://forms.gle/bz5kPkSHa6r9LxVy7)
 
 > _Note: [click here for help generating a Multiplayer Repl link](Week01/ReplitIntroduction.md)_
