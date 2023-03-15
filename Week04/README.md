@@ -30,7 +30,10 @@ Students will begin to create a website to compare different games. Data for the
 Students will update their game comparison website by following [these instructions](GameComparisonIndividual.md).
 
 ## Challenge: Oscars Tables
-Students will create a webpage providing information about the 92nd Academy Awards in the form of tables. Instructions are in the [OscarsChallenge](OscarsChallenge.md) file.
+Students will create a webpage providing information about the 95th Academy Awards in the form of tables. Instructions are in the [OscarsChallenge](OscarsChallenge.md) file.
+
+## Challenge: Recursion
+Students will put tables inside of tables by following the steps in the [RecursionChallenge](RecursionChallenge.md) file.
 
 ## Agenda
 
