@@ -36,7 +36,7 @@
     - [Crustaceans Follow-Along](Week09/CrustaceansFollowAlong.md)
     - [Crustaceans Exercise](Week09/CrustaceansIndividual.md)
     - [Additional Challenges](Week09/AdditionalChallenges.md)
-- [Week 10 - Practice](Week10/StudentDesc.md)
+- [Extra - Practice](Week10/StudentDesc.md)
     - [Presidents Follow-Along](Week10/PresidentsFollowAlong.md)
     - [Animation Follow-Along](Week10/AnimationFollowAlong.md)
     - [Spinning Square Challenge](Week10/SpinningSquareChallenge.md)
