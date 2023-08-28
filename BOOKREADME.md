@@ -4,22 +4,24 @@ Welcome to the Web 101 Hy-Tech Club course!
 ## Schedule
 Follow the links below to view each week of material.
 
-- [Week 1 (2/28) - HTML Introduction](Week01/StudentDesc.md)
-- [Week 2 (3/7) - HTML Headers, Paragraphs, Links, & Images](Week02/StudentDesc.md)
-- [Week 3 (3/14) - HTML Lists & Inputs](Week03/StudentDesc.md)
-- [Week 4 (3/21) - HTML Tables & IFrames](Week04/StudentDesc.md)
-- [Week 5 (3/28) - Reverse Engineering Challenge](Week05/StudentDesc.md) + Check-Ins
-- [Week 6 (4/11) - CSS Introduction](Week06/StudentDesc.md)
-- [Week 7 (4/18) - HTML Divs & Spans, CSS Selectors](Week07/StudentDesc.md)
-- [Week 8 (4/25) - Responsive Design & Bootstrap](Week08/StudentDesc.md)
-- [Week 9 (5/2) - Transitions & Transforms](Week09/StudentDesc.md)
-- [Week 10 (5/9) - Final Project](Week11/StudentDesc.md)
-- Week 11 (5/16) - Final Project Presentations
+- [Week 1 (9/19) - HTML Introduction](Week01/StudentDesc.md)
+- [Week 2 (9/26) - HTML Headers, Paragraphs, Links, & Images](Week02/StudentDesc.md)
+- [Week 3 (10/3) - HTML Lists & Inputs](Week03/StudentDesc.md)
+- [Week 4 (10/10) - HTML Tables & IFrames](Week04/StudentDesc.md)
+- [Week 5 (10/17) - Reverse Engineering Challenge](Week05/StudentDesc.md) + Check-Ins
+- [Week 6 (10/24) - CSS Introduction](Week06/StudentDesc.md)
+- [Week 7 (10/31) - HTML Divs & Spans, CSS Selectors](Week07/StudentDesc.md)
+- [Week 8 (11/7) - Responsive Design & Bootstrap](Week08/StudentDesc.md)
+- [Week 9 (11/14) - Transitions & Transforms](Week09/StudentDesc.md)
+- **NO CLUB 11/21**
+- [Week 10 (11/28) - Review](Week10/StudentDesc.md)
+- [Week 11 (12/5) - Final Project](Week11/StudentDesc.md)
+- Week 12 (12/12) - Final Project Presentations
 
 ## Starter Repl Project
 [Click here for the **EmptyWeb** starter code.](https://replit.com/@HylandOutreach/EmptyWeb)
 
 ## Multiplayer Repl Submissions
-[Click here to submit your Multiplayer Repl links!](https://forms.gle/bz5kPkSHa6r9LxVy7)
+[Click here to submit your Multiplayer Repl links!](https://forms.gle/Kz2aLYPJcCSdQCkv5)
 
 > _Note: [click here for help generating a Multiplayer Repl link](Week01/ReplitIntroduction.md)_
