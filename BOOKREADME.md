@@ -10,13 +10,13 @@ Follow the links below to view each week of material.
 - [Week 4 (10/10) - HTML Tables & IFrames](Week04/StudentDesc.md)
 - [Week 5 (10/17) - Reverse Engineering Challenge](Week05/StudentDesc.md) + Check-Ins
 - [Week 6 (10/24) - CSS Introduction](Week06/StudentDesc.md)
-- [Week 7 (10/31) - HTML Divs & Spans, CSS Selectors](Week07/StudentDesc.md)
-- [Week 8 (11/7) - Responsive Design & Bootstrap](Week08/StudentDesc.md)
-- [Week 9 (11/14) - Transitions & Transforms](Week09/StudentDesc.md)
+- **NO CLUB 10/31**
+- [Week 7 (11/7) - HTML Divs & Spans, CSS Selectors](Week07/StudentDesc.md)
+- [Week 8 (11/14) - Responsive Design & Bootstrap](Week08/StudentDesc.md)
 - **NO CLUB 11/21**
-- [Week 10 (11/28) - Review](Week10/StudentDesc.md)
-- [Week 11 (12/5) - Final Project](Week11/StudentDesc.md)
-- Week 12 (12/12) - Final Project Presentations
+- [Week 9 (11/28) - Transitions & Transforms](Week09/StudentDesc.md)
+- [Week 10 (12/5) - Final Project](Week11/StudentDesc.md)
+- Week 11 (12/12) - Final Project Presentations
 
 ## Starter Repl Project
 [Click here for the **EmptyWeb** starter code.](https://replit.com/@HylandOutreach/EmptyWeb)
