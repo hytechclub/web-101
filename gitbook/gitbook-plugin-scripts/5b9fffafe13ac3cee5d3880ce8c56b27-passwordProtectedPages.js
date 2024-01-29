@@ -1,16 +1,16 @@
 let enabled = true;
 
 let passwordProtectedPages = {
-    // "Week01/HtmlIntroChallenge.md": "hey",
-    // "Week02/AboutMeCodeAlong.md": "aardvark",
-    // "Week03/PizzaWebsiteFollowAlong.md": "pepperoni",
-    // "Week04/GameComparisonCodeAlong.md": "fortnite",
-    // "Week06/BananasFollowAlong.md": "potassium",
-    // "Week07/PixelsCodeAlong.md": "arcade",
-    // "Week08/MagazineWebsiteFollowAlongWithCode.md": "ohthehumanity",
-    // "Week09/CrustaceansFollowAlong.md": "krabbypatty",
-    // "Week10/PresidentsFollowAlong.md": "commanderinchief",
-    // "Week10/AnimationFollowAlong.md": "life"
+    "Week01/HtmlIntroChallenge.md": "hey",
+    "Week02/AboutMeCodeAlong.md": "aardvark",
+    "Week03/PizzaWebsiteFollowAlong.md": "pepperoni",
+    "Week04/GameComparisonCodeAlong.md": "fortnite",
+    "Week06/BananasFollowAlong.md": "potassium",
+    "Week07/PixelsCodeAlong.md": "arcade",
+    "Week08/MagazineWebsiteFollowAlongWithCode.md": "ohthehumanity",
+    "Week09/CrustaceansFollowAlong.md": "krabbypatty",
+    "Week10/PresidentsFollowAlong.md": "commanderinchief",
+    "Week10/AnimationFollowAlong.md": "life"
 }
 
 document.addEventListener('DOMContentLoaded', function() {
