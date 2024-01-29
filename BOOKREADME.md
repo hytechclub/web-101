@@ -22,6 +22,6 @@ Follow the links below to view each week of material.
 [Click here for the **EmptyWeb** starter code.](https://replit.com/@HylandOutreach/EmptyWeb)
 
 ## Multiplayer Repl Submissions
-[Click here to submit your Multiplayer Repl links!](https://forms.gle/Kz2aLYPJcCSdQCkv5)
+[Click here to submit your Multiplayer Repl links!](https://forms.office.com/r/AJycej6N7C)
 
-> _Note: [click here for help generating a Multiplayer Repl link](Week01/ReplitIntroduction.md)_
+> _Note: [click here for help generating a Multiplayer Repl link](https://hylandtechclub.com/MultiplayerLink)_
