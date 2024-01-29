@@ -2,14 +2,7 @@
 Here are some ideas for projects you could build. Feel free to create a different type of webpage that meets all of the technical requirements for the project too!
 
 ## Examples
-Here are some examples from previous semesters:
-
-- [Video Game Adaptation Ratings](https://final-project.brookes1.repl.co/)
-- [Chaos Group](https://chaos-group.arrowship06.repl.co/)
-- [Cleveland Guardians](https://emptyweb-5.lhyland.repl.co/)
-- [Really Cool Website](https://finalproject.nightkoneko.repl.co/)
-- [Namazon](https://finalproject.aidans63.repl.co/)
-- [Billy Joel](https://final-prodject.lindseydrab.repl.co/)
+[Here are some examples from previous semesters.](https://hylandtechclub.com/showcase/Web101/index.html)
 
 ## Resumé/Portfolio
 One of the most important things you'll need if you want to apply for almost any job is a resumé. It can help you stand out as a great candidate by showing off your skills, education, and previous work experience. For some jobs, you will also need to compile a selection of samples of work into a portfolio. This allows an employer to view everything you've done in one place, and helps them decide to hire you.
