@@ -19,6 +19,8 @@ There are two separate PowerPoint presentations: [Introduction to CSS](Introduct
 ### Review - HTML & CSS
 For this activity, the students will be split up into 3-4 teams. Each team will be given a whiteboard/Multiplayer Replit to fill out their answers.
 
+[Here is a Repl project with question files.](https://replit.com/@HylandOutreach/CssIntroReviewBase#index.html) Fork the project three times, and create Multiplayer links for each of those. Update the PowerPoint with these links and assign teams there.
+
 #### Notes from Spring 2022
 - rotate who types the answer
 - get rid of question text in repl files, just have empty files
