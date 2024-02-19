@@ -14,8 +14,9 @@ Here is the basic rundown of sessions:
 - [Week 7](Week07/): CSS selectors and some additional HTML
 - [Week 8](Week08/): Responsive design & Bootstrap
 - [Week 9](Week09/): CSS transitions and transforms
-- Week 10: Work on final project
-- Week 11: Final project presentations
+- [Week 10](Week10/): Review
+- Week 11: Work on final project
+- Week 12: Final project presentations
 
 ## Multiplayer Repls
 [View responses for Multiplayer Repl Submissions here.](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=iNuljKul90il4EzlCTX4B33juYEmlJlJpIkctSGCv9RUME43UE5IODlKWTQ4VEJSWFlPVzJBVUxFTC4u&Token=118ab700d46c4acc939d488eada2f62f)
