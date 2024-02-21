@@ -1,7 +1,7 @@
 let enabled = true;
 
 let passwordProtectedPages = {
-    "Week01/HtmlIntroChallenge.md": "hey",
+    // "Week01/HtmlIntroChallenge.md": "hey",
     "Week02/AboutMeCodeAlong.md": "aardvark",
     "Week03/PizzaWebsiteFollowAlong.md": "pepperoni",
     "Week04/GameComparisonCodeAlong.md": "fortnite",
