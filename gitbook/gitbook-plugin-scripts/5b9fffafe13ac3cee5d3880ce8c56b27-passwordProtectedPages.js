@@ -5,7 +5,7 @@ let passwordProtectedPages = {
     // "Week02/AboutMeCodeAlong.md": "aardvark",
     // "Week03/PizzaWebsiteFollowAlong.md": "pepperoni",
     // "Week04/GameComparisonCodeAlong.md": "fortnite",
-    "Week06/BananasFollowAlong.md": "potassium",
+    // "Week06/BananasFollowAlong.md": "potassium",
     "Week07/PixelsCodeAlong.md": "arcade",
     "Week08/MagazineWebsiteFollowAlongWithCode.md": "ohthehumanity",
     "Week09/CrustaceansFollowAlong.md": "krabbypatty",
