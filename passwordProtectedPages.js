@@ -8,7 +8,7 @@ let passwordProtectedPages = {
     // "Week06/BananasFollowAlong.md": "potassium",
     // "Week07/PixelsCodeAlong.md": "arcade",
     // "Week08/MagazineWebsiteFollowAlongWithCode.md": "ohthehumanity",
-    "Week09/CrustaceansFollowAlong.md": "krabbypatty",
+    // "Week09/CrustaceansFollowAlong.md": "krabbypatty",
     "Week10/PresidentsFollowAlong.md": "commanderinchief",
     "Week10/AnimationFollowAlong.md": "life"
 }
