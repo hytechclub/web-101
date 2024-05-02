@@ -7,7 +7,7 @@ Create a hyperlink button that will send the user to more crustacean information
 ### HTML Updates
 1. In the HTML file, underneath the "Subscribe" `<div></div>`, add a new `a` element
 1. Set the `class` attribute of the `a` to "btn" so it appears as a button
-1. Set the `id` attribute of the `a` to "more-link" so it is accessible in the CSS
+1. Set the `id` attribute of the `a` to "more-info" so it is accessible in the CSS
 1. Set the `href` attribute of the `a` to "https://en.wikipedia.org/wiki/Crustacean" so it goes there when clicked
 
 ### CSS Updates
