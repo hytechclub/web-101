@@ -1,5 +1,5 @@
 # Game Comparison: Code-Along Activity
-Follow the instructions below to build a webpage that helps users compare the various features of different games. Use a `table` and some `iframes` to provide information to the user. Start from [this empty Repl](https://replit.com/@HylandOutreach/EmptyWeb#index.html), and then follow the instructions below.
+Follow the instructions below to build a webpage that helps users compare the various features of different games. Use a `table` and some `iframes` to provide information to the user. Start from [this empty Glitch](https://glitch.com/edit/#!/emptyweb101), and then follow the instructions below.
 
 ## Setup
 Start with the basic HTML setup for the page.
