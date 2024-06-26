@@ -2,7 +2,7 @@
 Create a simple website for a magazine called _Dirigible Digest_. The website will contain articles related to dirigibles, and will be formatted using Bootstrap. A dirigible balloon, or airship, is a type of aerostat or lighter-than-air aircraft that can navigate through the air under its own power. For more information about dirigibles, refer to this article: https://en.wikipedia.org/wiki/Airship.
 
 ## Setup
-Start from [this empty Repl](https://replit.com/@HylandOutreach/EmptyWeb#index.html), and then follow the instructions below.
+Start from [this empty Glitch](https://glitch.com/edit/#!/emptyweb101), and then follow the instructions below.
 
 ### HTML File
 1. Open the **index.html** file, and add the basic tags: `html`, `head`, `body`

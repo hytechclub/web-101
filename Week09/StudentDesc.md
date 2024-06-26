@@ -6,7 +6,7 @@ Learn how to use CSS transitions and transforms to make a more dynamic website. 
 - [Resources](Resources.md)
 
 ## Code-Along
-[Click here for the code-along **starter code**.](https://replit.com/@HylandOutreach/CrustaceansStarter#index.html)
+[Click here for the code-along **starter code**.](https://glitch.com/edit/#!/crustaceanstarter)
 
 [Click here for the code-along instructions.](CrustaceansFollowAlong.md)
 
