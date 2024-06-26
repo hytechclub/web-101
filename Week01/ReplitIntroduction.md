@@ -7,7 +7,7 @@ Before beginning, make sure you have a Repl account. You can follow [these instr
 ## Getting Started
 Start by creating a **Fork** of an empty project to get started, and sharing a **Multiplayer Link** to the project.
 
-1. Go to [this empty Project](https://glitch.com/edit/#!/emptyweb101)
+1. Go to [this empty Project](https://glitch.com/edit/#!/remix/emptyweb1011)
 1. Click the "Remix" button in the upper right 
     ![](Assets/ForkRepl.png)
 1. In the popup that appears, enter a new Name for the Repl, and click "Fork Repl"

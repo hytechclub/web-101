@@ -1,5 +1,5 @@
 # Code-Along: About Me Website
-With this exercise, you will create a webpage that shows some information about yourself. Start by forking [this empty Glitch](https://glitch.com/edit/#!/emptyweb101), and then follow the instructions below.
+With this exercise, you will create a webpage that shows some information about yourself. Start by forking [this empty Glitch](https://glitch.com/edit/#!/remix/emptyweb101), and then follow the instructions below.
 
 ## Setup
 Start by setting up the basics of the website.

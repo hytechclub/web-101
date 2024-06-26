@@ -5,7 +5,7 @@ Here is an image of a webpage:
 
 (view the full-size image here: <a href="StrangerThingsSite.png">Stranger Things Site</a>)
 
-Your goal is to replicate the webpage using HTML! Start by forking [this empty Glitch project](https://glitch.com/edit/#!/emptyweb101). Then, start adding the necessary code to create your webpage!
+Your goal is to replicate the webpage using HTML! Start by forking [this empty Glitch project](https://glitch.com/edit/#!/remix/emptyweb101). Then, start adding the necessary code to create your webpage!
 
 ## Notes
 It is not necessary to have each part of the text/content match the image exactly. The important thing is recognizing each element and creating it with HTML! The [HTML Cheatsheet](HtmlCheatsheet.md) can be a big help.

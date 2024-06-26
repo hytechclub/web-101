@@ -22,7 +22,7 @@ Now, some developers copy this style for their own art
 Pixel art can be used for almost anything!
 
 ## Setup
-Start by forking [this starter Glitch](https://glitch.com/edit/#!/pixelstart). There is some code already in the project:
+Start by forking [this starter Glitch](https://glitch.com/edit/#!/remix/pixelstart). There is some code already in the project:
 
 **index.html**
 

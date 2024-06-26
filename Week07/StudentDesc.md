@@ -11,7 +11,7 @@ Learn how to use HTML `<div>` and `<span>` elements, along with some new CSS sel
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week07/MoreHtml.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Code-Along: Pixels
-[Click here for the code-along **starter code**.](https://glitch.com/edit/#!/pixelstart) [Click here for the code-along activity instructions.](PixelsCodeAlong.md)
+[Click here for the code-along **starter code**.](https://glitch.com/edit/#!/remix/pixelstart) [Click here for the code-along activity instructions.](PixelsCodeAlong.md)
 
 ## Self-Paced Work: Pixel Updates
 [Click here for the self-paced work instructions.](SelfPacedWork.md).
