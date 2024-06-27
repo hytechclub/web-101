@@ -1,5 +1,5 @@
 # Presidents: Follow-Along Activity
-Follow the steps below to update the Presidents website with information about John F. Kennedy. Start from [this Repl project](https://replit.com/@HylandOutreach/PresidentsStart#index.html).
+Follow the steps below to update the Presidents website with information about John F. Kennedy. Start from [this Glitch project](https://glitch.com/edit/#!/remix/presidentstarter).
 
 ## Main Page Update
 Add an entry row for JFK, including an image, a blurb, and a link to a JFK page. It should appear beneath the LBJ entry.
