@@ -59,8 +59,5 @@ Read this w3schools article about transforms: https://www.w3schools.com/css/css3
 
 This article introduces some additional ways we can use the `transform` property. After reading the article, complete the exercises at the bottom.
 
-## More CSS
-[Click here to see even more of what's possible with CSS.](https://hylandtechoutreach.github.io/ucs/MoreCss2/Assets/Showcase.html)
-
 ## Beyond
 If you complete all of the exercises above, you're free to do whatever you want with transitions and transforms. Create a new file, and make a work of art!
