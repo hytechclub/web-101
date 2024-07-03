@@ -1,5 +1,5 @@
 # Web 101 Course Overview
-This course covers the basics of web development, introducing static webpages and styles. By the end of the semester, students will be able to create their own webpages using the HTML language to build structure, and the CSS language to add style.
+The Web 101 course covers the basics of HTML and CSS. By the end of the semester, students should be able to build websites of their own design from scratch!
 
 ## Outline of Weeks
 Here is the basic rundown of sessions:
