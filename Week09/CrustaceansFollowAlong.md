@@ -2,7 +2,7 @@
 Follow the steps below to use CSS to make HTML elements dynamic and interactive with transitions and transforms.
 
 ## Getting Started
-Start by forking [this Glitch](https://glitch.com/edit/#!/remix/crustaceanstarter), and then follow the instructions below.
+Start by forking [this Repl](https://replit.com/@HylandOutreach/CrustaceansStarter#index.html), and then follow the instructions below.
 
 ## Transitions
 When an HTML element changes its state, CSS can dynamically update the styles for that element. CSS can even specify rules around the transition from one state to another. This makes the webpage feel much more interactive! Follow the instructions below to complete an example detailing some transitions in CSS.
