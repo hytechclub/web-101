@@ -1,5 +1,5 @@
 # Pizza Website: Follow-Along Activity
-Alfredo's Pizza Cafe has some great pizza, but unfortunately their technological prowess is not so great. They need your help to create their website! They want to provide some information about their restaurants, along with an order form so customers can order pies online. Start from [this empty Glitch](https://glitch.com/edit/#!/remix/emptyweb101), and then follow the instructions below.
+Alfredo's Pizza Cafe has some great pizza, but unfortunately their technological prowess is not so great. They need your help to create their website! They want to provide some information about their restaurants, along with an order form so customers can order pies online. Start from [this empty Repl](https://replit.com/@HylandOutreach/EmptyWeb), and then follow the instructions below.
 
 ## Setup
 1. Open up the **index.html** file
