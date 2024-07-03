@@ -1,5 +1,5 @@
 # Basic HTML Elements
-For the first content lesson of the class, go over HTML elements. The purpose of this lesson is to show the students what they can create with some basic elements. Overall, this first lesson should be pretty straightforward. Introduce HTML, show the students some examples and have them get some hands-on experience writing HTML. test
+For the first content lesson of the class, go over HTML elements. The purpose of this lesson is to show the students what they can create with some basic elements. Overall, this first lesson should be pretty straightforward. Introduce HTML, show the students some examples and have them get some hands-on experience writing HTML.
 
 ## Warm-Up
 It may be helpful to begin this session with an Icebreaker. After that, the instructor can pose a question to the students and let them write down their answers. The question could be something like "What do you think HTML does?", "How do you think websites work?", etc. Students can volunteer answers after 5 minutes or so.
