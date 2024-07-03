@@ -4,7 +4,7 @@ This course covers the basics of web development, introducing static webpages an
 ## Outline of Weeks
 Here is the basic rundown of sessions:
 
-- [Week 1](Week01/): Introduction to Hy-Tech Club and HTML
+- [Week 1](Week01/): Introduction to Hy-Tech Club and Web Development
 - [Week 2](Week02/): Introduction to basic HTML elements
 - [Week 3](Week03/): More HTML elements
 - [Week 4](Week04/): Tables and iframes

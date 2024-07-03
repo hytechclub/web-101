@@ -1,64 +1,79 @@
-## Overview: HTML Introduction
-For the first week of the club, focus mainly on developing classroom culture/icebreakers/preliminary stuff. There should be plenty of time for icebreakers, as well as any necessary troubleshooting.
+# WIP Introduction to Hy-Tech Club and Web Development
+In this first session of club, students will get to know each other and learn what the rest of the semester will entail.
 
-## Icebreakers
-Complete one or two of these icebreakers
-
-### Virtual Icebreaker
-Complete a virtual activity to allow the students to get to know each other, and encourage them to share their screen/mic/video. One possibility is to have each student go to [Sketchpad](https://sketch.io/sketchpad/) and have them draw something. Then, go around the room and have each student introduce their drawing by sharing their screen.
-
-### Candy Introductions
-Each student takes two pieces of candy (there should be a variety), but they are NOT allowed to eat it yet. Once every student has their candy, reveal that each type of candy corresponds to a question they will have to answer! These questions can be:
-
-- Favorite Movie
-- Favorite Musical Artist
-- Favorite School Subject
-- Favorite Vacation Destination
-- Favorite TV Show
-
-Or anything like that. Go around the room and have each student answer their questions.
-
-In a virtual environment, the same idea could be accomplished with a question randomizer (like a [spinning wheel](https://pickerwheel.com/)).
-
-### Two Truths and a Lie
-Go around the room and have each student say three statements about themselves. One of the statements must not be true. Have the other students attempt to guess which is the lie. If the current student fools all the other students, they can receive candy.
-
-### Snowball Fight
-_This icebreaker activity works best with a large space in which to run around_
-
-Each student starts with a piece of paper. They write down a question on the paper, then crumple it up into a ball. After that, students all throw the "snowballs" at each other until an instructor calls time. Then, each student has to answer the question on the snowball closest to them!
-
-In a virtual environment, the same idea could be accomplished by having students submit questions through a form, and then having other students choose from them randomly.
-
-### Other Icebreakers
-https://docs.google.com/document/d/1NuY9Fcipkr4JSiwShOp7SZCj3JR-VGaXVLEG9mPKPGg
-
-## Blooket
-Most of the students will probably have seen Blooket already. However, it's still worth introducing them to it within this classroom context.
-
-There is a practice [Blooket](https://dashboard.blooket.com/set/63fd0f654fd0c0f112af3591) that's just trivia (some relevant, some irrelevant). Log into Blooket, let the students decide the game mode to play, set the time to around 5 minutes, and start the game!
-
-## HelloHtml: Introduction to the Web
-Present the [HelloHTML PowerPoint](HelloHtml.pptx).
-
-## Replit Introduction
-Walk through the [Replit Introduction](ReplitIntroduction.md) with the students. This should set them up for the Hello HTML Challenge.
-
-## HTML Intro Challenge
-After the Replit introduction, have the students complete the [HTML Intro Challenge](HtmlIntroChallenge.md) to make sure they grasp the basic HTML concepts. Give the students some time to work independently, and then go over the basic part of the solution. Allow them to continue working before going over the full solution. Ultimately, the students should have a good chance to figure it out on their own, but they should also have support if needed.
-
-## Games
-If all students complete the Hello HTML Challenge satisfactorily, the remaining time can be used for games, like [Sporcle](https://www.sporcle.com/), [Drawphone](https://drawphone.tannerkrewson.com/), [Drawasaurus](https://www.drawasaurus.org/), or anything else.
-
-## Agenda
+### Agenda
+Here are some general guidelines for the overall flow of the camp:
 
 | Activity | Time |
 |-|-|
-| Icebreakers | 15m |
+| Icebreaker | 30m |
+| Presentation | 15m |
+| Replit Setup | 15m |
+| Break | 10m |
+| Code-Along | 30m |
 | Blooket | 10m |
-| Lecture | 20m |
-| Replit Introduction | 15m |
-| Challenge | 10m |
-| Go over Challenge | 5m |
-| Challenge continued | 15m |
-| Games | 30m |
+| Conclusion | 5m |
+
+## Lesson Outline
+The entirety of the camp flows through the [PowerPoint Presentation](BuildingWebsites.pptx).
+
+### Icebreaker
+Have students create a color scheme using [coolors](https://coolors.co), and introduce themselves along with their colors.
+
+#### Generation
+Follow the [guide](Icebreaker.md) to introduce the activity. There are a few tools to help the generation process. Note that students will be able to use the colors they generate during the activity if desired.
+
+#### Submission
+After a few minutes, students should submit their color schemes using the [form](https://forms.office.com/r/YPV9SUKZ8x) linked on the [camp homepage](BOOKREADME.md). View responses in the [spreadsheet](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EYBSPXkkzShBqu3CLXt2oQEBrskq9Ec35W-0csPxCPhiWg?e=iTogxo); make sure to filter by the current date and room.
+
+#### Show and Tell
+Go through the responses, and call on each student. They should introduce themselves by sharing their name, grade, school, and color inspiration.
+
+### Presentation
+After students have warmed up with the icebreaker, it's time for the presentation portion of the [PowerPoint](BuildingWebsites.pptx). These slides contain a brief introduction to HTML and CSS, and there are talking points in the slide notes.
+
+### Code-Along
+The next few slides introduce the [code-along activity](CodeAlong.md). Start by briefly explaining [Glitch](https://glitch.com/) as an online platform for creating and sharing websites. It is totally free, and no accounts are required.
+
+Next, have students open the [starter project](https://glitch.com/edit/#!/remix/building-websites-starter-project) linked from the [camp homepage](BOOKREADME.md). Make sure they properly open the preview, and are able to see it update by changing the code and clicking the Refresh button.
+
+From there, follow the [code-along instructions](CodeAlong.md) to show the students how to build their own websites!
+
+### Customization
+Give students some time to add more to their websites. There are a bunch of things they can try by following the [guide](Customization.md).
+
+### Site Sharing
+Encourage the students to share the websites they've built with the room. They can share them through [this form](https://forms.office.com/r/t1NP1Zdzzx).
+
+[Click here to view submissions.](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EVyFLFUKufNKggRGD0FlRGIBdOlbvteXVQiQb9hO7n0GEQ?e=MTSai2)
+
+### Blooket: Formative Assessment
+[Blooket](https://www.blooket.com/) is a fun formative assessment tool that's similar to Kahoot, but more game-based. There are a variety of game modes where the students compete against each other in different ways. Answering questions correctly helps them achieve more success in each game.
+
+>_For a Blooket guide with screenshots, [click here](https://github.com/hylandtechoutreach/coding-activities/blob/main/BuildingAWebsiteLessonPlan.md#formative-assessment-blooket)_
+
+An account is required to host the game; here are some credentials you can use:
+
+- Username: **techoutinst**
+- Password: **Tech0utreach**
+
+When setting up the game, try to time it so that it ends just a couple minutes before the camp ends. Note that it will likely take 2-3 minutes for all the students to join the game, so a game time limit of **7 minutes** might end up taking about **10 minutes**.
+
+1. Go to the [Blooket Login Page](https://id.blooket.com/login)
+1. Enter the credentials above
+1. Once logged into Blooket, go to the [question set](https://dashboard.blooket.com/set/6426f2b7270eb96cab922257)
+1. Click the **Host** button
+1. Select the **Fishing Frenzy** game mode (or another requested mode), and click the **Host Game** button
+1. Adjust the time as needed, and click the **Host Now** button
+1. Instruct students to go to **play.blooket.com**, enter the Game ID and a nickname, and join the game
+1. Once all students have joined, click the **Start** button
+
+From there, the students will work on their own, answering questions and trying to win the game!
+
+## Conclusion
+Make sure to close out the camp on a strong, positive note of encouragement. Here are some key points to hit:
+
+- Thank the students for participating
+- Encourage them to continue learning about coding on their own
+- Tell them they can reach us at **techoutreach@hyland.com** if they have any questions or would like any guidance
+- Send them on their way!
