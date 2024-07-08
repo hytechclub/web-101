@@ -1,79 +1,59 @@
-# WIP Introduction to Hy-Tech Club and Web Development
-In this first session of club, students will get to know each other and learn what the rest of the semester will entail.
+# Introduction to Hy-Tech Club and Web Development
+In this first session of club, students will get to know each other and learn what the rest of the semester will entail. The primary goal is to start building a positive classroom culture, and inspire students to dive headfirst into the rest of the semester.
 
 ### Agenda
 Here are some general guidelines for the overall flow of the camp:
 
 | Activity | Time |
 |-|-|
+| Overview | 10m |
 | Icebreaker | 30m |
-| Presentation | 15m |
-| Replit Setup | 15m |
+| Presentation | 10m |
+| Replit Setup | 10m |
 | Break | 10m |
 | Code-Along | 30m |
-| Blooket | 10m |
-| Conclusion | 5m |
+| Blooket | 15m |
+
+## Learning Objectives
+Students will be able to...
+
+- Get to know each other
+- Get to know their instructors
+- State the primary objectives for the semester
+- Build a simple website
+- Consider project ideas
 
 ## Lesson Outline
-The entirety of the camp flows through the [PowerPoint Presentation](BuildingWebsites.pptx).
+The entirety of the lesson flows through the [PowerPoint Presentation](Welcome.pptx).
 
-### Icebreaker
-Have students create a color scheme using [coolors](https://coolors.co), and introduce themselves along with their colors.
+### Overview
+The first few slides cover an overview of the course, and a little bit of Hy-Tech Club more generally. Hopefully this will help set the right expectations for the students, inspire them to learn about web development, and give them a good idea of our goals for them.
 
-#### Generation
-Follow the [guide](Icebreaker.md) to introduce the activity. There are a few tools to help the generation process. Note that students will be able to use the colors they generate during the activity if desired.
+### Icebreaker: Friendivia
+Play a game of [Friendivia](https://friendivia.com/about) with the group. Note that this may not work if there are over 20 people, so keep that in mind. Emphasize that a group of Tech Outreach students (some of whom were former Hy-Tech Club students) developed this game in Summer 2023. All the students in Web 101 can start developing the skills needed to build something like Friendivia!
 
-#### Submission
-After a few minutes, students should submit their color schemes using the [form](https://forms.office.com/r/YPV9SUKZ8x) linked on the [camp homepage](BOOKREADME.md). View responses in the [spreadsheet](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EYBSPXkkzShBqu3CLXt2oQEBrskq9Ec35W-0csPxCPhiWg?e=iTogxo); make sure to filter by the current date and room.
+1. Go to [friendivia.com/host](https://friendivia.com/host) BEFORE club begins to warm up the site
+1. Start a new "Classroom" game (click "custom" and then "classroom")
+1. Allow students to join
+1. Once all students have joined, start the game
+1. Step through the different parts of the game
 
-#### Show and Tell
-Go through the responses, and call on each student. They should introduce themselves by sharing their name, grade, school, and color inspiration.
+#### Alternative
+If there are more than twenty students present, play a game of [Drawasaurus](https://drawasaurus.org/) instead. Or, it can be used as a "stress test" to see if the game succeeds or fails with the given number of students.
+
+#### Note
+Because this is the first session of club, introductory segments like the icebreaker are the top priority. If the icebreaker is going a little long, that's okay; it is better to focus on classroom culture building at this point.
 
 ### Presentation
-After students have warmed up with the icebreaker, it's time for the presentation portion of the [PowerPoint](BuildingWebsites.pptx). These slides contain a brief introduction to HTML and CSS, and there are talking points in the slide notes.
+After students have warmed up with the icebreaker, it's time for the presentation portion of the [PowerPoint](Welcome.pptx). These slides contain a brief introduction to HTML and CSS, and there are talking points in the slide notes.
+
+### Replit Setup
+Students should follow the [Replit setup instructions](ReplitSetup.md) to create a Replit account, and fork the starter project for this week.
 
 ### Code-Along
-The next few slides introduce the [code-along activity](CodeAlong.md). Start by briefly explaining [Glitch](https://glitch.com/) as an online platform for creating and sharing websites. It is totally free, and no accounts are required.
+The next few slides introduce the [code-along activity](CodeAlong.md). Have students open the starter project opened from the [lesson homepage](StudentDesc.md). Make sure they can see the site and edit the code. From there, follow the [code-along instructions](CodeAlong.md) to show the students how to build their own websites!
 
-Next, have students open the [starter project](https://glitch.com/edit/#!/remix/building-websites-starter-project) linked from the [camp homepage](BOOKREADME.md). Make sure they properly open the preview, and are able to see it update by changing the code and clicking the Refresh button.
-
-From there, follow the [code-along instructions](CodeAlong.md) to show the students how to build their own websites!
-
-### Customization
-Give students some time to add more to their websites. There are a bunch of things they can try by following the [guide](Customization.md).
-
-### Site Sharing
-Encourage the students to share the websites they've built with the room. They can share them through [this form](https://forms.office.com/r/t1NP1Zdzzx).
-
-[Click here to view submissions.](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EVyFLFUKufNKggRGD0FlRGIBdOlbvteXVQiQb9hO7n0GEQ?e=MTSai2)
+After the code-along, if there is time, students are welcome to customize their sites.
 
 ### Blooket: Formative Assessment
-[Blooket](https://www.blooket.com/) is a fun formative assessment tool that's similar to Kahoot, but more game-based. There are a variety of game modes where the students compete against each other in different ways. Answering questions correctly helps them achieve more success in each game.
-
->_For a Blooket guide with screenshots, [click here](https://github.com/hylandtechoutreach/coding-activities/blob/main/BuildingAWebsiteLessonPlan.md#formative-assessment-blooket)_
-
-An account is required to host the game; here are some credentials you can use:
-
-- Username: **techoutinst**
-- Password: **Tech0utreach**
-
-When setting up the game, try to time it so that it ends just a couple minutes before the camp ends. Note that it will likely take 2-3 minutes for all the students to join the game, so a game time limit of **7 minutes** might end up taking about **10 minutes**.
-
-1. Go to the [Blooket Login Page](https://id.blooket.com/login)
-1. Enter the credentials above
-1. Once logged into Blooket, go to the [question set](https://dashboard.blooket.com/set/6426f2b7270eb96cab922257)
-1. Click the **Host** button
-1. Select the **Fishing Frenzy** game mode (or another requested mode), and click the **Host Game** button
-1. Adjust the time as needed, and click the **Host Now** button
-1. Instruct students to go to **play.blooket.com**, enter the Game ID and a nickname, and join the game
-1. Once all students have joined, click the **Start** button
-
-From there, the students will work on their own, answering questions and trying to win the game!
-
-## Conclusion
-Make sure to close out the camp on a strong, positive note of encouragement. Here are some key points to hit:
-
-- Thank the students for participating
-- Encourage them to continue learning about coding on their own
-- Tell them they can reach us at **techoutreach@hyland.com** if they have any questions or would like any guidance
-- Send them on their way!
+About 10-15 minutes before the end of club, facilitate the Blooket quiz. Log into [Blooket](https://blooket.com), open the [question set](https://dashboard.blooket.com/set/6426f2b7270eb96cab922257), and host the game! Set the time so that it concludes with 1-2 minutes remaining in the session.
