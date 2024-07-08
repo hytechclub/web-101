@@ -8,7 +8,7 @@ Here are some general guidelines for the overall flow of the lesson:
 |-|-|
 | Overview | 10m |
 | Icebreaker | 30m |
-| Presentation | 10m |
+| Presentation | 15m |
 | Replit Setup | 10m |
 | Break | 10m |
 | Code-Along | 30m |
