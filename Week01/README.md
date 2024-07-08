@@ -2,7 +2,7 @@
 In this first session of club, students will get to know each other and learn what the rest of the semester will entail. The primary goal is to start building a positive classroom culture, and inspire students to dive headfirst into the rest of the semester.
 
 ### Agenda
-Here are some general guidelines for the overall flow of the camp:
+Here are some general guidelines for the overall flow of the lesson:
 
 | Activity | Time |
 |-|-|
