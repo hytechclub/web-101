@@ -1,12 +1,16 @@
-# Hello HTML
-For the first week of the course, learn what HTML is all about. Review the PowerPoint presentation, walk through the [Replit Introduction](ReplitIntroduction.md), and then complete the [HTML Intro Challenge](HtmlIntroChallenge.md) activity.
+# Introduction to Hy-Tech Club
+For the first week, your mission is to get to know your fellow students a little better, make your first website of the club, and start thinking about what you want to do for the rest of the semester!
 
-## Session Recording
-<iframe width="100%" height="450px" src="https://www.youtube.com/embed/a_34XtzOvd4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Welcome Presentation
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week01/Welcome.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
-## Hello HTML PowerPoint Presentation
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week01/HelloHtml.pptx' width='100%' height='450px' frameborder='0'></iframe>
+## Replit Setup
+[Click here for Replit Setup instructions.](ReplitSetup.md)
 
-## Activities
-- [Replit Introduction](ReplitIntroduction.md)
-- [HTML Intro Challenge](HtmlIntroChallenge.md)
+## Code-Along: Building a Website
+**[Click here for the starter project.](https://replit.com/@HylandOutreach/BuildingWebsitesStart#index.html)**
+
+Alternatively, follow the [code-along instructions](CodeAlong.md) step by step.
+
+## Customization
+[Click here for website customization options.](Customization.md)
