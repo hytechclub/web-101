@@ -15,8 +15,24 @@ Once you have created your new HTML pages, link them from your main "About Me" p
 
 ### Further explorations
 If you complete the above instructions, research the following tags and add them throughout your "About Me" page:
-- `<br>`
-- `<audio>`
-- `<code>`
-- `<del>`
-- `<details>`
+- `<br>`  This is a line break. It moves text on to a new line. It does not have a closing tag. 
+
+<html>
+    <body>
+        <p> This is a paragraph </p>
+        <br>
+        <p>This is a paragraph after a line break </p>
+    </body>
+</html>
+
+- `<audio>`   This tag allows you to embed audio content that can be played in the browser into a webpage. There are three supported audio formats in HTML: MP3, WAV, and OGG. 
+
+<audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+</audio>
+
+- `<code>`  This defines a piece of code within a webpage, maintaining the original format of the code rather than formatting it into text. 
+
+- `<del>`  This creates a strikethrough in text without removing it from the website. You can also use CSS to change the color and style of the strikethrough.
+
+- `<details>`  This tag wraps around content that you want to hide initially but reveal upon user interaction. Use the `<summary>` tag for what you want to show on the website and then add a `<p>` with the text you want to show once it is hovered over
