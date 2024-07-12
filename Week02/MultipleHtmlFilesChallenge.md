@@ -25,6 +25,7 @@ If you complete the above instructions, research the following tags and add them
         <p>This is a paragraph after a line break </p>
     </body>
 </html>
+```
 
 - `<audio>`   This tag allows you to embed audio content that can be played in the browser into a webpage. There are three supported audio formats in HTML: MP3, WAV, and OGG. 
 
@@ -32,6 +33,7 @@ If you complete the above instructions, research the following tags and add them
 <audio controls>
   <source src="horse.ogg" type="audio/ogg">
 </audio>
+``` 
 
 - `<code>`  This defines a piece of code within a webpage, maintaining the original format of the code rather than formatting it into text. 
 
