@@ -17,6 +17,7 @@ Once you have created your new HTML pages, link them from your main "About Me" p
 If you complete the above instructions, research the following tags and add them throughout your "About Me" page:
 - `<br>`  This is a line break. It moves text on to a new line. It does not have a closing tag. 
 
+```html
 <html>
     <body>
         <p> This is a paragraph </p>
@@ -27,6 +28,7 @@ If you complete the above instructions, research the following tags and add them
 
 - `<audio>`   This tag allows you to embed audio content that can be played in the browser into a webpage. There are three supported audio formats in HTML: MP3, WAV, and OGG. 
 
+```html
 <audio controls>
   <source src="horse.ogg" type="audio/ogg">
 </audio>
