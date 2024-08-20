@@ -24,7 +24,7 @@ Walk through the [Pixels Code-Along activity](PixelsCodeAlong.md) as a group. Fo
 Students should follow [the instructions](SelfPacedWork.md) to make updates to the pixel art grid.
 
 ## Challenges
-With remaining time, students can work on the [additional challenges](Challenges.md).
+With remaining time, students can work on the [additional challenges](Challenges.md), or, as always, work on their final projects.
 
 ## Agenda
 
