@@ -18,16 +18,14 @@ Present the [Tables & IFrames](TablesAndIFrames.pptx) lecture.
 
 Examples are available via Replit links.
 
-## Formative Assessment: Quizizz
-This quiz covers all HTML concepts from the course so far: https://quizizz.com/admin/quiz/5c6ade2097b82c001a18541b
-
-Note that an account is required to present the Quizizz quiz. If Quizizz has issues, there is also a [Blooket](https://dashboard.blooket.com/set/6307a3eb31faf8eae33d4fbf) (which also requires an account).
+## Formative Assessment: Blooket
+Present the [Blooket](https://dashboard.blooket.com/set/66c4d317346cedfba9c14074) activity.
 
 ## Code-Along Activity: Game Comparison
 Students will begin to create a website to compare different games. Data for the games will appear in a table, and reviews for the games will appear in iframes. Walk through [these instructions](GameComparisonCodeAlong.md) to complete the activity.
 
 ## Individual Exercise: Game Comparison Updates
-Students will update their game comparison website by following [these instructions](GameComparisonIndividual.md).
+Students will update their game comparison website by following [these instructions](GameComparisonIndividual.md). They should also be encouraged to try adding tables or iframes to their final projects!
 
 ## Challenge: Oscars Tables
 Students will create a webpage providing information about the 95th Academy Awards in the form of tables. Instructions are in the [OscarsChallenge](OscarsChallenge.md) file.
