@@ -8,8 +8,8 @@ Learn how to make webpages function properly on different types of devices using
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week08/ResponsiveDesign.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Code-Along
+- [Magazine Website Starter Code](https://replit.com/@HylandOutreach/MagazineStarter#index.html)
 - [Magazine Website Follow-Along](MagazineWebsiteFollowAlongWithCode.md)
 
 ## Individual Exercise & Challenge
-- [Magazine Website Exercise](MagazineWebsiteIndividual.md)
 - [More Bootstrap Challenge](MoreBootstrapChallenge.md)

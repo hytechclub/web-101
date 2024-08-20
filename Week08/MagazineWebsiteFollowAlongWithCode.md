@@ -1,44 +1,23 @@
 # Magazine Website: Follow-Along Activity
-Create a simple website for a magazine called _Dirigible Digest_. The website will contain articles related to dirigibles, and will be formatted using Bootstrap. A dirigible balloon, or airship, is a type of aerostat or lighter-than-air aircraft that can navigate through the air under its own power. For more information about dirigibles, refer to this article: https://en.wikipedia.org/wiki/Airship.
+Create a simple website for a magazine! It will be up to you to decide what topic the magazine should cover. Some examples:
+
+- [Dirigibles (aka blimps)](https://replit.com/@HylandOutreach/MagazineDirigibleDigest)
+- Music Reviews
+- [Interior Design](https://replit.com/@laurenhollosy/week-8-example-interior-design)
+- Fashion
+- Sports
+- Anything!
 
 ## Setup
-Start from [this empty Repl](https://replit.com/@HylandOutreach/EmptyWeb#index.html), and then follow the instructions below.
-
-### HTML File
-1. Open the **index.html** file, and add the basic tags: `html`, `head`, `body`
-2. Within the `<head></head>` element, add the `meta` tag for `viewport`:  
-    ```html
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    ```
-3. Within the `<head></head>` element, add the `link` tag for the bootstrap stylesheet:  
-    ```html
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    ```
-
-### CSS File
-1. Create a new `.css` file named **MagazineWebsite.css**
-1. Link the CSS file within the HTML file using a `link` tag
-
-#### Code
-```html
-<html>
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-        <link rel="stylesheet" href="MagazineWebsite.css" type="text/css">
-    </head>
-    <body>
-    </body>
-</html>
-```
+Start from [this Starter Repl](https://replit.com/@HylandOutreach/MagazineStarter), and then follow the instructions below.
 
 ## Big Header
 Bootstrap has built-in CSS class rulesets for headers called **Jumbotron**s. In order to use them, add some new HTML elements, and then add `class`es to them.
 
 ### Basic HTML
 1. Within the `<body></body>` element, add a `div` element
-1. Within the `<div></div>` element, add an `h1` element that says "Dirigible Digest"
-1. Within the `<div></div>` element, add a `p` element that says "News and information related to dirigibles"
+1. Within the `<div></div>` element, add an `h1` element that says "TOPIC Magazine"
+1. Within the `<div></div>` element, add a `p` element that says "News and information related to TOPIC"
 
 Open the file in a browser to see how it renders. It has the proper font, it needs to be centered and placed within a large header banner!
 
@@ -61,8 +40,8 @@ To make the subtitle text appear _italic_, follow the steps below:
 ##### HTML
 ```html
 <div class="jumbotron text-center">
-    <h1>Dirigible Digest</h1>
-    <p id="subtitle">News and information related to dirigibles</p>
+    <h1>TOPIC Magazine</h1>
+    <p id="subtitle">News and information related to TOPIC</p>
 </div>
 ```
 
@@ -74,7 +53,7 @@ To make the subtitle text appear _italic_, follow the steps below:
 ```
 
 ## Article 1
-Add an article about airships to the webpage. Ultimately, it should be laid out in a grid format, like a newspaper, and take up half of a row within a container.
+Add an article about your topic to the webpage. Ultimately, it should be laid out in a grid format, like a newspaper, and take up half of a row within a container.
 
 ### Basic HTML
 1. Within the `<body></body>` element, underneath the jumbotron `<div></div>`, create another `div`
@@ -83,12 +62,9 @@ Add an article about airships to the webpage. Ultimately, it should be laid out 
     - This `div` will represent one row within the container
 1. Within the row `<div></div>`, create another `div`
     - This `div` will represent one article
-1. Within the article `<div></div>`, create an `h3` header saying "Reprise of the airship"
+1. Within the article `<div></div>`, create an `h3` header saying "article 1"
 1. Within the article `<div></div>`, under the `h3`, create a `p`
-1. Copy the following text into the `p`:  
-    ```
-    The U.S. is experiencing something of a blimp renaissance. There are more new airship designs coming off drawing boards than ever before and designers have ambitious plans for their use, provided they can rise above a number of technical hurdles--and the reservations of potential blimp operators...
-    ```
+1. Add some text within the `<p>` and `</p>` - it can be quick at first, but you'll want to have more content later!
 
 Open the file in a browser to see how it renders. It has the proper content, but it needs some Bootstrap classes so that it appears within the grid!
 
@@ -105,10 +81,8 @@ Open the file in a browser to see how it renders. It has the proper content, but
 <div class="container">
     <div class="row">
         <div class="col-md-6">
-            <h3>Reprise of the airship</h3>
-            <p>
-                The U.S. is experiencing something of a blimp renaissance. There are more new airship designs coming off drawing boards than ever before and designers have ambitious plans for their use, provided they can rise above a number of technical hurdles--and the reservations of potential blimp operators...
-            </p>
+            <h3>article 1</h3>
+            <p>text</p>
         </div>
     </div>
 </div>
@@ -121,33 +95,30 @@ Add an additional article to the webpage. The second article should take up the 
 1. Within the row `<div></div>`, underneath the existing article `<div></div>`, add another `div` element
 1. Add a class attribute to the new `div` element and set it to "col-md-6"
     - This way, the two article `div` elements will take up all the available space (`6`+`6`=`12`)
-1. Within the new article `<div></div>`, create an `h3` header saying "Goodyear's blimp fleet complete"
+1. Within the new article `<div></div>`, create an `h3` header saying "article 2"
 1. Within the article `<div></div>`, under the `h3`, create a `p`
-1. Copy the following text into the `p`:  
-    ```
-    After years of planning and construction, Goodyear's fleet of high-technology Zeppelin airships is complete. The old blimp had two propeller engines that only pointed to the rear. But the new NTs have three engines that swivel in multiple directions, increasing maneuverability and control...
-    ```
+1. Add some text to the paragraph!
 
 ### Adding CSS for All Articles
 To make the article text appear dark grey, follow the steps below:
 1. In the HTML file, add a `class` attribute to the `p` elements containing article text, and set the values to "article-text"
 1. In the CSS file, create a new ruleset for the `p`s with a `class` of "article-text"
-1. Within the "article-text" ruleset, create a new declaration setting `color` to `darkgrey`
+1. Within the "article-text" ruleset, create a new declaration setting `color` to `grey`
 1. Open the file in a browser to see the dark grey text!
 
 #### Code
 ##### HTML
 ```html
-<div class="col-md-6">
-    <h3>Reprise of the airship</h3>
+ <div class="col-md-6">
+    <h3>article 1 title</h3>
     <p class="article-text">
-        The U.S. is experiencing something of a blimp renaissance. There are more new airship designs coming off drawing boards than ever before and designers have ambitious plans for their use, provided they can rise above a number of technical hurdles--and the reservations of potential blimp operators...
+        article text goes here
     </p>
 </div>
 <div class="col-md-6">
-    <h3>Goodyear's blimp fleet complete</h3>
+    <h3>article 2 title</h3>
     <p class="article-text">
-        After years of planning and construction, Goodyear's fleet of high-technology Zeppelin airships is complete. The old blimp had two propeller engines that only pointed to the rear. But the new NTs have three engines that swivel in multiple directions, increasing maneuverability and control...
+        super cool text here
     </p>
 </div>
 ```
@@ -155,11 +126,13 @@ To make the article text appear dark grey, follow the steps below:
 ##### CSS
 ```css
 .article-text {
-    color: darkgrey;
+    color: grey;
 }
 ```
 
-## Final Code
+## Template Code
+At this point, the project should look something like [this](https://replit.com/@HylandOutreach/MagazineStarterMidPoint#index.html)... it should have all the basic structure for a magazine!
+
 ##### HTML
 ```html
 <html>
@@ -170,21 +143,21 @@ To make the article text appear dark grey, follow the steps below:
     </head>
     <body>
         <div class="jumbotron text-center">
-            <h1>Dirigible Digest</h1>
-            <p id="subtitle">News and information related to dirigibles</p>
+            <h1>TOPIC Magazine</h1>
+            <p id="subtitle">News and information related to TOPIC</p>
         </div>
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h3>Reprise of the airship</h3>
+                    <h3>article 1 title</h3>
                     <p class="article-text">
-                        The U.S. is experiencing something of a blimp renaissance. There are more new airship designs coming off drawing boards than ever before and designers have ambitious plans for their use, provided they can rise above a number of technical hurdles--and the reservations of potential blimp operators...
+                        article text goes here
                     </p>
                 </div>
                 <div class="col-md-6">
-                    <h3>Goodyear's blimp fleet complete</h3>
+                    <h3>article 2 title</h3>
                     <p class="article-text">
-                        After years of planning and construction, Goodyear's fleet of high-technology Zeppelin airships is complete. The old blimp had two propeller engines that only pointed to the rear. But the new NTs have three engines that swivel in multiple directions, increasing maneuverability and control...
+                        super cool text here
                     </p>
                 </div>
             </div>
@@ -196,10 +169,15 @@ To make the article text appear dark grey, follow the steps below:
 ##### CSS
 ```css
 #subtitle {
-    font-style: italic;
+  font-style: italic;
 }
 
 .article-text {
-    color: darkgrey;
+  color: grey;
 }
 ```
+
+## Next Steps: Fill Out Content
+From here, it's up to you to add more articles, add style, and keep it fun!
+
+You are also welcome to try to incorporate some of these new bootstrap techniques into your final project.

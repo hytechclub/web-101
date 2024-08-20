@@ -6,7 +6,7 @@ For a warm-up this week, do a quick form icebreaker. [Open the form here.](https
 
 When it's open, click "Present" in the upper right to see responses as they arrive. Discuss student answers as desired - and note that this same form will be used for both the virtual and in-person classrooms.
 
-The other important piece of this warm-up is the opportunity for students to consider final project ideas. They will have a chance to start a final project during the self-paced work portion of the lesson.
+The other important piece of this warm-up is the opportunity for students to consider final project ideas. They will have a chance to start a final project during the self-paced work portion of the lesson. When there is time to work on their projects, they should prioritize the vision, planning, and content over the HTML/CSS code - this will make it a little more flexible as the new lessons inform the possibilities for the sites.
 
 ## Lecture
 This [presentation](BasicHtmlElements.pptx) focuses mostly on how different elements are used to accomplish the goals of the webpage.
