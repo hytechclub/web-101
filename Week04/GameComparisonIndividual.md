@@ -1,6 +1,9 @@
 # Game Comparison: Individual Exercises
 The game comparison website is pretty good, but it could use a little more data. Follow the instructions below to fill out the page with some more information!
 
+### Optional: Final Project Updates
+Alternatively, feel free to continue working on your final project! See if you can add a table, or an iframe, or an embedded YouTube video.
+
 ## Part 1 - Adding a New Column
 Users of the website would like to see information about the type of the game. Add the column to the table, and fill out the data for each of the games listed.
 
