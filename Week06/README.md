@@ -35,13 +35,8 @@ The team with the highest amount of points wins.
 ### Follow-Along Activity: Go Bananas
 Add basic styles to Banana product page. Have the students start with the HTML code, then follow the instructions in [BananasFollowAlong](BananasFollowAlong.md).
 
-## Individual Exercises: Banana Updates
-Update styles for Banana product page. The students should follow the instructions in [BananasIndividual](BananasIndividual.md).
-
-## Challenge: Style a webpage from an image
-Given an image of a completed website and some sample HTML, students will write CSS to turn their un-styled HTML into the completed website. Provide the image to the students, along with some instructions. They should put the styles in an external stylesheet. There are some properties that have not been covered in this lesson.
-
-If the students finish the challenge, instructors can send them to https://www.w3schools.com/cssref/ to explore some more CSS properties.
+## Self-Paced Work
+This week, have students spend any remaining time adding CSS to their final projects. They will have to ensure they properly link a CSS file, and then 
 
 ## Agenda
 
