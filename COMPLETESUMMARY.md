@@ -29,7 +29,6 @@
     - [Challenges](Week07/Challenges.md)
 - [Week 8 - Responsive Design & Bootstrap](Week08/StudentDesc.md)
     - [Magazine Website Follow-Along](Week08/MagazineWebsiteFollowAlongWithCode.md)
-    - [Magazine Website Exercise](Week08/MagazineWebsiteIndividual.md)
     - [More Bootstrap Challenge](Week08/MoreBootstrapChallenge.md)
 - [Week 9 - Transitions & Transforms](Week09/StudentDesc.md)
     - [Resources](Week09/Resources.md)

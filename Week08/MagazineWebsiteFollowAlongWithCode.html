@@ -61,7 +61,7 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="MagazineWebsiteIndividual.html" />
+    <link rel="next" href="MoreBootstrapChallenge.html" />
     
     
     <link rel="prev" href="StudentDesc.html" />
@@ -552,20 +552,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.9.2" data-path="MagazineWebsiteIndividual.html">
-            
-                <a href="MagazineWebsiteIndividual.html">
-            
-                    
-                    Magazine Website Exercise
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.9.3" data-path="MoreBootstrapChallenge.html">
+        <li class="chapter " data-level="1.9.2" data-path="MoreBootstrapChallenge.html">
             
                 <a href="MoreBootstrapChallenge.html">
             
@@ -829,42 +816,24 @@
                                 <section class="normal markdown-section">
                                 
                                 <h1 id="magazine-website-follow-along-activity">Magazine Website: Follow-Along Activity</h1>
-<p>Create a simple website for a magazine called <em>Dirigible Digest</em>. The website will contain articles related to dirigibles, and will be formatted using Bootstrap. A dirigible balloon, or airship, is a type of aerostat or lighter-than-air aircraft that can navigate through the air under its own power. For more information about dirigibles, refer to this article: <a href="https://en.wikipedia.org/wiki/Airship" target="_blank">https://en.wikipedia.org/wiki/Airship</a>.</p>
+<p>Create a simple website for a magazine! It will be up to you to decide what topic the magazine should cover. Some examples:</p>
+<ul>
+<li><a href="https://replit.com/@HylandOutreach/MagazineDirigibleDigest" target="_blank">Dirigibles (aka blimps)</a></li>
+<li>Music Reviews</li>
+<li><a href="https://replit.com/@laurenhollosy/week-8-example-interior-design" target="_blank">Interior Design</a></li>
+<li>Fashion</li>
+<li>Sports</li>
+<li>Anything!</li>
+</ul>
 <h2 id="setup">Setup</h2>
-<p>Start from <a href="https://replit.com/@HylandOutreach/EmptyWeb#index.html" target="_blank">this empty Repl</a>, and then follow the instructions below.</p>
-<h3 id="html-file">HTML File</h3>
-<ol>
-<li>Open the <strong>index.html</strong> file, and add the basic tags: <code>html</code>, <code>head</code>, <code>body</code></li>
-<li>Within the <code>&lt;head&gt;&lt;/head&gt;</code> element, add the <code>meta</code> tag for <code>viewport</code>:  <pre><code class="lang-html"> <span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">name</span>=<span class="hljs-string">&quot;viewport&quot;</span> <span class="hljs-attr">content</span>=<span class="hljs-string">&quot;width=device-width, initial-scale=1&quot;</span>&gt;</span>
-</code></pre>
-</li>
-<li>Within the <code>&lt;head&gt;&lt;/head&gt;</code> element, add the <code>link</code> tag for the bootstrap stylesheet:  <pre><code class="lang-html"> <span class="hljs-tag">&lt;<span class="hljs-name">link</span> <span class="hljs-attr">rel</span>=<span class="hljs-string">&quot;stylesheet&quot;</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css&quot;</span>&gt;</span>
-</code></pre>
-</li>
-</ol>
-<h3 id="css-file">CSS File</h3>
-<ol>
-<li>Create a new <code>.css</code> file named <strong>MagazineWebsite.css</strong></li>
-<li>Link the CSS file within the HTML file using a <code>link</code> tag</li>
-</ol>
-<h4 id="code">Code</h4>
-<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">head</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">name</span>=<span class="hljs-string">&quot;viewport&quot;</span> <span class="hljs-attr">content</span>=<span class="hljs-string">&quot;width=device-width, initial-scale=1&quot;</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">link</span> <span class="hljs-attr">rel</span>=<span class="hljs-string">&quot;stylesheet&quot;</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css&quot;</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">link</span> <span class="hljs-attr">rel</span>=<span class="hljs-string">&quot;stylesheet&quot;</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;MagazineWebsite.css&quot;</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;text/css&quot;</span>&gt;</span>
-    <span class="hljs-tag">&lt;/<span class="hljs-name">head</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
-    <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
-<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
-</code></pre>
+<p>Start from <a href="https://replit.com/@HylandOutreach/MagazineStarter" target="_blank">this Starter Repl</a>, and then follow the instructions below.</p>
 <h2 id="big-header">Big Header</h2>
 <p>Bootstrap has built-in CSS class rulesets for headers called <strong>Jumbotron</strong>s. In order to use them, add some new HTML elements, and then add <code>class</code>es to them.</p>
 <h3 id="basic-html">Basic HTML</h3>
 <ol>
 <li>Within the <code>&lt;body&gt;&lt;/body&gt;</code> element, add a <code>div</code> element</li>
-<li>Within the <code>&lt;div&gt;&lt;/div&gt;</code> element, add an <code>h1</code> element that says &quot;Dirigible Digest&quot;</li>
-<li>Within the <code>&lt;div&gt;&lt;/div&gt;</code> element, add a <code>p</code> element that says &quot;News and information related to dirigibles&quot;</li>
+<li>Within the <code>&lt;div&gt;&lt;/div&gt;</code> element, add an <code>h1</code> element that says &quot;TOPIC Magazine&quot;</li>
+<li>Within the <code>&lt;div&gt;&lt;/div&gt;</code> element, add a <code>p</code> element that says &quot;News and information related to TOPIC&quot;</li>
 </ol>
 <p>Open the file in a browser to see how it renders. It has the proper font, it needs to be centered and placed within a large header banner!</p>
 <h3 id="jumbotron">Jumbotron</h3>
@@ -889,8 +858,8 @@
 <h4 id="code">Code</h4>
 <h5 id="html">HTML</h5>
 <pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;jumbotron text-center&quot;</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>Dirigible Digest<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">id</span>=<span class="hljs-string">&quot;subtitle&quot;</span>&gt;</span>News and information related to dirigibles<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>TOPIC Magazine<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">id</span>=<span class="hljs-string">&quot;subtitle&quot;</span>&gt;</span>News and information related to TOPIC<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
 <span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span>
 </code></pre>
 <h5 id="css">CSS</h5>
@@ -899,7 +868,7 @@
 }
 </code></pre>
 <h2 id="article-1">Article 1</h2>
-<p>Add an article about airships to the webpage. Ultimately, it should be laid out in a grid format, like a newspaper, and take up half of a row within a container.</p>
+<p>Add an article about your topic to the webpage. Ultimately, it should be laid out in a grid format, like a newspaper, and take up half of a row within a container.</p>
 <h3 id="basic-html">Basic HTML</h3>
 <ol>
 <li>Within the <code>&lt;body&gt;&lt;/body&gt;</code> element, underneath the jumbotron <code>&lt;div&gt;&lt;/div&gt;</code>, create another <code>div</code><ul>
@@ -914,10 +883,9 @@
 <li>This <code>div</code> will represent one article</li>
 </ul>
 </li>
-<li>Within the article <code>&lt;div&gt;&lt;/div&gt;</code>, create an <code>h3</code> header saying &quot;Reprise of the airship&quot;</li>
+<li>Within the article <code>&lt;div&gt;&lt;/div&gt;</code>, create an <code>h3</code> header saying &quot;article 1&quot;</li>
 <li>Within the article <code>&lt;div&gt;&lt;/div&gt;</code>, under the <code>h3</code>, create a <code>p</code></li>
-<li>Copy the following text into the <code>p</code>:  <pre><code> The U.S. is experiencing something of a blimp renaissance. There are more new airship designs coming off drawing boards than ever before and designers have ambitious plans for their use, provided they can rise above a number of technical hurdles--and the reservations of potential blimp operators...
-</code></pre></li>
+<li>Add some text within the <code>&lt;p&gt;</code> and <code>&lt;/p&gt;</code> - it can be quick at first, but you&apos;ll want to have more content later!</li>
 </ol>
 <p>Open the file in a browser to see how it renders. It has the proper content, but it needs some Bootstrap classes so that it appears within the grid!</p>
 <h3 id="container--row--column">Container / Row / Column</h3>
@@ -935,10 +903,8 @@
 <pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;container&quot;</span>&gt;</span>
     <span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;row&quot;</span>&gt;</span>
         <span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;col-md-6&quot;</span>&gt;</span>
-            <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Reprise of the airship<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
-            <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>
-                The U.S. is experiencing something of a blimp renaissance. There are more new airship designs coming off drawing boards than ever before and designers have ambitious plans for their use, provided they can rise above a number of technical hurdles--and the reservations of potential blimp operators...
-            <span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>article 1<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>text<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
         <span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span>
     <span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span>
 <span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span>
@@ -952,40 +918,40 @@
 <li>This way, the two article <code>div</code> elements will take up all the available space (<code>6</code>+<code>6</code>=<code>12</code>)</li>
 </ul>
 </li>
-<li>Within the new article <code>&lt;div&gt;&lt;/div&gt;</code>, create an <code>h3</code> header saying &quot;Goodyear&apos;s blimp fleet complete&quot;</li>
+<li>Within the new article <code>&lt;div&gt;&lt;/div&gt;</code>, create an <code>h3</code> header saying &quot;article 2&quot;</li>
 <li>Within the article <code>&lt;div&gt;&lt;/div&gt;</code>, under the <code>h3</code>, create a <code>p</code></li>
-<li>Copy the following text into the <code>p</code>:  <pre><code> After years of planning and construction, Goodyear&apos;s fleet of high-technology Zeppelin airships is complete. The old blimp had two propeller engines that only pointed to the rear. But the new NTs have three engines that swivel in multiple directions, increasing maneuverability and control...
-</code></pre></li>
+<li>Add some text to the paragraph!</li>
 </ol>
 <h3 id="adding-css-for-all-articles">Adding CSS for All Articles</h3>
 <p>To make the article text appear dark grey, follow the steps below:</p>
 <ol>
 <li>In the HTML file, add a <code>class</code> attribute to the <code>p</code> elements containing article text, and set the values to &quot;article-text&quot;</li>
 <li>In the CSS file, create a new ruleset for the <code>p</code>s with a <code>class</code> of &quot;article-text&quot;</li>
-<li>Within the &quot;article-text&quot; ruleset, create a new declaration setting <code>color</code> to <code>darkgrey</code></li>
+<li>Within the &quot;article-text&quot; ruleset, create a new declaration setting <code>color</code> to <code>grey</code></li>
 <li>Open the file in a browser to see the dark grey text!</li>
 </ol>
 <h4 id="code">Code</h4>
 <h5 id="html">HTML</h5>
-<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;col-md-6&quot;</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Reprise of the airship<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
+<pre><code class="lang-html"> <span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;col-md-6&quot;</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>article 1 title<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
     <span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;article-text&quot;</span>&gt;</span>
-        The U.S. is experiencing something of a blimp renaissance. There are more new airship designs coming off drawing boards than ever before and designers have ambitious plans for their use, provided they can rise above a number of technical hurdles--and the reservations of potential blimp operators...
+        article text goes here
     <span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
 <span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span>
 <span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;col-md-6&quot;</span>&gt;</span>
-    <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Goodyear&apos;s blimp fleet complete<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>article 2 title<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
     <span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;article-text&quot;</span>&gt;</span>
-        After years of planning and construction, Goodyear&apos;s fleet of high-technology Zeppelin airships is complete. The old blimp had two propeller engines that only pointed to the rear. But the new NTs have three engines that swivel in multiple directions, increasing maneuverability and control...
+        super cool text here
     <span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
 <span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span>
 </code></pre>
 <h5 id="css">CSS</h5>
 <pre><code class="lang-css"><span class="hljs-selector-class">.article-text</span> {
-    <span class="hljs-attribute">color</span>: darkgrey;
+    <span class="hljs-attribute">color</span>: grey;
 }
 </code></pre>
-<h2 id="final-code">Final Code</h2>
+<h2 id="template-code">Template Code</h2>
+<p>At this point, the project should look something like <a href="https://replit.com/@HylandOutreach/MagazineStarterMidPoint#index.html" target="_blank">this</a>... it should have all the basic structure for a magazine!</p>
 <h5 id="html">HTML</h5>
 <pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
     <span class="hljs-tag">&lt;<span class="hljs-name">head</span>&gt;</span>
@@ -995,21 +961,21 @@
     <span class="hljs-tag">&lt;/<span class="hljs-name">head</span>&gt;</span>
     <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
         <span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;jumbotron text-center&quot;</span>&gt;</span>
-            <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>Dirigible Digest<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
-            <span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">id</span>=<span class="hljs-string">&quot;subtitle&quot;</span>&gt;</span>News and information related to dirigibles<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>TOPIC Magazine<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">id</span>=<span class="hljs-string">&quot;subtitle&quot;</span>&gt;</span>News and information related to TOPIC<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
         <span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span>
         <span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;container&quot;</span>&gt;</span>
             <span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;row&quot;</span>&gt;</span>
                 <span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;col-md-6&quot;</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Reprise of the airship<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
+                    <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>article 1 title<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
                     <span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;article-text&quot;</span>&gt;</span>
-                        The U.S. is experiencing something of a blimp renaissance. There are more new airship designs coming off drawing boards than ever before and designers have ambitious plans for their use, provided they can rise above a number of technical hurdles--and the reservations of potential blimp operators...
+                        article text goes here
                     <span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
                 <span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span>
                 <span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;col-md-6&quot;</span>&gt;</span>
-                    <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Goodyear&apos;s blimp fleet complete<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
+                    <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>article 2 title<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
                     <span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;article-text&quot;</span>&gt;</span>
-                        After years of planning and construction, Goodyear&apos;s fleet of high-technology Zeppelin airships is complete. The old blimp had two propeller engines that only pointed to the rear. But the new NTs have three engines that swivel in multiple directions, increasing maneuverability and control...
+                        super cool text here
                     <span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
                 <span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span>
             <span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span>
@@ -1019,13 +985,16 @@
 </code></pre>
 <h5 id="css">CSS</h5>
 <pre><code class="lang-css"><span class="hljs-selector-id">#subtitle</span> {
-    <span class="hljs-attribute">font-style</span>: italic;
+  <span class="hljs-attribute">font-style</span>: italic;
 }
 
 <span class="hljs-selector-class">.article-text</span> {
-    <span class="hljs-attribute">color</span>: darkgrey;
+  <span class="hljs-attribute">color</span>: grey;
 }
 </code></pre>
+<h2 id="next-steps-fill-out-content">Next Steps: Fill Out Content</h2>
+<p>From here, it&apos;s up to you to add more articles, add style, and keep it fun!</p>
+<p>You are also welcome to try to incorporate some of these new bootstrap techniques into your final project.</p>
 
                                 
                                 </section>
@@ -1058,7 +1027,7 @@
                 </a>
                 
                 
-                <a href="MagazineWebsiteIndividual.html" class="navigation navigation-next " aria-label="Next page: Magazine Website Exercise">
+                <a href="MoreBootstrapChallenge.html" class="navigation navigation-next " aria-label="Next page: More Bootstrap Challenge">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -1069,7 +1038,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Magazine Website Follow-Along","level":"1.9.1","depth":2,"next":{"title":"Magazine Website Exercise","level":"1.9.2","depth":2,"path":"Week08/MagazineWebsiteIndividual.md","ref":"Week08/MagazineWebsiteIndividual.md","articles":[]},"previous":{"title":"Week 8 - Responsive Design & Bootstrap","level":"1.9","depth":1,"path":"Week08/StudentDesc.md","ref":"Week08/StudentDesc.md","articles":[{"title":"Magazine Website Follow-Along","level":"1.9.1","depth":2,"path":"Week08/MagazineWebsiteFollowAlongWithCode.md","ref":"Week08/MagazineWebsiteFollowAlongWithCode.md","articles":[]},{"title":"Magazine Website Exercise","level":"1.9.2","depth":2,"path":"Week08/MagazineWebsiteIndividual.md","ref":"Week08/MagazineWebsiteIndividual.md","articles":[]},{"title":"More Bootstrap Challenge","level":"1.9.3","depth":2,"path":"Week08/MoreBootstrapChallenge.md","ref":"Week08/MoreBootstrapChallenge.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","scripts"],"pluginsConfig":{"scripts":{"files":["./passwordProtectedPages.js"]},"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"COMPLETESUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week08/MagazineWebsiteFollowAlongWithCode.md","mtime":"2024-08-20T19:01:35.403Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2024-08-20T19:02:05.816Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Magazine Website Follow-Along","level":"1.9.1","depth":2,"next":{"title":"More Bootstrap Challenge","level":"1.9.2","depth":2,"path":"Week08/MoreBootstrapChallenge.md","ref":"Week08/MoreBootstrapChallenge.md","articles":[]},"previous":{"title":"Week 8 - Responsive Design & Bootstrap","level":"1.9","depth":1,"path":"Week08/StudentDesc.md","ref":"Week08/StudentDesc.md","articles":[{"title":"Magazine Website Follow-Along","level":"1.9.1","depth":2,"path":"Week08/MagazineWebsiteFollowAlongWithCode.md","ref":"Week08/MagazineWebsiteFollowAlongWithCode.md","articles":[]},{"title":"More Bootstrap Challenge","level":"1.9.2","depth":2,"path":"Week08/MoreBootstrapChallenge.md","ref":"Week08/MoreBootstrapChallenge.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","scripts"],"pluginsConfig":{"scripts":{"files":["./passwordProtectedPages.js"]},"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"COMPLETESUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week08/MagazineWebsiteFollowAlongWithCode.md","mtime":"2024-08-20T19:46:34.445Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2024-08-20T19:47:04.731Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
