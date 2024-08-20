@@ -56,4 +56,4 @@ The next few slides introduce the [code-along activity](CodeAlong.md). Have stud
 After the code-along, if there is time, students are welcome to customize their sites.
 
 ### Blooket: Formative Assessment
-About 10-15 minutes before the end of club, facilitate the Blooket quiz. Log into [Blooket](https://blooket.com), open the [question set](https://dashboard.blooket.com/set/6426f2b7270eb96cab922257), and host the game! Set the time so that it concludes with 1-2 minutes remaining in the session.
+About 10-15 minutes before the end of club, facilitate the Blooket quiz. Log into [Blooket](https://blooket.com), open the [question set](https://dashboard.blooket.com/set/66c4b54dc1559d398a956137), and host the game! Set the time so that it concludes with 1-2 minutes remaining in the session.
