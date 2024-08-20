@@ -14,7 +14,7 @@ Here is the basic rundown of sessions:
 - [Week 7](Week07/): CSS selectors and some additional HTML
 - [Week 8](Week08/): Responsive design & Bootstrap
 - [Week 9](Week09/): CSS transitions and transforms
-- [Week 10](Week10/): Review
+- [Week 10](Week10/): Zine Machine!
 - Week 11: Work on final project
 - Week 12: Final project presentations
 
