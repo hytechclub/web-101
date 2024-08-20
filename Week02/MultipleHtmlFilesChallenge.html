@@ -863,11 +863,30 @@
 <h3 id="further-explorations">Further explorations</h3>
 <p>If you complete the above instructions, research the following tags and add them throughout your &quot;About Me&quot; page:</p>
 <ul>
-<li><code>&lt;br&gt;</code></li>
-<li><code>&lt;audio&gt;</code></li>
-<li><code>&lt;code&gt;</code></li>
-<li><code>&lt;del&gt;</code></li>
-<li><code>&lt;details&gt;</code></li>
+<li><code>&lt;br&gt;</code>  This is a line break. It moves text on to a new line. It does not have a closing tag. </li>
+</ul>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span> This is a paragraph <span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">br</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>This is a paragraph after a line break <span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
+</code></pre>
+<ul>
+<li><code>&lt;audio&gt;</code>   This tag allows you to embed audio content that can be played in the browser into a webpage. There are three supported audio formats in HTML: MP3, WAV, and OGG. </li>
+</ul>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">audio</span> <span class="hljs-attr">controls</span>&gt;</span>
+  <span class="hljs-tag">&lt;<span class="hljs-name">source</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;horse.ogg&quot;</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;audio/ogg&quot;</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">audio</span>&gt;</span>
+</code></pre>
+<ul>
+<li><p><code>&lt;code&gt;</code>  This defines a piece of code within a webpage, maintaining the original format of the code rather than formatting it into text. </p>
+</li>
+<li><p><code>&lt;del&gt;</code>  This creates a strikethrough in text without removing it from the website. You can also use CSS to change the color and style of the strikethrough.</p>
+</li>
+<li><p><code>&lt;details&gt;</code>  This tag wraps around content that you want to hide initially but reveal upon user interaction. Use the <code>&lt;summary&gt;</code> tag for what you want to show on the website and then add a <code>&lt;p&gt;</code> with the text you want to show once it is hovered over.</p>
+</li>
 </ul>
 
                                 
@@ -912,7 +931,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Challenge: Multiple Files","level":"1.3.3","depth":2,"next":{"title":"Challenge: CYA","level":"1.3.4","depth":2,"path":"Week02/ChooseYourOwnAdventureChallenge.md","ref":"Week02/ChooseYourOwnAdventureChallenge.md","articles":[]},"previous":{"title":"Self-Paced Work","level":"1.3.2","depth":2,"path":"Week02/SelfPacedWork.md","ref":"Week02/SelfPacedWork.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","scripts"],"pluginsConfig":{"scripts":{"files":["./passwordProtectedPages.js"]},"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"COMPLETESUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week02/MultipleHtmlFilesChallenge.md","mtime":"2024-07-08T20:34:10.275Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2024-07-08T20:34:40.146Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Challenge: Multiple Files","level":"1.3.3","depth":2,"next":{"title":"Challenge: CYA","level":"1.3.4","depth":2,"path":"Week02/ChooseYourOwnAdventureChallenge.md","ref":"Week02/ChooseYourOwnAdventureChallenge.md","articles":[]},"previous":{"title":"Self-Paced Work","level":"1.3.2","depth":2,"path":"Week02/SelfPacedWork.md","ref":"Week02/SelfPacedWork.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","scripts"],"pluginsConfig":{"scripts":{"files":["./passwordProtectedPages.js"]},"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"COMPLETESUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Week02/MultipleHtmlFilesChallenge.md","mtime":"2024-08-20T15:21:34.451Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2024-08-20T15:22:06.090Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

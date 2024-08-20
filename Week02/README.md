@@ -2,7 +2,11 @@
 For the first content lesson of the class, go over HTML elements. The purpose of this lesson is to show the students what they can create with some basic elements. Overall, this first lesson should be pretty straightforward. Introduce HTML, show the students some examples and have them get some hands-on experience writing HTML.
 
 ## Warm-Up
-It may be helpful to begin this session with an Icebreaker. After that, the instructor can pose a question to the students and let them write down their answers. The question could be something like "What do you think HTML does?", "How do you think websites work?", etc. Students can volunteer answers after 5 minutes or so.
+For a warm-up this week, do a quick form icebreaker. [Open the form here.](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=iNuljKul90il4EzlCTX4B33juYEmlJlJpIkctSGCv9RUODk5QUQwSE1VS1NaS0RKOTlON05TSVIzVS4u&Token=bb860232bab6460fab03cc488fd13c20)
+
+When it's open, click "Present" in the upper right to see responses as they arrive. Discuss student answers as desired - and note that this same form will be used for both the virtual and in-person classrooms.
+
+The other important piece of this warm-up is the opportunity for students to consider final project ideas. They will have a chance to start a final project during the self-paced work portion of the lesson.
 
 ## Lecture
 This [presentation](BasicHtmlElements.pptx) focuses mostly on how different elements are used to accomplish the goals of the webpage.
@@ -13,8 +17,8 @@ Facilitate the [Name That Element](NameThatElement.pptx) game. For each element,
 ## Code-Along: About Me Website
 Follow the [instructions](AboutMeCodeAlong.md) to start building an "About Me" website.
 
-## Self-Paced Work: About Me Website Updates
-Students should follow [the instructions](SelfPacedWork.md) to continue building their "About Me" website.
+## Self-Paced Work: Final Project!
+Students should follow [the instructions](SelfPacedWork.md) to start working on their final projects.
 
 ## Challenges
 There are two challenge pages for this week:
