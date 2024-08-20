@@ -26,6 +26,8 @@ Students will begin to create a website for a pizza restaurant which includes a 
 ## Individual Exercise: Pizza Website Updates
 Students will update their pizza website: [PizzaWebsiteIndividual](PizzaWebsiteIndividual.md)
 
+They are also, always, encouraged to continue work on their final projects! They should consider ways to update their site with the new elements covered in this week's lesson.
+
 ## Challenge: Movie Search
 Students should follow the instructions in the [MovieSearchChallenge](MovieSearchChallenge.md) file to complete the challenge. It introduces forms and allows the user to submit actual data to an IMDb title search.
 

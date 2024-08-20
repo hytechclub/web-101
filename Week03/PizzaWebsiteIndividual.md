@@ -1,6 +1,9 @@
 # Pizza Website: Individual Exercise
 The website for Alfredo's Pizza Cafe is pretty solid, but there are some changes we need to make to take it to the next level. Follow the instructions below to add some new features to Alfredo's website!
 
+### Optional: Final Project Work
+You are also encouraged to work on your final project website! Think about how you might update your site with some of these new elements. If you would like to work on that, you can skip this individual work!
+
 ## Part 1 - Expanding the Existing Options
 Since we last visited Alfredo's, they have added a new location, a new pizza size, and a new topping! We need the website to reflect those changes.
 
