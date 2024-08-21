@@ -18,6 +18,3 @@ Learn how to use HTML `<div>` and `<span>` elements, along with some new CSS sel
 
 ## Challenges
 [Click here for some additional challenges.](Challenges.md)
-
-## Past Session Recording
-<iframe src="https://hylandsw-my.sharepoint.com/personal/joseph_maxwell_hyland_com/_layouts/15/embed.aspx?UniqueId=27ca1cad-eba8-4da8-9127-09281661a784&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="100%" height="450px" frameborder="0" scrolling="no" allowfullscreen title="GMT20231107-223550_Recording_1920x1080.mp4"></iframe>
