@@ -6,13 +6,12 @@ Learn how to use CSS transitions and transforms to make a more dynamic website. 
 - [Resources](Resources.md)
 
 ## Code-Along
-[Click here for the code-along **starter code**.](https://replit.com/@HylandOutreach/CrustaceansStarter#index.html)
+[Click here for the code-along **starter code**.](https://replit.com/@HylandOutreach/EndangeredSpeciesStarter)
 
-[Click here for the code-along instructions.](CrustaceansFollowAlong.md)
+[Click here for the code-along instructions.](EndangeredSpeciesCodeAlong.md)
 
 <iframe width="100%" height="450px" src="https://www.youtube.com/embed/5PG8Kb9tYL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Individual Exercise & Challenges
-- [Crustaceans Exercise](CrustaceansIndividual.md)
 - [Additional Challenges](AdditionalChallenges.md)
 - [Animation Follow-Along](../Week10/AnimationFollowAlong.md)
