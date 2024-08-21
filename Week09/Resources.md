@@ -13,7 +13,3 @@ By modifying the coordinate space, CSS transforms change the shape and position 
 ```html
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
 ```
-
-## Crustaceans text
-Crustaceans form a large, diverse arthropod taxon, which includes such familiar animals as crabs, lobsters, crayfish, shrimp, krill, woodlice, and barnacles. The crustacean group is usually treated as a subphylum, and because of recent molecular studies, it is now well accepted that the crustacean group is paraphyletic, and comprises all animals in the Pancrustacea clade other than hexapods.
-

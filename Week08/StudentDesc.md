@@ -11,5 +11,6 @@ Learn how to make webpages function properly on different types of devices using
 - [Magazine Website Starter Code](https://replit.com/@HylandOutreach/MagazineStarter#index.html)
 - [Magazine Website Follow-Along](MagazineWebsiteFollowAlongWithCode.md)
 
-## Individual Exercise & Challenge
+## Resources & Challenges
 - [More Bootstrap Challenge](MoreBootstrapChallenge.md)
+- [Newspaper Layout](https://codepen.io/gc-nomade/pen/GRXdPN)
