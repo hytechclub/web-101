@@ -14,7 +14,7 @@ The code should look something like this:
 There are _some_ fonts built into the web by default, but there are a ton more available online. Use [Google Fonts](https://fonts.google.com/) to outfit your website with a cool custom one!
 
 ### Built-In Project Fonts
-Some fonts are already built into the Glitch project. In the project files area, open the **extras/** folder, and then the **fonts.txt** file.  This file contains a list of usable fonts! Find one, and put it in the **style.css** code like this:
+Some fonts are already built into the Repl project. In the project files area, open the **extras/** folder, and then the **fonts.txt** file.  This file contains a list of usable fonts! Find one, and put it in the **style.css** code like this:
 
 ```css
 * {
