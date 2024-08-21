@@ -2,7 +2,7 @@
 In this activity, use HTML and CSS to create a website about yourself!
 
 ## Getting Started
-[Click here for Replit Setup instructions.](ReplitSetup.md) After following those steps, you should have a project ready to go!
+[Click here for Replit Setup instructions.](ReplitSetup.md) Once you have that set up, [click here for the starter project](https://replit.com/@HylandOutreach/IntroStarter)!
 
 ## First Challenge: Looking at the HTML
 Make sure the **index.html** file is selected on the left to view the HTML code. Notice how the code in the HTML creates the text on the website. Everything in HTML goes between _tags_, which tell the website what type of element to display. 
