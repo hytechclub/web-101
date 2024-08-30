@@ -1,9 +1,7 @@
 # Challenge: Movie Search
 HTML inputs are cool, but it would be cooler if the data actually went somewhere when the user clicked the "Submit" button. Learn about HTML forms to create an interactive, user-driven movie search on a webpage!
 
-**Note: For the "Submit" button to work in Repl, the project must be opened in a separate window:**
-
-![](../Assets/OpenInNewTab.png)
+**Note: For the "Submit" button to work in Glitch, the project must be opened in a separate window.**
 
 ## Background
 Web developers use HTML forms to send data from their webpages to servers. For more information about the flow of data from forms, read this article: https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data

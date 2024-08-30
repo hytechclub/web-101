@@ -17,14 +17,10 @@ There are two separate PowerPoint presentations: [Introduction to CSS](Introduct
 
 ## Group Activities
 ### Review - HTML & CSS
-For this activity, the students will be split up into 3-4 teams. Each team will be given a whiteboard/Multiplayer Replit to fill out their answers.
+For this activity, the students will be split up into 3-4 teams. Each team will be given a whiteboard to fill out their answers.
 
-[Here is a Repl project with question files.](https://replit.com/@HylandOutreach/CssIntroReviewBase#index.html) Fork the project three times, and create Multiplayer links for each of those. Update the PowerPoint with these links and assign teams there.
-
-#### Notes from Spring 2022
-- rotate who types the answer
-- get rid of question text in repl files, just have empty files
-- get them to chat with each other
+#### VIRTUAL NOTE
+This part of the lesson may not be possible virtually.
 
 The instructors will pull up the [HTML & CSS Review PowerPoint](HtmlCssReviewActivity.pptx) to display the review questions to the students (Note: the answers are displayed after each question). The students will have time to fill out an answer. After a certain amount of time, the instructors will count down and ask each of the teams to hold up their answers. Each team will get a point for every answer they get correctly. If anyone is talking outside of the time they have to discuss an answer, that team will be deducted a point.
 
@@ -36,7 +32,7 @@ The team with the highest amount of points wins.
 Add basic styles to Banana product page. Have the students start with the HTML code, then follow the instructions in [BananasFollowAlong](BananasFollowAlong.md).
 
 ## Self-Paced Work
-This week, have students spend any remaining time adding CSS to their final projects. They will have to ensure they properly link a CSS file, and then 
+This week, have students spend any remaining time adding CSS to their final projects. They will have to ensure they properly link a CSS file, and then start to stylize their pages!
 
 ## Agenda
 

@@ -1,15 +1,15 @@
 # Magazine Website: Follow-Along Activity
 Create a simple website for a magazine! It will be up to you to decide what topic the magazine should cover. Some examples:
 
-- [Dirigibles (aka blimps)](https://replit.com/@HylandOutreach/MagazineDirigibleDigest)
+- [Dirigibles (aka blimps)](https://good-iodized-comet.glitch.me/)
 - Music Reviews
-- [Interior Design](https://replit.com/@laurenhollosy/week-8-example-interior-design)
+- [Interior Design](https://mixed-holly-olivine.glitch.me/)
 - Fashion
 - Sports
 - Anything!
 
 ## Setup
-Start from [this Starter Repl](https://replit.com/@HylandOutreach/MagazineStarter), and then follow the instructions below.
+Start from [this Starter Project](https://glitch.com/edit/#!/remix/magazine-starter), and then follow the instructions below.
 
 ## Big Header
 Bootstrap has built-in CSS class rulesets for headers called **Jumbotron**s. In order to use them, add some new HTML elements, and then add `class`es to them.
@@ -131,7 +131,7 @@ To make the article text appear dark grey, follow the steps below:
 ```
 
 ## Template Code
-At this point, the project should look something like [this](https://replit.com/@HylandOutreach/MagazineStarterMidPoint#index.html)... it should have all the basic structure for a magazine!
+At this point, the project should look something like [this](https://glitch.com/edit/#!/magazine-website-midpoint)... it should have all the basic structure for a magazine!
 
 ##### HTML
 ```html

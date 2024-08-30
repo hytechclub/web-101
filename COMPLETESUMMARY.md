@@ -1,5 +1,4 @@
 - [Week 1 - HTML Introduction](Week01/StudentDesc.md)
-    - [Replit Setup](Week01/ReplitSetup.md)
     - [Code-Along](Week01/CodeAlong.md)
     - [Customization](Week01/Customization.md)
 - [Week 2 - HTML Headers, Paragraphs, Links, & Images](Week02/StudentDesc.md)

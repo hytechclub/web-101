@@ -16,7 +16,7 @@ Present the [Tables & IFrames](TablesAndIFrames.pptx) lecture.
     - Iframes
         - `iframe`
 
-Examples are available via Replit links.
+Examples are available via links in the PowerPoint.
 
 ## Formative Assessment: Blooket
 Present the [Blooket](https://dashboard.blooket.com/set/66c4d317346cedfba9c14074) activity.

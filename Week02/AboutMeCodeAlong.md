@@ -1,5 +1,5 @@
 # Code-Along: About Me Website
-With this exercise, you will create a webpage that shows some information about yourself. Start by forking [this empty Repl](https://replit.com/@HylandOutreach/EmptyWeb), and then follow the instructions below.
+With this exercise, you will create a webpage that shows some information about yourself. Start by forking [this empty Glitch](https://glitch.com/edit/#!/remix/emptyweb101), and then follow the instructions below.
 
 ## Setup
 Start by setting up the basics of the website.
@@ -57,9 +57,7 @@ Now it's time to add a picture of your favorite animal!
     1. Set the `href` of the image to the URL, in quotes
     1. Inside of the anchor tag, insert the text "Wikipedia"
 
-**Note: For external `a` elements to work in Repl, the project must be opened in a separate window:**
-
-![](../Assets/OpenInNewTab.png)
+**Note: For external `a` elements to work in Glitch, the project must be opened in a separate window.**
 
 ## Final HTML
 By the end of the activity, the HTML code should look something like this:

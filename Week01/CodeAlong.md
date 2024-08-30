@@ -1,8 +1,15 @@
 # Code-Along: An About Me Website
 In this activity, use HTML and CSS to create a website about yourself!
 
+>_Note: HTML ignores whitespace, so don't worry about extra lines or indentations between text!_
+
 ## Getting Started
-[Click here for Replit Setup instructions.](ReplitSetup.md) Once you have that set up, [click here for the starter project](https://replit.com/@HylandOutreach/IntroStarter)!
+
+1. [Click here to open the starter project](https://glitch.com/edit/#!/remix/building-websites-starter-project)
+1. Open the preview pane  
+    ![](Assets/GlitchOpenPreviewPane.png)
+
+That's it! You should be all set, and ready to code.
 
 ## First Challenge: Looking at the HTML
 Make sure the **index.html** file is selected on the left to view the HTML code. Notice how the code in the HTML creates the text on the website. Everything in HTML goes between _tags_, which tell the website what type of element to display. 
@@ -15,7 +22,7 @@ Update the code in the HTML section, _between_ the `<h1>` and `</h1>` tags. It s
 <h1>Sokka's Website</h1>
 ```
 
-Click the "Run" button at the top to send the new HTML to the Webview preview. You're officially a web developer - you've written some HTML!
+When you make a change, the preview should update automatically. If you see your name - that's it! You're officially a web developer!
 
 ## Adding a Welcome Paragraph
 Now it's time to add a totally new element. The **paragraph** element is used to display normal text on a webpage. Its tags are `<p>` and `</p>`, with text content between.
