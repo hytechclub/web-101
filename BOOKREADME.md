@@ -18,10 +18,10 @@ Follow the links below to view each week of material.
 - [Week 11 (12/3) - Final Project](Week11/StudentDesc.md)
 - Week 12 (12/10) - Final Project Presentations
 
-## Starter Repl Project
-[Click here for the **EmptyWeb** starter code.](https://replit.com/@HylandOutreach/EmptyWeb)
+## Starter Glitch Project
+[Click here for the **EmptyWeb** starter code.](https://glitch.com/edit/#!/remix/emptyweb101)
 
-## Multiplayer Repl Submissions
-[Click here to submit your Multiplayer Repl links!](https://hylandtechclub.com/MultiplayerLink)
+##  Submissions
+[Click here to submit your Glitch links!](https://hylandtechclub.com/GlitchLink)
 
->_Note: only virtual students should submit Multiplayer Repl links_
+>_Note: only virtual students should submit Glitch links_

@@ -17,6 +17,3 @@ Here is the basic rundown of sessions:
 - [Week 10](Week10/): Zine Machine!
 - Week 11: Work on final project
 - Week 12: Final project presentations
-
-## Multiplayer Repls
-[View responses for Multiplayer Repl Submissions here.](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=iNuljKul90il4EzlCTX4B33juYEmlJlJpIkctSGCv9RUME43UE5IODlKWTQ4VEJSWFlPVzJBVUxFTC4u&Token=118ab700d46c4acc939d488eada2f62f)

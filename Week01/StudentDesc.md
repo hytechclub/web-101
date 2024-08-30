@@ -4,11 +4,11 @@ For the first week, your mission is to get to know your fellow students a little
 ## Welcome Presentation
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week01/Welcome.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
-## Replit Setup
-[Click here for Replit Setup instructions.](ReplitSetup.md)
+## Glitch Setup
+[Click here for Glitch Setup instructions.](https://hyland.com/GlitchSetup)
 
 ## Code-Along: Building a Website
-**[Click here for the starter project.](https://replit.com/@HylandOutreach/BuildingWebsitesStart#index.html)**
+**[Click here for the starter project.](https://glitch.com/edit/#!/remix/building-websites-starter-project)**
 
 Alternatively, follow the [code-along instructions](CodeAlong.md) step by step.
 

@@ -9,7 +9,7 @@ Here are some general guidelines for the overall flow of the lesson:
 | Overview | 10m |
 | Icebreaker | 30m |
 | Presentation | 15m |
-| Replit Setup | 10m |
+| Glitch Setup | 10m |
 | Break | 10m |
 | Code-Along | 30m |
 | Blooket | 15m |
@@ -47,8 +47,8 @@ Because this is the first session of club, introductory segments like the icebre
 ### Presentation
 After students have warmed up with the icebreaker, it's time for the presentation portion of the [PowerPoint](Welcome.pptx). These slides contain a brief introduction to HTML and CSS, and there are talking points in the slide notes.
 
-### Replit Setup
-Students should follow the [Replit setup instructions](ReplitSetup.md) to create a Replit account, and fork the starter project for this week.
+### Glitch Setup
+Students should follow the [Glitch setup instructions](https://hylandtechclub.com/GlitchSetup) to create a Glitch account. They will also need to open up the starter code
 
 ### Code-Along
 The next few slides introduce the [code-along activity](CodeAlong.md). Have students open the starter project opened from the [lesson homepage](StudentDesc.md). Make sure they can see the site and edit the code. From there, follow the [code-along instructions](CodeAlong.md) to show the students how to build their own websites!
