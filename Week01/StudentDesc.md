@@ -5,7 +5,7 @@ For the first week, your mission is to get to know your fellow students a little
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week01/Welcome.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Glitch Setup
-[Click here for Glitch Setup instructions.](https://hyland.com/GlitchSetup)
+[Click here for Glitch Setup instructions.](https://hylandtechclub.com/GlitchSetup)
 
 ## Code-Along: Building a Website
 **[Click here for the starter project.](https://glitch.com/edit/#!/remix/building-websites-starter-project)**
