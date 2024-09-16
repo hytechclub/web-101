@@ -7,6 +7,8 @@ For the first week, your mission is to get to know your fellow students a little
 ## Glitch Setup
 [Click here for Glitch Setup instructions.](https://hylandtechclub.com/GlitchSetup)
 
+Once you have created an account, please [share your first project here](https://forms.office.com/r/gDZVq6B5p6).
+
 ## Code-Along: Building a Website
 **[Click here for the starter project.](https://glitch.com/edit/#!/remix/building-websites-starter-project)**
 
