@@ -1,7 +1,7 @@
 # Game Comparison: Code-Along Activity
 Follow the instructions below to build a webpage that helps users compare the various features of different games. Use a `table` and some `iframes` to provide information to the user. Start from the empty project, and then follow the instructions below.
 
-StackBlitz: [https://stackblitz.com/edit/stackblitz-starters-bznpdvwh?file=index.html](https://stackblitz.com/edit/stackblitz-starters-bznpdvwh?file=index.html)
+StackBlitz: [https://stackblitz.com/edit/stackblitz-starters-bznpdvwh?file=index.html](https://stackblitz.com/edit/web-platform-fgwsf5bn?file=index.html)
 
 ## Setup
 Start with the basic HTML setup for the page.
