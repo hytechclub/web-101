@@ -1,3 +1,6 @@
+# Bananas Source
+
+```html
 <html>
   <body>
     <h1>Banana for sale</h1>
@@ -63,3 +66,4 @@
     <button>Add to Cart</button>
   </body>
 </html>
+```

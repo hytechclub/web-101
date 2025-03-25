@@ -22,6 +22,7 @@
     - [Warm Up](Week06/WarmUp.md)
     - [Bananas Follow-Along](Week06/BananasFollowAlong.md)
     - [Final Project CSS](Week06/FinalProjectCss.md)
+    - [Bananas Source](Week06/BananasSource.md)
 - [Week 7 - More HTML/CSS](Week07/StudentDesc.md)
     - [Code-Along](Week07/PixelsCodeAlong.md)
     - [Self-Paced Work](Week07/SelfPacedWork.md)
