@@ -18,6 +18,7 @@
     - [Recursion Challenge](Week04/RecursionChallenge.md)
 - [Week 5 - Reverse Engineering Challenge](Week05/StudentDesc.md)
     - [Challenge Description](Week05/ReverseEngineeringChallenge.md)
+      - [Full Size Site Image](Week05/FullSizeSite.md)
 - [Week 6 - CSS Introduction](Week06/StudentDesc.md)
     - [Warm Up](Week06/WarmUp.md)
     - [Bananas Follow-Along](Week06/BananasFollowAlong.md)

@@ -5,7 +5,7 @@ Here is an image of a webpage:
 <br>
 <img src="StrangerThingsSite2.png" style="width: 300px">
 
-(view the full-size images here: <a href="StrangerThingsSite1.png">Page 1</a> <a href="StrangerThingsSite2.png">Page 2</a>)
+[(view the full-size site images here)](FullSizeSite.md)
 
 Your goal is to replicate the webpage using HTML! Start by forking [this empty project](https://glitch.com/edit/#!/remix/emptyweb101). Then, start adding the necessary code to create your webpage!
 
