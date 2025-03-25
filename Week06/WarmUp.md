@@ -1,5 +1,5 @@
 # Web 101: CSS Warm-Up
-Open up [this warm-up Glitch](https://glitch.com/edit/#!/remix/csswarmup) and try to complete the warm-up activities below. Notice that there is an additional HTML element: `<style></style>`. This is adding some _style_ to the HTML page! > [StackBlitz empty project](https://stackblitz.com/edit/web-platform-p3dkktaq?file=index.html) <
+Open up [this warm-up Glitch](https://glitch.com/edit/#!/remix/csswarmup) and try to complete the warm-up activities below. Notice that there is an additional HTML element: `<style></style>`. This is adding some _style_ to the HTML page! > [StackBlitz project](https://stackblitz.com/edit/web-platform-9vbalhmk?file=index.html) <
 
 ```html
 <html>
