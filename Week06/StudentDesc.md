@@ -8,7 +8,7 @@ Learn how to use CSS to add style to webpages. Review the two PowerPoint present
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week06/CssSelectorsAndProperties.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Code-Along
-[Click here for the code-along **starter code**.](https://glitch.com/edit/#!/remix/bananastarter)
+[Click here for the code-along **starter code**.](https://glitch.com/edit/#!/remix/bananastarter) | [StackBlitz Mirror](https://stackblitz.com/edit/web-platform-yxbej4gw?file=index.html) | [Direct Source Code](BananasStarter.html)
 
 [Click here for the code-along instructions.](BananasFollowAlong.md)
 
