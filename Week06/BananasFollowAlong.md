@@ -94,15 +94,23 @@ body {
 That's all the CSS, but so far it's not actually linked to the HTML page! The HTML needs a `link` element pointing to the CSS file.
 
 ### HTML Link
-1. In the `html` tag, above the `body`, create a new `head` element
-    - The `head` should have an opening and closing tag, both above the `<body>`
-1. Between the opening and closing `head` tags, create a new `link` element
-1. Set the attributes of the `link` element as follows:
+1. Within the `<html></html>` tags, above the `<body>`, create a new `<head>` element
+    - The `<head>` should have an opening and closing tag, both above the `<body>`
+2. Between the `<head></head>` tags, create a new `<link>` element
+3. Set the attributes of the `link` element as follows:
     - `href`: Bananas.css
     - `type`: text/css
     - `rel`: stylesheet
+
+The added HTML code should look something like this:
+
+```html
+<head>
+	<link href="Bananas.css" type="text/css" rel="stylesheet">
+</head>
+```
     
-Next, open the HTML file in a browser to see the change. The background of the page should appear yellow-ish!
+Open the HTML file in a browser to see the change. The background of the page should appear yellow-ish!
 
 ## Adding More `body` Styles
 Any **declaration** within the `body` **ruleset** will apply by default to any element on the webpage.
