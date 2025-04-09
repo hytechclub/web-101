@@ -9,7 +9,7 @@ Create an animation of a square rotating, and moving around a square path as it 
     - This `div` is our square
 
 ## Rotation Animation
-First, we want to get the square to rotate inifinitely. To do this, we need to use `animation`!
+First, we want to get the square to rotate infinitely. To do this, we need to use `animation`!
 
 - Create a new `@keyframes` called "rotation"
     - There should be two frames within this rule: `from` and `to`

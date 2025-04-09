@@ -7,7 +7,7 @@ Whether the session is virtual or not, begin class with [a review quiz](https://
 Note that presenting the quiz will require a Quizizz account. If there are issues, there is a [Blooket quiz](https://dashboard.blooket.com/set/6307a6f9c782a4df94228024) as well (account also required).
 
 ## Code-Along Activity: Endangered Species
-Start by showing [an example](https://chlorinated-yielding-lark.glitch.me/) of what is possible using CSS transitions and transforms.
+Start by showing [an example](https://hylandtechclub.com/showcase/Web101/TransitionsAndTransforms.html) of what is possible using CSS transitions and transforms.
 
 Then, as a group, walk through the [Endangered Species Code-Along](EndangeredSpeciesCodeAlong.md) file to introduce these concepts.
 
