@@ -24,6 +24,9 @@ Follow the links below to view each week of material.
 ## Starter Glitch Project
 [Click here for the **EmptyWeb** starter code.](https://glitch.com/edit/#!/remix/emptyweb101)
 
+### StackBlitz Starter
+[Project](https://stackblitz.com/edit/web-platform-fgwsf5bn?file=index.html)
+
 ### VS Code for Education
 If Glitch glitches, it may be necessary to use [Visual Studio Code for Education](https://vscodeedu.com/) instead. Sign up with a Google or Microsoft account to get started.
 
