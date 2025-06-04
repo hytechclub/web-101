@@ -13,6 +13,8 @@ let passwordProtectedPages = {
     // "Week10/AnimationFollowAlong.md": "life"
 }
 
+//test
+
 document.addEventListener('DOMContentLoaded', function() {
     function addPassword(pw) {
         let containerSection = document.querySelector("section");
