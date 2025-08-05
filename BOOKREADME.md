@@ -7,7 +7,7 @@ Welcome to the Web 101 Hy-Tech Club course!
 ## Schedule
 Follow the links below to view each week of material.
 
-- [Week 1 (9/16) - Hy-Tech Club Introduction](Week01/StudentDesc.md)
+- [Week 1 (9/16) - Introduction](Week01/StudentDesc.md)
 - [Week 2 (9/23) - HTML Elements](Week02/StudentDesc.md)
 - [Week 3 (9/30) - HTML Review](Week03/StudentDesc.md)
 - [Week 4 (10/7) - CSS Introduction](Week04/StudentDesc.md)
@@ -17,4 +17,4 @@ Follow the links below to view each week of material.
 - [Week 8 (11/4) - Final Project Presentations](Week08/StudentDesc.md)
 
 ## Starter HyTop Project
-[Click here for the **EmptyWeb** starter code.](https://hytop.onrender.com/c/web)
+[Click here for the empty starter code.](https://hytop.onrender.com/c/web)

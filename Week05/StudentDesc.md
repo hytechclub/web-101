@@ -1,4 +1,4 @@
-# HTML `<div>`s & `<span>`s / CSS Selectors
+# Divs and Spans
 Learn how to use HTML `<div>` and `<span>` elements, along with some new CSS selectors, to do even more with CSS.
 
 ## More CSS Selectors PowerPoint Presentation

@@ -1,4 +1,4 @@
-# Responsive Design & Bootstrap
+# Responsive Design
 Learn how to make webpages function properly on different types of devices using responsive design and bootstrap. Review the PowerPoint presentation, then complete the [Magazine Website Follow-Along](MagazineWebsiteFollowAlongWithCode.md) activity.
 
 ## Responsive Design
