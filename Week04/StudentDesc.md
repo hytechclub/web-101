@@ -1,4 +1,4 @@
-# Hello CSS
+# CSS Introduction
 Learn how to use CSS to add style to webpages. Review the two PowerPoint presentations, then complete the [Bananas Follow-Along](BananasFollowAlong.md) activity. After that, start adding some CSS to your final project website!
 
 ## Introduction to CSS

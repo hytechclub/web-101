@@ -1,4 +1,4 @@
-# Basic HTML Elements
+# HTML Elements
 Learn how to use some of the basic HTML elements: headers, paragraphs, hyperlinks, and images.
 
 ## Warm-Up: Form

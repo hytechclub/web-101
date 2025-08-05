@@ -1,4 +1,4 @@
-# Introduction to Hy-Tech Club
+# Introduction
 For the first week, your mission is to get to know your fellow students a little better, make your first website of the club, and start thinking about what you want to do for the rest of the semester!
 
 ## Welcome Presentation
