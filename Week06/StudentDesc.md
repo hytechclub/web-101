@@ -1,16 +1,13 @@
-# Hello CSS
-Learn how to use CSS to add style to webpages. Review the two PowerPoint presentations, then complete the [Bananas Follow-Along](BananasFollowAlong.md) activity. After that, start adding some CSS to your final project website!
+# Responsive Design & Bootstrap
+Learn how to make webpages function properly on different types of devices using responsive design and bootstrap. Review the PowerPoint presentation, then complete the [Magazine Website Follow-Along](MagazineWebsiteFollowAlongWithCode.md) activity.
 
-## Introduction to CSS
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week06/IntroductionToCss.pptx' width='100%' height='450px' frameborder='0'></iframe>
-
-## CSS Selectors & Properties
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week06/CssSelectorsAndProperties.pptx' width='100%' height='450px' frameborder='0'></iframe>
+## Responsive Design
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week08/ResponsiveDesign.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Code-Along
-[Click here for the code-along **starter code**.](https://glitch.com/edit/#!/remix/bananastarter) | [StackBlitz Mirror](https://stackblitz.com/edit/web-platform-yxbej4gw?file=index.html) | [Direct Source Code](BananasSource.md)
+- [Magazine Website Starter Code](https://hytop.onrender.com/e/onlinemagazine)
+- [Magazine Website Instructions](MagazineWebsiteFollowAlongWithCode.md)
 
-[Click here for the code-along instructions.](BananasFollowAlong.md)
-
-## Self-Paced Work: Final Project CSS
-This week, any remaining time should be spent adding some CSS styles to your final project site! [Click here for instructions.](FinalProjectCss.md)
+## Resources & Challenges
+- [More Bootstrap Challenge](MoreBootstrapChallenge.md)
+- [Newspaper Layout](https://codepen.io/gc-nomade/pen/GRXdPN)

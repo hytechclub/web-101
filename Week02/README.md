@@ -1,5 +1,16 @@
-# Basic HTML Elements
-For the first content lesson of the class, go over HTML elements. The purpose of this lesson is to show the students what they can create with some basic elements. Overall, this first lesson should be pretty straightforward. Introduce HTML, show the students some examples and have them get some hands-on experience writing HTML.
+# HTML Elements
+For this lesson's content, cover HTML's most-used elements. The primary focus of this lesson is to make the students more comfortable with HTML, and show them more they can do with it. Teach attribute syntax, and many new elements including inputs.
+
+## Agenda
+
+| Activity | Time |
+|-|-|
+| Warm-Up  | 10m |
+| Lecture | 20m |
+| Group Activity | 10m |
+| Break | 10m |
+| Code-Along | 30m |
+| Self-Paced Work | 40m |
 
 ## Warm-Up
 For a warm-up this week, do a quick form icebreaker. [Open the form here.](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=iNuljKul90il4EzlCTX4B33juYEmlJlJpIkctSGCv9RUODk5QUQwSE1VS1NaS0RKOTlON05TSVIzVS4u&Token=bb860232bab6460fab03cc488fd13c20)
@@ -14,25 +25,13 @@ This [presentation](BasicHtmlElements.pptx) focuses mostly on how different elem
 ## Group Activity: Name That Element
 Facilitate the [Name That Element](NameThatElement.pptx) game. For each element, instructors can ask multiple questions, and call on students randomly.
 
-## Code-Along: About Me Website
-Follow the [instructions](AboutMeCodeAlong.md) to start building an "About Me" website.
+## Code-Along Activity: Pizza Website
+Students will begin to create a website for a pizza restaurant which includes a list of locations and an order form: [PizzaWebsiteCodeAlong](PizzaWebsiteCodeAlong.md)
 
-## Self-Paced Work: Final Project!
-Students should follow [the instructions](SelfPacedWork.md) to start working on their final projects.
+## Self-Paced Work: Pizza Website Updates
+Students will update their pizza website: [PizzaWebsiteSelfPacedWork](PizzaWebsiteSelfPacedWork.md)
+
+They are also, always, encouraged to continue work on their final projects! They should consider ways to update their site with the new elements covered in this week's lesson.
 
 ## Challenges
-There are two challenge pages for this week:
-
-- The students will be challenged to [create multiple HTML files and link between them](MultipleHtmlFilesChallenge.md)
-- There is also a challenge for the students to build a [Choose Your Own Adventure](ChooseYourOwnAdventureChallenge.md) game
-
-## Agenda
-
-| Activity | Time |
-|-|-|
-| Warm-up | 20m |
-| Lecture | 25m |
-| Name That Element | 15m |
-| Break | 10m |
-| Code-Along | 20m |
-| Self-Paced Work/Challenges | 30m |
+There are a wide variety of challenges for the students to tackle.

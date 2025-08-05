@@ -1,46 +1,39 @@
-## Overview: Introduction to CSS
-This lesson will introduce CSS. There will be a little bit of HTML (the `link` tag), but overall this lesson will focus on what CSS is, how it works, the syntax of CSS, some basic element-level selectors, and a handful of CSS properties to get started.
+## Overview: Responsive Design & Bootstrap
+Introduce the idea of responsive design, and impress upon the students its importance. Start by doing responsive design manually using pure CSS, and then introduce the Bootstrap framework as a standard alternative.
 
 ## Warm Up
-Give the students 5 minutes to try and complete the [warmup activity](WarmUp.md). They will visit a CodePen and make some changes to it. They have yet to learn CSS, but may be able to pick it up based on the context clues.
+Pose this question to the students:
 
-At the end of the warmup, briefly show the students Chrome Dev Tools. Update some fonts/colors/font sizes on a webpage (Wikipedia is a good one).
+>What are some differences between websites and mobile applications?
+
+Discuss their answers - this will lead into the lesson.
 
 ## Lecture
-- Explain what CSS does
-- Explain where CSS goes
-    - External Stylesheets
-- Explain how it applies to HTML
-- Introduce some basic CSS selectors (element selectors) and properties
+Present the [Responsive Design](ResponsiveDesign.pptx) lecture.
 
-There are two separate PowerPoint presentations: [Introduction to CSS](IntroductionToCss.pptx), and [CSS Selectors & Properties](CssSelectorsAndProperties.pptx).
+- Responsive Web Design introduction
+- Manual responsive web design
+    - CodePen individual practice
+- Bootstrap framework introduction
 
-## Group Activities
-### Review - HTML & CSS
-For this activity, the students will be split up into 3-4 teams. Each team will be given a whiteboard to fill out their answers.
+## Formative Assessment: Blooket Quiz
+Facilitate the [Blooket](https://dashboard.blooket.com/set/63ff832f4b3793b307fb51d3).
 
-#### VIRTUAL NOTE
-This part of the lesson may not be possible virtually.
-
-The instructors will pull up the [HTML & CSS Review PowerPoint](HtmlCssReviewActivity.pptx) to display the review questions to the students (Note: the answers are displayed after each question). The students will have time to fill out an answer. After a certain amount of time, the instructors will count down and ask each of the teams to hold up their answers. Each team will get a point for every answer they get correctly. If anyone is talking outside of the time they have to discuss an answer, that team will be deducted a point.
-
-If there is a tie at the end of the round, the tie-breaker question will be used.
-
-The team with the highest amount of points wins.
-
-### Follow-Along Activity: Go Bananas
-Add basic styles to Banana product page. Have the students start with the HTML code, then follow the instructions in [BananasFollowAlong](BananasFollowAlong.md).
+## Code-Along Activity: Magazine Website
+As a group, walk through the instructions in [MagazineWebsiteFollowAlongWithCode](MagazineWebsiteFollowAlongWithCode.md) to cover the Bootstrap basics. Provide the students with a copy of the follow-along instructions that do not contain code so that they can copy and paste as needed.
 
 ## Self-Paced Work
-This week, have students spend any remaining time adding CSS to their final projects. They will have to ensure they properly link a CSS file, and then start to stylize their pages!
+With any remaining time, students can continue working on their magazines, or work on their final projects.
+
+## Challenge: More Bootstrap
+Students will learn more about Bootstrap by following the instructions in the [MoreBootstrapChallenge](MoreBootstrapChallenge.md) file.
 
 ## Agenda
 
 | Activity | Time |
 |-|-|
-| Warmup | 10m |
+| Warm Up  | 10m |
 | Lecture | 30m |
-| Review | 15m |
-| Break | 5m |
-| Follow-Along Coding | 20m |
-| Individual Exercise/Challenge | 40m |
+| Follow-Along | 30m |
+| Break | 10m |
+| Self-Paced Work | 40m |
