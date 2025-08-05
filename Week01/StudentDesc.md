@@ -4,13 +4,13 @@ For the first week, your mission is to get to know your fellow students a little
 ## Welcome Presentation
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week01/Welcome.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
-## Glitch Setup
-[Click here for Glitch Setup instructions.](https://hylandtechclub.com/GlitchSetup)
+## HyTop Setup
+[Click here to register for HyTop.](https://hytop.onrender.com/register)
 
-Once you have created an account, please [share your first project here](https://forms.office.com/r/gDZVq6B5p6).
+Make sure to remember your username and password!
 
 ## Code-Along: Building a Website
-**[Click here for the starter project.](https://glitch.com/edit/#!/remix/building-websites-starter-project)**
+**[Click here for the starter project.](https://hytop.onrender.com/c/webstart)**
 
 Alternatively, follow the [code-along instructions](CodeAlong.md) step by step.
 

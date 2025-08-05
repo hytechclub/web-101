@@ -1,16 +1,16 @@
-# HTML Tables & IFrames
-Learn how to use a couple new HTML elements: tables and iframes. Review the PowerPoint presentation, then complete the [Game Comparison Code-Along](GameComparisonCodeAlong.md) activity. After that, complete the [Game Comparison Exercise](GameomparisonIndividual.md). Beyond that, there are a couple of challenges to complete as well.
+# Hello CSS
+Learn how to use CSS to add style to webpages. Review the two PowerPoint presentations, then complete the [Bananas Follow-Along](BananasFollowAlong.md) activity. After that, start adding some CSS to your final project website!
 
-## Tables and IFrames PowerPoint Presentation
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week04/TablesAndIFrames.pptx' width='100%' height='450px' frameborder='0'></iframe>
+## Introduction to CSS
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week06/IntroductionToCss.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
-## StackBlitz
-[Starter Project](https://stackblitz.com/edit/web-platform-fgwsf5bn?file=index.html)
+## CSS Selectors & Properties
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week06/CssSelectorsAndProperties.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
-You should be able to use StackBlitz without an account. However, if you would like to save your work, you should [create an account](https://stackblitz.com/register).
+## Code-Along
+[Click here for the code-along **starter code**.](https://hytop.onrender.com/c/bananas) | [Direct Source Code](BananasSource.md)
 
-## Activities
-- [Game Comparison Code-Along](GameComparisonCodeAlong.md)
-- [Game Comparison Exercise](GameComparisonIndividual.md)
-- [Oscars Challenge](OscarsChallenge.md)
-- [Recursion Challenge](RecursionChallenge.md)
+[Click here for the code-along instructions.](BananasFollowAlong.md)
+
+## Self-Paced Work: Final Project CSS
+This week, any remaining time should be spent adding some CSS styles to your final project site! [Click here for instructions.](FinalProjectCss.md)

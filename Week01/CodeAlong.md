@@ -4,10 +4,7 @@ In this activity, use HTML and CSS to create a website about yourself!
 >_Note: HTML ignores whitespace, so don't worry about extra lines or indentations between text!_
 
 ## Getting Started
-
-1. [Click here to open the starter project](https://glitch.com/edit/#!/remix/building-websites-starter-project)
-1. Open the preview pane  
-    ![](Assets/GlitchOpenPreviewPane.png)
+[Click here to open the starter project](https://hytop.onrender.com/c/webstart)
 
 That's it! You should be all set, and ready to code.
 
@@ -97,6 +94,8 @@ The code should look something like this:
 
 ## Changing the Background Color with CSS
 Now the content of the page is looking pretty good, but it's not very stylish. One way to make the website look more fun and exciting is to use CSS! HTML is like the skeleton of a webpage, just the structure, and CSS is like the clothes that it wears, giving it style.
+
+>Important Note: the color picker may malfunction, so be wary!
 
 On the left side of the page, open the **style.css** file by clicking on it.
 
