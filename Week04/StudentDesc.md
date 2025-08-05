@@ -2,10 +2,10 @@
 Learn how to use CSS to add style to webpages. Review the two PowerPoint presentations, then complete the [Bananas Follow-Along](BananasFollowAlong.md) activity. After that, start adding some CSS to your final project website!
 
 ## Introduction to CSS
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week06/IntroductionToCss.pptx' width='100%' height='450px' frameborder='0'></iframe>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week04/IntroductionToCss.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## CSS Selectors & Properties
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week06/CssSelectorsAndProperties.pptx' width='100%' height='450px' frameborder='0'></iframe>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week04/CssSelectorsAndProperties.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Code-Along
 [Click here for the code-along **starter code**.](https://hytop.onrender.com/c/bananas) | [Direct Source Code](BananasSource.md)
