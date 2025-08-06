@@ -7,7 +7,7 @@
     - [Challenges](Week02/Challenges/StudentDesc.md)
       - [Multiple Pages](Week02/Challenges/MultipleHtmlFilesChallenge.md)
       - [Choose Your Adventure](Week02/Challenges/ChooseYourOwnAdventureChallenge.md)
-      - [Movie Search](Week02/MovieSearchChallenge.md)
+      - [Movie Search](Week02/Challenges/MovieSearchChallenge.md)
 - [Week 3 - HTML Review](Week03/StudentDesc.md)
     - [Challenge Description](Week03/ReverseEngineeringChallenge.md)
       - [Full Size Site Image](Week03/FullSizeSite.md)
