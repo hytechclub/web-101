@@ -13,8 +13,8 @@ Follow the links below to view each week of material.
 - [Week 4 (10/7) - CSS Introduction](Week04/StudentDesc.md)
 - [Week 5 (10/14) - Divs & Spans](Week05/StudentDesc.md)
 - [Week 6 (10/21) - Responsive Design](Week06/StudentDesc.md)
-- [Week 7 (10/28) - Final Project](Week07/StudentDesc.md)
-- [Week 8 (11/4) - Final Project Presentations](Week08/StudentDesc.md)
+- [Week 7 (10/28) - Final Project](WeekFinalProject/StudentDesc.md)
+- Week 8 (11/4) - Final Project Presentations
 
 ## Starter HyTop Project
 [Click here for the empty starter code.](https://hytop.onrender.com/c/web)
