@@ -9,7 +9,7 @@ Create a simple website for a magazine! It will be up to you to decide what topi
 - Anything!
 
 ## Setup
-Start from [this starter project](https://hytop.onrender.com/c/onlinemagazine), and then follow the instructions below.
+Start from [this starter project](https://hytop.onrender.com/e/onlinemagazine), and then follow the instructions below.
 
 **index.html** contents:
 

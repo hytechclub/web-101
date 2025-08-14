@@ -10,7 +10,7 @@ For the first week, your mission is to get to know your fellow students a little
 Make sure to remember your username and password!
 
 ## Code-Along: Building a Website
-**[Click here for the starter project.](https://hytop.onrender.com/c/webstart)**
+**[Click here for the starter project.](https://hytop.onrender.com/e/webstart)**
 
 Alternatively, follow the [code-along instructions](CodeAlong.md) step by step.
 
