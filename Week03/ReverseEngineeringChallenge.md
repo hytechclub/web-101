@@ -7,7 +7,7 @@ Here is an image of a webpage:
 
 [(view the full-size site images here)](FullSizeSite.md)
 
-Your goal is to replicate the webpage using HTML! Start by copying [this empty project](https://hytop.onrender.com/c/web). Then, start adding the necessary code to create your webpage!
+Your goal is to replicate the webpage using HTML! Start by copying [this empty project](https://hytop.onrender.com/e/web). Then, start adding the necessary code to create your webpage!
 
 ## Alternatives
 You can use [W3Schools Spaces](https://www.w3schools.com/spaces/index.php) to create and host your sites.

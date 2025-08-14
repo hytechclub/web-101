@@ -22,7 +22,7 @@ Now, some developers copy this style for their own art
 Pixel art can be used for almost anything!
 
 ## Setup
-Start by copying [this starter project](https://hytop.onrender.com/c/pixel).
+Start by copying [this starter project](https://hytop.onrender.com/e/pixel).
 
 ### Starter Code
 The code to start looks like this:

@@ -17,4 +17,4 @@ Follow the links below to view each week of material.
 - Week 8 (11/4) - Final Project Presentations
 
 ## Starter HyTop Project
-[Click here for the empty starter code.](https://hytop.onrender.com/c/web)
+[Click here for the empty starter code.](https://hytop.onrender.com/e/web)

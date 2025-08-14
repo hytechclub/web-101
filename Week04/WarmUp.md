@@ -1,5 +1,5 @@
 # Web 101: CSS Warm-Up
-Open up [this warm-up project](https://hytop.onrender.com/c/csswarmup) and try to complete the warm-up activities below. Notice that there is an additional HTML element: `<style></style>`. This is adding some _style_ to the HTML page!
+Open up [this warm-up project](https://hytop.onrender.com/e/csswarmup) and try to complete the warm-up activities below. Notice that there is an additional HTML element: `<style></style>`. This is adding some _style_ to the HTML page!
 
 ```html
 <html>

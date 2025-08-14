@@ -4,7 +4,7 @@ In this activity, use HTML and CSS to create a website about yourself!
 >_Note: HTML ignores whitespace, so don't worry about extra lines or indentations between text!_
 
 ## Getting Started
-[Click here to open the starter project](https://hytop.onrender.com/c/webstart)
+[Click here to open the starter project](https://hytop.onrender.com/e/webstart)
 
 That's it! You should be all set, and ready to code.
 
