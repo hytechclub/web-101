@@ -1,4 +1,4 @@
-## Overview: Introduction to CSS
+# Introduction to CSS
 This lesson will introduce CSS. There will be a little bit of HTML (the `link` tag), but overall this lesson will focus on what CSS is, how it works, the syntax of CSS, some basic element-level selectors, and a handful of CSS properties to get started.
 
 ## Warm Up

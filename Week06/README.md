@@ -1,4 +1,4 @@
-## Overview: Responsive Design & Bootstrap
+# Responsive Design & Bootstrap
 Introduce the idea of responsive design, and impress upon the students its importance. Start by doing responsive design manually using pure CSS, and then introduce the Bootstrap framework as a standard alternative.
 
 ## Warm Up
