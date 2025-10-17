@@ -18,3 +18,6 @@ Learn how to use HTML `<div>` and `<span>` elements, along with some new CSS sel
 
 ## Challenges
 [Click here for some additional challenges.](Challenges.md)
+
+## Resources
+[Click here to read more about CSS Selectors.](https://www.fffuel.co/css-selectors/)
