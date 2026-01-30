@@ -2,11 +2,7 @@
 Follow the steps below to use CSS to make HTML elements dynamic and interactive with transitions and transforms.
 
 ## Getting Started
-Start by remixing [this project](https://glitch.com/edit/#!/remix/endangered-species-starter). The page has a lot of good content so far, but it could certainly use some additional style!
-
-[StackBlitz Mirror](https://stackblitz.com/edit/web-platform-zehaqspe?file=index.html)
-
-[Endangered Species Source](EndangeredSpeciesSource.md)
+Start by remixing [this project](https://hytop.onrender.com/e/endangered). The page has a lot of good content so far, but it could certainly use some additional style!
 
 ## Transitions
 When an HTML element changes its state, CSS can dynamically update the styles for that element. CSS can even specify rules around the transition from one state to another. This makes the webpage feel much more interactive! Follow the instructions below to complete an example detailing some transitions in CSS.
@@ -140,7 +136,7 @@ And the added CSS should look something like this:
 ```
 
 ## Final Code
-That's it for the activity! By this point, you should have an website with four animal boxes, each interactive on hover. The ending project could look something like [this](https://replit.com/@HylandOutreach/EndangeredSpecies):
+That's it for the activity! By this point, you should have an website with four animal boxes, each interactive on hover. The ending project could look something like this:
 
 ### HTML
 ```html

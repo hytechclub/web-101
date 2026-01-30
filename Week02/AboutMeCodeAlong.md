@@ -57,7 +57,7 @@ Now it's time to add a picture of your favorite animal!
     1. Set the `href` of the image to the URL, in quotes
     1. Inside of the anchor tag, insert the text "Wikipedia"
 
-**Note: For external `a` elements to work in Glitch, the project must be opened in a separate window.**
+**Note: For external `a` elements to work in HyTop, the project may need to be opened in a separate window.**
 
 ## Final HTML
 By the end of the activity, the HTML code should look something like this:

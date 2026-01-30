@@ -7,18 +7,7 @@ Here is an image of a webpage:
 
 [(view the full-size site images here)](FullSizeSite.md)
 
-Your goal is to replicate the webpage using HTML! Start by forking [this empty project](https://glitch.com/edit/#!/remix/emptyweb101). Then, start adding the necessary code to create your webpage!
-
-StackBlitz: [empty project](https://stackblitz.com/edit/web-platform-p3dkktaq?file=index.html)
-
-CodePen: [start here](https://codepen.io/pen)
-
-## Alternatives
-You can use [W3Schools Spaces](https://www.w3schools.com/spaces/index.php) to create and host your sites.
-
-You can use [Neocities](https://neocities.org/) to create and host your sites.
-
-You can use GitHub pages as well, though that is a little bit more complex.
+Your goal is to replicate the webpage using HTML! Start by forking [this empty project](https://hytop.onrender.com/e/web). Then, start adding the necessary code to create your webpage!
 
 ## Notes
 It is not necessary to have each part of the text/content match the image exactly. The important thing is recognizing each element and creating it with HTML! The [HTML Cheatsheet](HtmlCheatsheet.md) can be a big help.
