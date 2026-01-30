@@ -1,18 +1,16 @@
-# HTML Review
-Learn a bit more HTML and then review it all holistically!
+# More HTML Elements
+Learn about some new HTML elements: lists, inputs, tables, and iframes.
 
-## Tables and IFrames PowerPoint Presentation
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week03/TablesAndIFrames.pptx' width='100%' height='450px' frameborder='0'></iframe>
+## More HTML Elements PowerPoint Presentation
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week03/MoreHtmlElements.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
-## Reverse Engineering Challenge
-Follow the [Reverse Engineering Challenge](ReverseEngineeringChallenge.md) instructions to build a Stranger Things website based on an image. For reference, view the [HTML Cheatsheet](HtmlCheatsheet.md).
+## Pizza Website Code-Along
+[Pizza Website Code-Along](PizzaWebsiteCodeAlong.md)
 
-### Challenge
-[Click here for the challenge instructions!](ReverseEngineeringChallenge.md)
+## Self-Paced Work
+After the code-along, here are some options:
 
-### Reference
-[HTML Cheatsheet](HtmlCheatsheet.md)
-
-## More Challenges
-- [Oscars](OscarsChallenge.md)
-- [Recursion](RecursionChallenge.md)
+- [Update your restaurant site](PizzaWebsiteSelfPacedWork.md)
+- [Learn about the Oscars](OscarsChallenge.md)
+- [Learn about Recursion](RecursionChallenge.md)
+- Work on your final project

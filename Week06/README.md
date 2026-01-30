@@ -1,39 +1,38 @@
-# Responsive Design & Bootstrap
-Introduce the idea of responsive design, and impress upon the students its importance. Start by doing responsive design manually using pure CSS, and then introduce the Bootstrap framework as a standard alternative.
+# Divs and Spans
+This lesson will dive deeper into CSS. This will be mostly pure CSS, plus introducing the class/id attributes and the div/span elements.
 
-## Warm Up
-Pose this question to the students:
+## Lecture 1: More Selectors
+Present the [first presentation](MoreSelectors.pptx). It covers:
 
->What are some differences between websites and mobile applications?
+- ID Selectors
+- Class Selectors
+- Descendant Selectors
 
-Discuss their answers - this will lead into the lesson.
+## Self-Paced Activity: CSS Diner
+Have students play the [CSS Diner](https://flukeout.github.io/) game. Students should complete levels 1-6. If they complete those, they can continue on with the additional levels. **Make sure to consider the timing of this activity. If it lasts longer than 10 minutes, there may not be time for students to work on the self-paced portion of the lesson.**
 
-## Lecture
-Present the [Responsive Design](ResponsiveDesign.pptx) lecture.
+## Lecture 2: More HTML
+Present the [second presentation](MoreHtml.pptx). It covers:
 
-- Responsive Web Design introduction
-- Manual responsive web design
-    - CodePen individual practice
-- Bootstrap framework introduction
+- `<span>` elements
+- `<div>` elements
 
-## Formative Assessment: Blooket Quiz
-Facilitate the [Blooket](https://dashboard.blooket.com/set/63ff832f4b3793b307fb51d3).
+## Code-Along: Pixels
+Walk through the [Pixels Code-Along activity](PixelsCodeAlong.md) as a group. Follow the instructions to build a little grid and create a pixel art PAC-MAN.
 
-## Code-Along Activity: Magazine Website
-As a group, walk through the instructions in [MagazineWebsiteFollowAlongWithCode](MagazineWebsiteFollowAlongWithCode.md) to cover the Bootstrap basics. Provide the students with a copy of the follow-along instructions that do not contain code so that they can copy and paste as needed.
+## Self-Paced Work: Pixel Updates
+Students should follow [the instructions](SelfPacedWork.md) to make updates to the pixel art grid.
 
-## Self-Paced Work
-With any remaining time, students can continue working on their magazines, or work on their final projects.
-
-## Challenge: More Bootstrap
-Students will learn more about Bootstrap by following the instructions in the [MoreBootstrapChallenge](MoreBootstrapChallenge.md) file.
+## Challenges
+With remaining time, students can work on the [additional challenges](Challenges.md), or, as always, work on their final projects.
 
 ## Agenda
 
 | Activity | Time |
 |-|-|
-| Warm Up  | 10m |
-| Lecture | 30m |
-| Follow-Along | 30m |
+| Lecture 1 | 15m |
+| CSS Diner | 10m |
+| Lecture 2 | 10m |
 | Break | 10m |
-| Self-Paced Work | 40m |
+| Code-Along | 35m |
+| Self-Paced Work/Challenges | 40m |

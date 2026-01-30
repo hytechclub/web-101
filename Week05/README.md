@@ -1,38 +1,46 @@
-# Divs and Spans
-This lesson will dive deeper into CSS. This will be mostly pure CSS, plus introducing the class/id attributes and the div/span elements.
+# Introduction to CSS
+This lesson will introduce CSS. There will be a little bit of HTML (the `link` tag), but overall this lesson will focus on what CSS is, how it works, the syntax of CSS, some basic element-level selectors, and a handful of CSS properties to get started.
 
-## Lecture 1: More Selectors
-Present the [first presentation](MoreSelectors.pptx). It covers:
+## Warm Up
+Give the students 5 minutes to try and complete the [warmup activity](WarmUp.md). They will visit a CodePen and make some changes to it. They have yet to learn CSS, but may be able to pick it up based on the context clues.
 
-- ID Selectors
-- Class Selectors
-- Descendant Selectors
+At the end of the warmup, briefly show the students Chrome Dev Tools. Update some fonts/colors/font sizes on a webpage (Wikipedia is a good one).
 
-## Self-Paced Activity: CSS Diner
-Have students play the [CSS Diner](https://flukeout.github.io/) game. Students should complete levels 1-6. If they complete those, they can continue on with the additional levels. **Make sure to consider the timing of this activity. If it lasts longer than 10 minutes, there may not be time for students to work on the self-paced portion of the lesson.**
+## Lecture
+- Explain what CSS does
+- Explain where CSS goes
+    - External Stylesheets
+- Explain how it applies to HTML
+- Introduce some basic CSS selectors (element selectors) and properties
 
-## Lecture 2: More HTML
-Present the [second presentation](MoreHtml.pptx). It covers:
+There are two separate PowerPoint presentations: [Introduction to CSS](IntroductionToCss.pptx), and [CSS Selectors & Properties](CssSelectorsAndProperties.pptx).
 
-- `<span>` elements
-- `<div>` elements
+## Group Activities
+### Review - HTML & CSS
+For this activity, the students will be split up into 3-4 teams. Each team will be given a whiteboard to fill out their answers.
 
-## Code-Along: Pixels
-Walk through the [Pixels Code-Along activity](PixelsCodeAlong.md) as a group. Follow the instructions to build a little grid and create a pixel art PAC-MAN.
+#### VIRTUAL NOTE
+This part of the lesson may not be possible virtually.
 
-## Self-Paced Work: Pixel Updates
-Students should follow [the instructions](SelfPacedWork.md) to make updates to the pixel art grid.
+The instructors will pull up the [HTML & CSS Review PowerPoint](HtmlCssReviewActivity.pptx) to display the review questions to the students (Note: the answers are displayed after each question). The students will have time to fill out an answer. After a certain amount of time, the instructors will count down and ask each of the teams to hold up their answers. Each team will get a point for every answer they get correctly. If anyone is talking outside of the time they have to discuss an answer, that team will be deducted a point.
 
-## Challenges
-With remaining time, students can work on the [additional challenges](Challenges.md), or, as always, work on their final projects.
+If there is a tie at the end of the round, the tie-breaker question will be used.
+
+The team with the highest amount of points wins.
+
+### Follow-Along Activity: Go Bananas
+Add basic styles to Banana product page. Have the students start with the HTML code, then follow the instructions in [BananasFollowAlong](BananasFollowAlong.md).
+
+## Self-Paced Work
+This week, have students spend any remaining time adding CSS to their final projects. They will have to ensure they properly link a CSS file, and then start to stylize their pages!
 
 ## Agenda
 
 | Activity | Time |
 |-|-|
-| Lecture 1 | 15m |
-| CSS Diner | 10m |
-| Lecture 2 | 10m |
-| Break | 10m |
-| Code-Along | 35m |
-| Self-Paced Work/Challenges | 40m |
+| Warmup | 10m |
+| Lecture | 30m |
+| Review | 15m |
+| Break | 5m |
+| Follow-Along Coding | 20m |
+| Individual Exercise/Challenge | 40m |

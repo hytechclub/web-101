@@ -1,23 +1,19 @@
-# Divs and Spans
-Learn how to use HTML `<div>` and `<span>` elements, along with some new CSS selectors, to do even more with CSS.
+# CSS Introduction
+Learn how to use CSS to add style to webpages. Review the two PowerPoint presentations, then complete the [Bananas Follow-Along](BananasFollowAlong.md) activity. After that, start adding some CSS to your final project website!
 
-## More CSS Selectors PowerPoint Presentation
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week05/MoreSelectors.pptx' width='100%' height='450px' frameborder='0'></iframe>
+## Warm-Up
+[Warm-Up](WarmUp.md)
 
-## CSS Diner Activity
-[Click here to access the online game.](https://flukeout.github.io/) Try to complete levels 1-6 to practice using CSS selectors.
+## Introduction to CSS
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week05/IntroductionToCss.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
-## More HTML - `<div>` and `<span>` PowerPoint Presentation
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week05/MoreHtml.pptx' width='100%' height='450px' frameborder='0'></iframe>
+## CSS Selectors & Properties
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week05/CssSelectorsAndProperties.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
-## Code-Along: Pixels
-[Click here for the code-along activity instructions.](PixelsCodeAlong.md)
+## Code-Along
+[Click here for the code-along **starter code**.](https://hytop.onrender.com/e/bananas) | [Direct Source Code](BananasSource.md)
 
-## Self-Paced Work: Pixel Updates
-[Click here for the self-paced work instructions.](SelfPacedWork.md).
+[Click here for the code-along instructions.](BananasFollowAlong.md)
 
-## Challenges
-[Click here for some additional challenges.](Challenges.md)
-
-## Resources
-[Click here to read more about CSS Selectors.](https://www.fffuel.co/css-selectors/)
+## Self-Paced Work: Final Project CSS
+This week, any remaining time should be spent adding some CSS styles to your final project site! [Click here for instructions.](FinalProjectCss.md)

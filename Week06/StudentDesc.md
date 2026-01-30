@@ -1,13 +1,23 @@
-# Responsive Design
-Learn how to make webpages function properly on different types of devices using responsive design and bootstrap. Review the PowerPoint presentation, then complete the [Magazine Website Follow-Along](MagazineWebsiteFollowAlongWithCode.md) activity.
+# Divs and Spans
+Learn how to use HTML `<div>` and `<span>` elements, along with some new CSS selectors, to do even more with CSS.
 
-## Responsive Design
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week06/ResponsiveDesign.pptx' width='100%' height='450px' frameborder='0'></iframe>
+## More CSS Selectors PowerPoint Presentation
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week06/MoreSelectors.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
-## Code-Along
-- [Magazine Website Starter Code](https://hytop.onrender.com/e/onlinemagazine)
-- [Magazine Website Instructions](MagazineWebsiteFollowAlongWithCode.md)
+## CSS Diner Activity
+[Click here to access the online game.](https://flukeout.github.io/) Try to complete levels 1-6 to practice using CSS selectors.
 
-## Resources & Challenges
-- [More Bootstrap Challenge](MoreBootstrapChallenge.md)
-- [Newspaper Layout](https://codepen.io/gc-nomade/pen/GRXdPN)
+## More HTML - `<div>` and `<span>` PowerPoint Presentation
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week06/MoreHtml.pptx' width='100%' height='450px' frameborder='0'></iframe>
+
+## Code-Along: Pixels
+[Click here for the code-along activity instructions.](PixelsCodeAlong.md)
+
+## Self-Paced Work: Pixel Updates
+[Click here for the self-paced work instructions.](SelfPacedWork.md).
+
+## Challenges
+[Click here for some additional challenges.](Challenges.md)
+
+## Resources
+[Click here to read more about CSS Selectors.](https://www.fffuel.co/css-selectors/)
