@@ -3,4 +3,4 @@ Create a final project for the course! Follow the guidelines in the [Project Des
 
 ## Reference
 - [Project Description](FinalProject.md)
-- [Project Ideas](ProjectIdeas.md)]
+- [Project Ideas](ProjectIdeas.md)
