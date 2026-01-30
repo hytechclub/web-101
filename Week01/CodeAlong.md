@@ -6,7 +6,7 @@ In this activity, use HTML and CSS to create a website about yourself!
 ## Getting Started
 [Click here to open the starter project](https://hytop.onrender.com/e/webstart)
 
-That's it! You should be all set, and ready to code.
+You will have to _fork_ the project, and then you'll be ready to code!
 
 ## First Challenge: Looking at the HTML
 Make sure the **index.html** file is selected on the left to view the HTML code. Notice how the code in the HTML creates the text on the website. Everything in HTML goes between _tags_, which tell the website what type of element to display. 
