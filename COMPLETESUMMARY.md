@@ -33,5 +33,5 @@
 - [Final Project](WeekFinalProject/StudentDesc.md)
   - [Project Description](WeekFinalProject/FinalProject.md)
   - [Project Ideas](WeekFinalProject/ProjectIdeas.md)
-- [HTML Cheatsheet](Week03/HtmlCheatsheet.md)
+- [HTML Cheatsheet](Week04/HtmlCheatsheet.md)
 - [CSS Cheatsheet](WeekFinalProject/CssCheatsheet.md)
