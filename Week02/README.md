@@ -15,7 +15,7 @@ For this lesson's content, cover HTML's most-used elements. The primary focus of
 ## Warm-Up
 For a warm-up this week, do a quick form icebreaker. [Open the form here.](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=iNuljKul90il4EzlCTX4B33juYEmlJlJpIkctSGCv9RUODk5QUQwSE1VS1NaS0RKOTlON05TSVIzVS4u&Token=bb860232bab6460fab03cc488fd13c20)
 
-When it's open, click "Present" in the upper right to see responses as they arrive. Discuss student answers as desired - and note that this same form will be used for both the virtual and in-person classrooms.
+When it's open, click "Present" in the upper right to see responses as they arrive. Discuss student answers as desired - and note that this same form from the past, so there are some old answers.
 
 The other important piece of this warm-up is the opportunity for students to consider final project ideas. They will have a chance to start a final project during the self-paced work portion of the lesson. When there is time to work on their projects, they should prioritize the vision, planning, and content over the HTML/CSS code - this will make it a little more flexible as the new lessons inform the possibilities for the sites.
 
@@ -25,13 +25,12 @@ This [presentation](BasicHtmlElements.pptx) focuses mostly on how different elem
 ## Group Activity: Name That Element
 Facilitate the [Name That Element](NameThatElement.pptx) game. For each element, instructors can ask multiple questions, and call on students randomly.
 
-## Code-Along Activity: Pizza Website
-Students will begin to create a website for a pizza restaurant which includes a list of locations and an order form: [PizzaWebsiteCodeAlong](PizzaWebsiteCodeAlong.md)
+## Code-Along Activity: About Me Website
+Students will create a website about themselves: [AboutMeCodeAlong](AboutMeCodeAlong.md)
 
-## Self-Paced Work: Pizza Website Updates
-Students will update their pizza website: [PizzaWebsiteSelfPacedWork](PizzaWebsiteSelfPacedWork.md)
+## Self-Paced Work: Challenges / Final Project Ideas
+After the code-along activity, students should have some time to work on their own. They can do any number of things:
 
-They are also, always, encouraged to continue work on their final projects! They should consider ways to update their site with the new elements covered in this week's lesson.
-
-## Challenges
-There are a wide variety of challenges for the students to tackle.
+- Keep working on their "About Me" websites (possibly [adding multiple pages](MultipleHtmlFilesChallenge.md))
+- Work on a challenge (like a [text-based "Choose Your Own Adventure" game](ChooseYourOwnAdventureChallenge.md) or [movie search](MovieSearchChallenge.md))
+- Think of how they can use the HTML elements from this lesson to update their final projects

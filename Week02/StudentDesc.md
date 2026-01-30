@@ -7,13 +7,12 @@ Learn how to use some of the basic HTML elements: headers, paragraphs, hyperlink
 ## HTML Elements PowerPoint Presentation
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week02/BasicHtmlElements.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
-## Pizza Website Code-Along
-[Pizza Website Code-Along](PizzaWebsiteCodeAlong.md)
+## About Me Code-Along
+[About Me Code-Along](AboutMeCodeAlong.md)
 
-## Pizza Website Self-Paced Work
-[Pizza Website Self-Paced Work](PizzaWebsiteSelfPacedWork.md)
+## Self-Paced Work
+After the code-along, here are some options:
 
-## Challenges
-- [Multiple Pages](Challenges/MultipleHtmlFilesChallenge.md)
-- [Choose Your Adventure](Challenges/ChooseYourOwnAdventureChallenge.md)
-- [Movie Search](Challenges/MovieSearchChallenge.md)
+- Add to your "About Me" site (possibly [adding multiple pages](MultipleHtmlFilesChallenge.md))
+- Complete a challenge (like a [text-based "Choose Your Own Adventure" game](ChooseYourOwnAdventureChallenge.md) or [movie search](MovieSearchChallenge.md))
+- Work on your final project

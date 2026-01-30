@@ -1,5 +1,7 @@
 # Challenge: Oscars Website
-Create a website for the [96th Annual Academy Awards](https://en.wikipedia.org/wiki/96th_Academy_Awards). Start by creating a new HTML file and adding the basic elements to it (including a header that says "96th Academy Awards"). Then, complete the exercises below on the webpage.
+Create a website for the [98th Annual Academy Awards](https://en.wikipedia.org/wiki/98th_Academy_Awards). Start by creating a new HTML file and adding the basic elements to it (including a header that says "98th Academy Awards"). Then, complete the exercises below on the webpage.
+
+>**NOTE:** This activity was not updated for 2026. So please use the updated nominations for this year instead of these.
 
 ## Multiple Nominations Table
 Recreate the table below.
