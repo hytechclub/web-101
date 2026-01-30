@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Final Project · GitBook</title>
+        <title>Animation Follow-Along · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -63,10 +63,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="FinalProject.html" />
+    <link rel="next" href="AdditionalChallenges.html" />
     
     
-    <link rel="prev" href="../Week08/Resources.html" />
+    <link rel="prev" href="EndangeredSpeciesCodeAlong.html" />
     
 
     </head>
@@ -507,9 +507,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.9" data-path="../Week08/StudentDesc.html">
+        <li class="chapter " data-level="1.9" data-path="StudentDesc.html">
             
-                <a href="../Week08/StudentDesc.html">
+                <a href="StudentDesc.html">
             
                     
                     Week 8 - Transitions & Transforms
@@ -521,9 +521,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.9.1" data-path="../Week08/EndangeredSpeciesCodeAlong.html">
+        <li class="chapter " data-level="1.9.1" data-path="EndangeredSpeciesCodeAlong.html">
             
-                <a href="../Week08/EndangeredSpeciesCodeAlong.html">
+                <a href="EndangeredSpeciesCodeAlong.html">
             
                     
                     Endangered Species Code-Along
@@ -534,9 +534,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.9.2" data-path="../Week08/AnimationFollowAlong.html">
+        <li class="chapter active" data-level="1.9.2" data-path="AnimationFollowAlong.html">
             
-                <a href="../Week08/AnimationFollowAlong.html">
+                <a href="AnimationFollowAlong.html">
             
                     
                     Animation Follow-Along
@@ -547,9 +547,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.9.3" data-path="../Week08/AdditionalChallenges.html">
+        <li class="chapter " data-level="1.9.3" data-path="AdditionalChallenges.html">
             
-                <a href="../Week08/AdditionalChallenges.html">
+                <a href="AdditionalChallenges.html">
             
                     
                     Additional Challenges
@@ -560,9 +560,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.9.4" data-path="../Week08/Resources.html">
+        <li class="chapter " data-level="1.9.4" data-path="Resources.html">
             
-                <a href="../Week08/Resources.html">
+                <a href="Resources.html">
             
                     
                     Resources
@@ -578,9 +578,9 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.10" data-path="StudentDesc.html">
+        <li class="chapter " data-level="1.10" data-path="../WeekFinalProject/StudentDesc.html">
             
-                <a href="StudentDesc.html">
+                <a href="../WeekFinalProject/StudentDesc.html">
             
                     
                     Final Project
@@ -592,9 +592,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.10.1" data-path="FinalProject.html">
+        <li class="chapter " data-level="1.10.1" data-path="../WeekFinalProject/FinalProject.html">
             
-                <a href="FinalProject.html">
+                <a href="../WeekFinalProject/FinalProject.html">
             
                     
                     Project Description
@@ -605,9 +605,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.10.2" data-path="ProjectIdeas.html">
+        <li class="chapter " data-level="1.10.2" data-path="../WeekFinalProject/ProjectIdeas.html">
             
-                <a href="ProjectIdeas.html">
+                <a href="../WeekFinalProject/ProjectIdeas.html">
             
                     
                     Project Ideas
@@ -636,9 +636,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.12" data-path="CssCheatsheet.html">
+        <li class="chapter " data-level="1.12" data-path="../WeekFinalProject/CssCheatsheet.html">
             
-                <a href="CssCheatsheet.html">
+                <a href="../WeekFinalProject/CssCheatsheet.html">
             
                     
                     CSS Cheatsheet
@@ -679,7 +679,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >Final Project</a>
+        <a href=".." >Animation Follow-Along</a>
     </h1>
 </div>
 
@@ -694,13 +694,94 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="final-weeks">Final Weeks</h1>
-<p>Create a final project for the course! Follow the guidelines in the <a href="FinalProject.html">Project Description</a>, and check out the <a href="ProjectIdeas.html">Project Ideas</a> page for some ideas.</p>
-<h2 id="reference">Reference</h2>
+                                <h1 id="animation-follow-along">Animation: Follow-Along</h1>
+<blockquote>
+<p>Reference: <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations" target="_blank">https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations</a></p>
+</blockquote>
+<p>Use CSS to animate the <code>background-color</code> property on a webpage!</p>
+<h2 id="setup">Setup</h2>
+<ol>
+<li>Create a new HTML file, and add the basic tags - <code>html</code>, <code>head</code>, <code>body</code></li>
+<li>Create a new CSS file</li>
+<li>In the HTML file, within the <code>&lt;head&gt;&lt;/head&gt;</code> element, add a <code>link</code> element that links the CSS file</li>
+</ol>
+<h2 id="defining-an-animation-with-keyframes">Defining an Animation with Keyframes</h2>
+<p>When animating using CSS, the styles are defined at certain <strong>keyframes</strong>. These keyframes represent the styles of an element at a given point in time, during the animation cycle.</p>
+<p>To make the background color black at the very beginning of the animation (or, <code>0%</code> of the way through), the keyframe would look like a normal CSS ruleset, but with <code>0%</code> as the selector. Add the following code in the CSS file:</p>
+<pre><code class="lang-css">0% {
+    <span class="hljs-attribute">background-color</span>: black;
+}
+</code></pre>
+<p>Next, to make the background color darkred at the end of the animation, add the following ruleset:</p>
+<pre><code class="lang-css">100% {
+    <span class="hljs-attribute">background-color</span>: darkred;
+}
+</code></pre>
+<p>Now, all that&apos;s left is to put these two keyframes together is an <code>@keyframes</code> ruleset that includes both frames. A keyframes ruleset consists of:</p>
 <ul>
-<li><a href="FinalProject.html">Project Description</a></li>
-<li><a href="ProjectIdeas.html">Project Ideas</a>]</li>
+<li><code>@keyframes</code></li>
+<li>animation name</li>
+<li>curly brackets (<code>{}</code>)</li>
+<li>frame rulesets</li>
 </ul>
+<p>Add the following code to define a new keyframes ruleset named &quot;pulse&quot; that will change the background color from black to red:</p>
+<pre><code class="lang-css">@<span class="hljs-keyword">keyframes</span> pulse {
+    0% {
+        <span class="hljs-attribute">background-color</span>: black;
+    }
+
+    100% {
+        <span class="hljs-attribute">background-color</span>: darkred;
+    }
+}
+</code></pre>
+<h2 id="using-an-animation-on-an-html-element">Using an Animation on an HTML Element</h2>
+<p>After defining an animation&apos;s keyframes, it must be applied to an element to take effect. Apply this animation to the whole page by selecting the <code>body</code> in the CSS file, and creating a declaration that points to the &quot;pulse&quot; animation.</p>
+<ol>
+<li>In the CSS file, create a new ruleset that will apply to the entire <code>body</code></li>
+<li>Within the <code>body</code> ruleset, create a new declaration with a property of <code>animation</code></li>
+<li>There are many options for the <code>animation</code> property:<ul>
+<li><code>animation-duration</code> configures the length of time that an animation should take to complete one cycle</li>
+<li><code>animation-iteration-count</code> configures the number of times the animation should repeat</li>
+<li><code>animation-timing-function</code> configures the timing of the animation</li>
+<li><code>animation-direction</code> configures whether or not the animation should alternate direction on each run through the sequence</li>
+<li><code>animation-name</code> specifies the name of the keyframes ruleset describing the animation&apos;s keyframes</li>
+</ul>
+</li>
+<li>To put them all together, list each value separated by a space:<ul>
+<li><code>4s</code> so the animation takes four seconds to complete</li>
+<li><code>infinite</code> so the animation goes on forever</li>
+<li><code>linear</code> so the animation happens smoothly</li>
+<li><code>alternate</code> so the animation goes smoothly beetween black and red</li>
+<li><code>pulse</code> so the animation uses the keyframes specified by the &quot;pulse&quot; ruleset</li>
+</ul>
+</li>
+</ol>
+<pre><code class="lang-css"><span class="hljs-selector-tag">body</span> {
+    <span class="hljs-attribute">animation</span>: <span class="hljs-number">4s</span> infinite linear alternate pulse;
+}
+</code></pre>
+<h2 id="adding-another-keyframe">Adding Another Keyframe</h2>
+<p>With the keyframes ruleset set up, it&apos;s easy to add an additional frame at any point in the animation cycle. Add a frame at <code>50%</code> of the way through that sets the background color to pink.</p>
+<h2 id="code">Code</h2>
+<pre><code class="lang-css"><span class="hljs-selector-tag">body</span> {
+    <span class="hljs-attribute">animation</span>: <span class="hljs-number">4s</span> infinite linear alternate pulse;
+}
+
+@<span class="hljs-keyword">keyframes</span> pulse {
+    0% {
+        <span class="hljs-attribute">background-color</span>: black;
+    }
+
+    50% {
+        <span class="hljs-attribute">background-color</span>: pink;
+    }
+
+    100% {
+        <span class="hljs-attribute">background-color</span>: darkred;
+    }
+}
+</code></pre>
 
                                 
                                 </section>
@@ -728,12 +809,12 @@
 
             
                 
-                <a href="../Week08/Resources.html" class="navigation navigation-prev " aria-label="Previous page: Resources">
+                <a href="EndangeredSpeciesCodeAlong.html" class="navigation navigation-prev " aria-label="Previous page: Endangered Species Code-Along">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="FinalProject.html" class="navigation navigation-next " aria-label="Next page: Project Description">
+                <a href="AdditionalChallenges.html" class="navigation navigation-next " aria-label="Next page: Additional Challenges">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -744,7 +825,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Final Project","level":"1.10","depth":1,"next":{"title":"Project Description","level":"1.10.1","depth":2,"path":"WeekFinalProject/FinalProject.md","ref":"WeekFinalProject/FinalProject.md","articles":[]},"previous":{"title":"Resources","level":"1.9.4","depth":2,"path":"Week08/Resources.md","ref":"Week08/Resources.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","scripts"],"pluginsConfig":{"scripts":{"files":["./passwordProtectedPages.js"]},"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"COMPLETESUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"}},"file":{"path":"WeekFinalProject/StudentDesc.md","mtime":"2026-01-30T19:56:58.818Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2026-01-30T19:57:29.923Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Animation Follow-Along","level":"1.9.2","depth":2,"next":{"title":"Additional Challenges","level":"1.9.3","depth":2,"path":"Week08/AdditionalChallenges.md","ref":"Week08/AdditionalChallenges.md","articles":[]},"previous":{"title":"Endangered Species Code-Along","level":"1.9.1","depth":2,"path":"Week08/EndangeredSpeciesCodeAlong.md","ref":"Week08/EndangeredSpeciesCodeAlong.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","scripts"],"pluginsConfig":{"scripts":{"files":["./passwordProtectedPages.js"]},"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"COMPLETESUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"}},"file":{"path":"Week08/AnimationFollowAlong.md","mtime":"2026-01-30T19:56:58.817Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2026-01-30T19:57:29.923Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
