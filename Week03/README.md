@@ -21,7 +21,7 @@ Present the [More HTML Elements](MoreHtmlElements.pptx) lecture.
     - Lists (unordered/ordered)
     - Inputs
     - Tables
-    - Iframes
+    - IFrames
 
 Examples are available via JSFiddle links.
 
