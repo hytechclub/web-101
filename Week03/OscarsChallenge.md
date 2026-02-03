@@ -17,7 +17,7 @@ In order to properly match the table from the image, research the following conc
 
 Make sure to use the anchor element to hyperlink each film in the table.
 
-## Oppenheimer Table
+## Wicked Table
 Recreate the table below. 
 
 ![](Assets/WickedNominations2.png)
