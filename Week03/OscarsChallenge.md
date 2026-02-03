@@ -6,7 +6,7 @@ Create a website for the [98th Annual Academy Awards](https://en.wikipedia.org/w
 ## Multiple Nominations Table
 Recreate the table below.
  
-![](Assets/MultipleNoms97.png)
+![](Assets/MultipleNoms972.png)
 
 In order to properly match the table from the image, research the following concepts:
 
@@ -20,7 +20,7 @@ Make sure to use the anchor element to hyperlink each film in the table.
 ## Oppenheimer Table
 Recreate the table below. 
 
-![](Assets/WickedNominations.png)
+![](Assets/WickedNominations2.png)
 
 In order to properly match the table from the image, research the following concepts:
 

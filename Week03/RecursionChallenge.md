@@ -8,7 +8,7 @@ Create a table that contains a table that contains a table that contains a table
 
 It should look something like this:
 
-![](Assets/NestedTables.png)
+![](Assets/NestedTables2.png)
 
 Try changing the colors of the table cells, the number of rows, or anything else to make it look interesting!
 
