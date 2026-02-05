@@ -14,5 +14,5 @@ Learn how to use some of the basic HTML elements: headers, paragraphs, hyperlink
 After the code-along, here are some options:
 
 - Add to your "About Me" site (possibly [adding multiple pages](MultipleHtmlFilesChallenge.md))
-- Complete a challenge (like a [text-based "Choose Your Own Adventure" game](ChooseYourOwnAdventureChallenge.md) or [movie search](MovieSearchChallenge.md))
+- Complete a challenge: a [text-based "Choose Your Own Adventure" game](ChooseYourOwnAdventureChallenge.md)
 - Work on your final project

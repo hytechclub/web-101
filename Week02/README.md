@@ -30,5 +30,5 @@ Students will create a website about themselves: [AboutMeCodeAlong](AboutMeCodeA
 After the code-along activity, students should have some time to work on their own. They can do any number of things:
 
 - Keep working on their "About Me" websites (possibly [adding multiple pages](MultipleHtmlFilesChallenge.md))
-- Work on a challenge (like a [text-based "Choose Your Own Adventure" game](ChooseYourOwnAdventureChallenge.md) or [movie search](MovieSearchChallenge.md))
+- Create a [text-based "Choose Your Own Adventure" game](ChooseYourOwnAdventureChallenge.md)
 - Think of how they can use the HTML elements from this lesson to update their final projects
