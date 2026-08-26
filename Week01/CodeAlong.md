@@ -66,7 +66,7 @@ This is looking rad, but what's missing? Almost every website has at least one i
 ### Finding an Image
 The first thing to do is find an image. Images on websites have URLs which tell the browser where to look for them. Follow the instructions below to find the URL (or _address_) of an image, and copy it.
 
-1. Open a new browser tab and go to [Google Images](https://google.com/images/)
+1. Open a new browser tab and go to [Google Images](https://www.google.com/imghp?hl=en&tab=ri&ogbl)
 1. Search for something appropriate (such as "cats")
 1. Click on the image you would like to use
 1. When it appears, right click and select "Copy image address"
