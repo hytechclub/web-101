@@ -1,8 +1,8 @@
 # Web 101: HTML & CSS
 Welcome to the Web 101 Hy-Tech Club course!
 
-## HyTop
-[Click here to go to HyTop.](https://hytop.onrender.com/)
+## HyTOP
+[Click here to go to HyTOP.](https://hytop.onrender.com/)
 
 ## Schedule
 Follow the links below to view each week of material.
