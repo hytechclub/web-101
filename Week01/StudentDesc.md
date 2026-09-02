@@ -4,10 +4,8 @@ For the first week, your mission is to get to know your fellow students a little
 ## Welcome Presentation
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechclub.com/web-101/Week01/Welcome.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
-## HyTop Setup
-[Click here to register for HyTop.](https://hytop.onrender.com/register)
-
-Make sure to remember your username and password!
+## HyTOP Setup
+[Click here for HyTOP setup instructions.](https://hylandtechclub.com/HyTopSetup.html) By the end, you should have an account, and you should be enrolled in your course!
 
 ## Code-Along: Building a Website
 **[Click here for the starter project.](https://hytop.onrender.com/e/webstart)**
