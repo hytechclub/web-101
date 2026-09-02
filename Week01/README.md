@@ -39,7 +39,7 @@ Because this is the first session of club, introductory segments like the icebre
 After students have warmed up with the icebreaker, it's time for the presentation portion of the [PowerPoint](Welcome.pptx). These slides contain a brief introduction to HTML and CSS, and there are talking points in the slide notes.
 
 ### HyTOP
-Make sure each student [creates a HyTOP account](https://hytop.onrender.com/register). When they do this, they should also enroll in the proper course!
+Make sure each student [creates a HyTOP account](https://hytop.onrender.com/#register). When they do this, they should also enroll in the proper course! You should also go and confirm each student who joins.
 
 ### Code-Along
 The next few slides introduce the [code-along activity](CodeAlong.md). Have students open the starter project opened from the [lesson homepage](StudentDesc.md). Make sure they can see the site and edit the code. From there, follow the [code-along instructions](CodeAlong.md) to show the students how to build their own websites!
