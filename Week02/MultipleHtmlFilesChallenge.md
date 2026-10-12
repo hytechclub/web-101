@@ -4,8 +4,6 @@ Often, websites will consist of multiple webpages, each with their own informati
 ## Instructions
 For each of the items listed below, create a **new** HTML page. Make sure to name it with a `.html` at the end. On the pages, include a header, some paragraphs, some images, and possibly links.
 
-- Family
-    - Fill the HTML page with information about your family tree and family history (include pets)
 - Interest
     - Write in-depth about an interest of yours (e.g., sports, music, art, fashion, writing, etc)
 - Career Aspiration
